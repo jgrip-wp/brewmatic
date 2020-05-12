@@ -75,6 +75,7 @@
         <div class="contents_main">
           <div class="inner">
             <h2 class="page_title"><span class="page_title_en fonten">SSSS</span>BBBBBBBBBBB</h2>
+            
           </div>
         </div>
         <!-- /contents_main --> 
