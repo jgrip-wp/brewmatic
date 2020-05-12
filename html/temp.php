@@ -24,7 +24,7 @@
 </head>
 <body>
   <div id="wrapper">
-    <input type="hidden" id="pageID" value="">
+    <input type="hidden" id="pageID" value="gNav01">
     <?php include( $_SERVER['DOCUMENT_ROOT'] . '/include/head.php'); ?>
 
 

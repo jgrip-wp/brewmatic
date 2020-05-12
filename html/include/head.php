@@ -5,7 +5,7 @@
             <h1 class="head_logo"><a href="/"><img src="/images/common/logo_head_pc.png" alt="BREW MATIC"></a></h1>
             <div class="head_navi">
               <p class="head_navi_up"><a href="#">About us</a><a href="#">Sustainability</a><a href="#">採用情報</a><a href="#">よくあるご質問</a><span class="head_search"><input type="text"  placeholder="検索する"></span></p>
-              <p class="head_navi_down"><a href="#">ブランド一覧</a><a href="#">サポートのご案内</a><a href="#">コーヒーマシンの選び方</a><a href="#">Life with Coffee</a><a href="#">オンラインショップ</a></p>
+              <p class="head_navi_down"><a href="#" id="gNav01">ブランド一覧</a><a href="#" id="gNav02">サポートのご案内</a><a href="#" id="gNav03">コーヒーマシンの選び方</a><a href="#" id="gNav04">Life with Coffee</a><a href="#" id="gNav05">オンラインショップ</a></p>
             </div>
             <div class="head_menu visiblets">
               <p class="js-navbar"><img src="/images/common/open_menu.png" alt=""></p>
