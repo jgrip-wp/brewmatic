@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+.brand_detail {
+  padding: 60px 0 100px;
+}
+
+.brand_intro {
+  overflow: hidden;
+}
+.brand_intro_img {
+  float: left;
+  margin-right: 45px;
+}
+.brand_intro_cont {
+  overflow: hidden;
+  border-left: 1px #dcdcdc solid;
+  padding-left: 25px;
+}
+.brand_box_img {
+  margin-bottom: 25px;
+}
+.brand_box_tit {
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+.brand_box_txt {
+  line-height: 1.8;
+}
+
+
+@media screen and (max-width: 1080px) {
+  
+}
+@media screen and (max-width: 768px) {
+  
+}
+

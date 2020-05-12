@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+.rule_list li+li {
+  margin-top: 20px;
+}
+.rule_list li {
+  text-indent: -2.5em;
+  padding-left: 2.5em;
+}
+.rule_list span {
+  font-size: 19px;
+}
+
+
+

@@ -1,0 +1,50 @@
+@charset "utf-8";
+
+.privacy_list > li+li {
+  margin-top: 50px;
+}
+.privacy_list_tit {
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+.privacy_list_tit span {
+  font-size: 22px;
+}
+.privacy_list_txt {
+  line-height: 1.7;
+}
+.privacy_list_num {
+  padding: 10px 0 0 40px;
+}
+.privacy_list_num span {
+  font-size: 19px;
+}
+.privacy_message {
+  margin-top: 70px;
+  text-align: right;
+}
+@media screen and (max-width: 768px) {
+.privacy_list > li+li {
+  margin-top: 30px;
+}
+.privacy_list_tit {
+  margin-bottom: 5px;
+}
+.privacy_list_num {
+  padding: 10px 0 0 20px;
+}
+.privacy_message {
+  margin-top: 40px;
+}
+}
+
+
+
+@media screen and (max-width: 1080px) {
+  
+}
+@media screen and (max-width: 768px) {
+  
+}
+
