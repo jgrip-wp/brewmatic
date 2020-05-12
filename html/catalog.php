@@ -24,7 +24,7 @@
 </head>
 <body>
   <div id="wrapper">
-    <input type="hidden" id="pageID" value="gNav01">
+    <input type="hidden" id="pageID" value="">
     <?php include( $_SERVER['DOCUMENT_ROOT'] . '/include/head.php'); ?>
 
 
@@ -33,28 +33,96 @@
         <p id="breadcrumb" class="op"><a href="/" class="home fonten">Top</a> > 総合カタログのご請求</p>
         <div class="contents_main">
           <div class="inner">
-            <h2 class="page_title"><span class="page_title_en fonten">SSSS</span>BBBBBBBBBBB</h2>
+            <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">Catalog</span>総合カタログのご請求</h2>
+            <p class="page_title_detail wow fadeIn">取り扱いマシンを紹介した総合カタログをご用意しています。</p>
             <div class="contents_main_box">
-              <div class="box_yellow">
-                box_yellow box_yellow box_yellow box_yellow
+              <div class="catalog_content">
+                <p class="catalog_comment op wow fadeIn">総合カタログのPDFは<a href="#">こちらからダウンロード</a>していただけます。<br>印刷したカタログが必要な方は、下記のお問合せフォームよりご連絡ください。<br>※お客様の個人情報は厳重に取扱いお問い合わせに対応させていただくための目的のみに利用致します。</p>
+                <div class="common_form wow fadeIn">
+                  <form action="">
+                    <table>
+                      <tr>
+                        <th>お名前<span>※</span></th>
+                        <td>
+                          <input type="text" class="form_input" name="parm[name]">
+                        </td>
+                      </tr>
+                      <tr>
+                        <th>貴社名</th>
+                        <td>
+                          <input type="text" class="form_input" name="parm[company]">
+                        </td>
+                      </tr>
+                      <tr>
+                        <th>部署名</th>
+                        <td>
+                          <input type="text" class="form_input" name="parm[section]">
+                        </td>
+                      </tr>
+                      <tr>
+                        <th>お役職</th>
+                        <td>
+                          <input type="text" class="form_input" name="parm[position]">
+                        </td>
+                      </tr>
+                      <tr class="contact_tr">
+                        <th>連絡先<span>※</span></th>
+                        <td>
+                          <div class="form_telmail_box">
+                            <div class="telmail_text">電話番号</div>
+                            <input type="text" class="telmail_input" name="parm[tel]">
+                          </div>
+                          <div class="form_telmail_box">
+                            <div class="telmail_text">E-mail</div>
+                            <input type="text" class="telmail_input" name="parm[mail]">
+                          </div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <th>ご住所<span>※</span></th>
+                        <td>
+                          <input type="text" class="form_input" name="parm[address]">
+                        </td>
+                      </tr>
+                      <tr>
+                        <th>興味のあるマシン・ツールの分野<span>※</span></th>
+                        <td>
+                          <div class="checkbox_wrap">
+                            <label for="machine_tools01">
+                              <input type="checkbox" class="form_checkbox" name="parm[machine_tools01]" id="machine_tools01">業務用
+                            </label>
+                            <label for="machine_tools02">
+                              <input type="checkbox" class="form_checkbox" name="parm[machine_tools02]" id="machine_tools02">家庭用
+                            </label>
+                            <label for="machine_tools03">
+                              <input type="checkbox" class="form_checkbox" name="parm[machine_tools03]" id="machine_tools03">オフィス用
+                            </label>
+                            <label for="machine_tools04">
+                              <input type="checkbox" class="form_checkbox" name="parm[machine_tools04]" id="machine_tools04">その他
+                            </label>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr class="textarea_tr">
+                        <th>備考</th>
+                        <td>
+                          <textarea name="parm[remarks]" class="form_textarea"></textarea>
+                        </td>
+                      </tr>
+                    </table>
+                    <div class="form_privacy op">
+                      <label for="privacy">
+                        <input type="checkbox" class="form_checkbox" name="parm[privacy]" id="privacy"><a href="#" target="_blank">個人情報保護方針</a>に同意します
+                      </label>
+                    </div>
+                    <div class="form_btn">
+                      <button type="submit">上記の内容で送信する</button>
+                    </div>
+                  </form>
+                </div>
+                <!-- /catalog_form -->
               </div>
-              <br><br>
-              <h3 class="page_title_mid">HHHHHHHHHHHHH</h3>
-              <br><br>
-              <table class="common_table">
-                <tr>
-                  <th>HHHHHHH</th>
-                  <td>DDDDDDDDDD</td>
-                </tr>
-                <tr>
-                  <th>HHHHHHH</th>
-                  <td>DDDDDDDDDD</td>
-                </tr>
-                <tr>
-                  <th>HHHHHHH</th>
-                  <td>DDDDDDDDDD</td>
-                </tr>
-              </table>
+              <!-- /catalog_content -->
             </div>
           </div>
         </div>

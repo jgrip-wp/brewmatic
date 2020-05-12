@@ -1,2 +1,221 @@
 @charset "utf-8";
 
+
+.catalog_content{
+	padding: 54px 0 0;
+	max-width: 850px;
+	margin: 0 auto;
+}
+.catalog_comment{
+	font-size: 14px;
+	line-height: 26px;
+	color: #1c1c1c;
+}
+.catalog_comment a{
+	color: #005bac;
+}
+@media screen and (max-width: 768px) {
+.catalog_content{
+	padding: 0;
+	max-width: 100%;
+	margin: 0;
+}
+}
+
+/*common_form*/
+.common_form{
+	padding: 34px 0 0;
+}
+.common_form table{
+	width: 100%;
+	border-collapse: separate;
+	border-spacing:0px 40px;
+}
+.common_form th{
+	width: 190px;
+	padding: 0 32px 0 0;
+	font-size: 16px;
+	line-height: 26px;
+	font-weight: 500;
+}
+.common_form .contact_tr th{
+	vertical-align: top;
+	padding-top: 12px;
+}
+.common_form .textarea_tr th{
+	vertical-align: top;
+}
+.common_form th span{
+	font-size: 13px;
+	margin: 0 0 0 8px;
+	color: #ae1000;
+}
+.common_form td{
+	height: 50px;
+}
+.common_form .form_input{
+	display: block;
+	width: 100%;
+	border: 1px solid #b7b7b7;
+	height: 50px;
+	padding: 5px 8px;
+	box-sizing: border-box;
+	font-size: 16px;
+}
+.common_form .form_textarea{
+	display: block;
+	width: 100%;
+	font-family: 'Noto Sans JP', sans-serif;
+	font-size: 16px;
+	height: 150px;
+	padding: 5px;
+	box-sizing: border-box;
+	resize: none;
+}
+.form_telmail_box{
+	position: relative;
+}
+.form_telmail_box + .form_telmail_box{
+	margin: 40px 0 0;
+}
+.form_telmail_box .telmail_input{
+	display: block;
+	width: 100%;
+	border: 1px solid #b7b7b7;
+	height: 50px;
+	padding: 5px 8px 5px 100px;
+	box-sizing: border-box;
+	font-size: 16px;
+}
+.form_telmail_box .telmail_text{
+	position: absolute;
+	left: 0;
+	top: 50%;
+	width: 90px;
+	transform: translateY(-50%);
+	border-right: 1px solid #b7b7b7;
+	text-align: center;
+	font-size: 14px;
+	line-height: 26px;
+}
+.checkbox_wrap{
+	font-size: 16px;
+	line-height: 22px;
+}
+.checkbox_wrap label{
+	display: inline-block;
+	margin: 14px 30px 14px 0;
+}
+.common_form .form_checkbox{
+	display: inline-block;
+	width: 22px;
+	margin: 0 8px 0 0;
+}
+.common_form .form_privacy{
+	text-align: center;
+	margin: 10px 0 0;
+}
+.common_form .form_privacy label{
+	display: inline-block;
+	font-size: 14px;
+	line-height: 22px;
+	margin: 0 8px 0 0;
+}
+.common_form .form_privacy a{
+	color: #005bac;
+}
+.common_form .form_btn{
+	text-align: center;
+	margin: 34px 0 0;
+}
+.common_form .form_btn button{
+	display: inline-block;
+	width: 288px;
+	height: 66px;
+	text-align: center;
+	font-family: 'Noto Sans JP', sans-serif;
+	font-size: 16px;
+	line-height: 64px;
+	color: #fff;
+	letter-spacing: 3px;
+	background: #1c1c1c;
+	-webkit-appearance:none;
+	outline:none;
+	border: 1px solid #1c1c1c;
+	cursor: pointer;
+	transition: all .5s ease;
+}
+.common_form .form_btn button:hover{
+	background: #fff;
+	color: #1c1c1c;
+}
+@media screen and (max-width: 768px) {
+.common_form table,
+.common_form tbody,
+.common_form tr,
+.common_form th,
+.common_form td{
+	display: block;
+	width: 100%;
+}
+.common_form th{
+	padding: 5px 0;
+}
+.common_form .contact_tr th{
+	vertical-align: initial;
+	padding-top: 0;
+}
+.common_form .textarea_tr th{
+	vertical-align: initial;
+}
+.common_form td{
+	height: auto;
+	padding: 0 0 20px;
+}
+.common_form .form_input{
+	height: 40px;
+}
+.form_telmail_box + .form_telmail_box{
+	margin: 20px 0 0;
+}
+.form_telmail_box .telmail_input{
+	height: 40px;
+	padding: 5px 8px 5px 80px;
+}
+.form_telmail_box .telmail_text{
+	width: 70px;
+	font-size: 12px;
+	line-height: 24px;
+}
+.checkbox_wrap{
+	font-size: 16px;
+	line-height: 22px;
+}
+.checkbox_wrap label{
+	display: block;
+	margin: 10px 0;
+}
+.common_form .form_btn{
+	margin: 20px 0 0;
+}
+.common_form .form_btn button{
+	width: 280px;
+	height: 56px;
+	font-size: 16px;
+	line-height: 54px;
+	letter-spacing: 2px;
+	background: #1c1c1c;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
