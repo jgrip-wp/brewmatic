@@ -70,10 +70,16 @@
     </header>
 
     <article>
-      <div id="main-contents">
-        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+      <div id="contents">
+        <p id="breadcrumb" class="op"><a href="/" class="home fonten">Top</a> > <a href="#">222222</a> > 333333</p>
+        <div class="contents_main">
+          <div class="inner">
+            <h2 class="page_title"><span class="page_title_en fonten">SSSS</span>BBBBBBBBBBB</h2>
+          </div>
+        </div>
+        <!-- /contents_main --> 
       </div>
-      <!-- /main-contents --> 
+      <!-- /contents --> 
 
     </article>
 
