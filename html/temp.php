@@ -34,7 +34,28 @@
         <div class="contents_main">
           <div class="inner">
             <h2 class="page_title"><span class="page_title_en fonten">SSSS</span>BBBBBBBBBBB</h2>
-            
+            <div class="contents_main_box">
+              <div class="box_yellow">
+                box_yellow box_yellow box_yellow box_yellow
+              </div>
+              <br><br>
+              <h3 class="page_title_mid">HHHHHHHHHHHHH</h3>
+              <br><br>
+              <table class="common_table">
+                <tr>
+                  <th>HHHHHHH</th>
+                  <td>DDDDDDDDDD</td>
+                </tr>
+                <tr>
+                  <th>HHHHHHH</th>
+                  <td>DDDDDDDDDD</td>
+                </tr>
+                <tr>
+                  <th>HHHHHHH</th>
+                  <td>DDDDDDDDDD</td>
+                </tr>
+              </table>
+            </div>
           </div>
         </div>
         <!-- /contents_main --> 
