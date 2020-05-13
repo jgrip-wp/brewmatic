@@ -1,0 +1,137 @@
+@charset "utf-8";
+
+
+.sustain_content{
+	padding: 54px 0 0;
+}
+.sustain_comment{
+	margin: 66px 0 30px;
+	font-size: 14px;
+	line-height: 26px;
+}
+.variety_trial_img{
+	float: right;
+}
+.variety_trial_content{
+	overflow: hidden;
+	padding: 8px 25px 0 0;
+}
+.variety_trial_title{
+	font-size: 16px;
+	line-height: 26px;
+	color: #1c1c1c;
+	font-weight: 500;
+}
+.variety_trial_title span{
+	font-size: 18px;
+	color: #7b7b7b;
+	font-weight: 400;
+	margin: 0 0 0 12px;
+}
+.variety_trial_text{
+	font-size: 14px;
+	line-height: 26px;
+	margin: 24px 0 0;
+}
+.variety_trial_detail{
+	line-height: 1;
+}
+.variety_trial_detail a{
+	display: inline-block;
+	font-size: 13px;
+	line-height: 26px;
+	color: #606060;
+	font-weight: 500;
+	margin: 30px 0 0;
+	padding: 0 0 0 15px;
+	background: url(../images/sustainability/arw_right01.png) 0 7px no-repeat;
+}
+.variety_trial_links{
+	margin: 5px 0 0;
+}
+.variety_trial_links a{
+	font-size: 13px;
+	line-height: 26px;
+	color: #005bac;
+}
+.variety_trial_links a img{
+	margin: -4px 0 0 8px;
+	vertical-align: middle;
+}
+.sustain_balance{
+	padding: 154px 0 0;
+}
+.sustain_balance_inner{
+	margin: 72px 0 0;
+	display: flex;
+}
+.sustain_balance_logo{
+	width: 366px;
+}
+.sustain_balance_text{
+	flex: 1;
+	padding: 0 0 0 30px;
+	border-left: 1px solid #dcdcdc;
+	font-size: 16px;
+	line-height: 26px;
+}
+@media screen and (max-width: 768px) {
+.sustain_content{
+	padding: 0;
+}
+.sustain_comment{
+	margin: 30px 0;
+}
+.variety_trial_title span{
+	display: block;
+	font-size: 16px;
+	margin: 0;
+}
+.variety_trial_img{
+	float: none;
+}
+.variety_trial_img img{
+	width: 100%;
+}
+.variety_trial_content{
+	padding: 8px 0 0;
+}
+.variety_trial_text{
+	margin: 10px 0 0;
+}
+.variety_trial_links a{
+	font-size: 12px;
+}
+.variety_trial_links a img{
+	margin: -4px 0 0 4px;
+}
+.sustain_balance{
+	padding: 70px 0 0;
+}
+.sustain_balance_inner{
+	margin: 40px 0 0;
+	display: block;
+}
+.sustain_balance_logo{
+	width: 100%;
+	text-align: center;
+	margin: 0 0 20px;
+}
+.sustain_balance_logo img{
+	max-width: 280px;
+}
+.sustain_balance_text{
+	padding: 0;
+	border-left: none;
+	font-size: 14px;
+}
+}
+
+
+
+
+
+
+
+
+

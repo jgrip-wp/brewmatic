@@ -120,7 +120,7 @@
                     </div>
                   </form>
                 </div>
-                <!-- /catalog_form -->
+                <!-- /common_form -->
               </div>
               <!-- /catalog_content -->
             </div>

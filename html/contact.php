@@ -36,7 +36,7 @@
             <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">Contact</span>お問い合わせ</h2>
             <p class="page_title_detail wow fadeIn">ブルーマチックジャパン、商品・サービスに対する<br>ご意見、ご質問はお問い合わせフォームに入力ください。</p>
             <div class="contents_main_box">
-              <div class="common_brand_list">
+              <div class="common_brand_list wow fadeIn">
                 <img src="/images/common/logo_brand01.jpg" alt="BREW MATIC">
                 <img src="/images/common/logo_brand02.jpg" alt="Curtis">
                 <img src="/images/common/logo_brand03.jpg" alt="Carimali">
@@ -46,6 +46,7 @@
                 <img src="/images/common/logo_brand07.jpg" alt="BARATZA">
                 <img src="/images/common/logo_brand08.jpg" alt="rockline">
               </div>
+              <!-- /common_brand_list -->
               <div class="contact_content">
                 <p class="contact_comment op wow fadeIn">よくお問い合わせいただく内容をまとめた「<a href="#">よくあるご質問</a>」もご用意しています。<br>※お客様の個人情報、お寄せいただいた相談内容は厳重に取扱いお問い合わせに対応させていただくための目的のみに利用いたします。</p>
                 <div class="common_form wow fadeIn">
@@ -167,7 +168,7 @@
                       <button type="submit">上記の内容で送信する</button>
                     </div>
                   </form>
-                <!-- /contact_form -->
+                <!-- /common_form -->
               </div>
               <!-- /contact_content -->
             </div>
