@@ -1,0 +1,142 @@
+@charset "utf-8";
+
+
+.rocklinefilter_content{
+	padding: 30px 0 0;
+}
+.rocklinefilter_box{
+	display: flex;
+	margin: 0 0 114px;
+}
+.rocklinefilter_box_img{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	width: 372px;
+	padding: 0 50px 0 0;
+	box-sizing: border-box;
+	border-right: 1px solid #dcdcdc;
+}
+.rocklinefilter_box_content{
+	padding: 0 0 0 46px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+.rocklinefilter_box_title{
+	font-size: 18px;
+	line-height: 1;
+	font-weight: 500;
+}
+.rocklinefilter_box_txt{
+	font-size: 14px;
+	line-height: 26px;
+	margin: 34px 0 0;
+}
+.rocklinefilter_list li+li {
+  margin-top: 20px;
+}
+.rocklinefilter_list li {
+  text-indent: -2em;
+  padding-left: 2em;
+}
+.rocklinefilter_list li span {
+  font-size: 22px;
+  line-height: 1;
+}
+.rocklinefilter_content .box_yellow{
+	margin: 74px 0 162px;
+}
+.product_spec{
+	margin: 74px 0 0;
+}
+.product_spec table{
+	width: 100%;
+}
+.product_spec th{
+	font-size: 14px;
+	line-height: 26px;
+	font-weight: 500;
+	color: #333;
+	width: 214px;
+	border-top: 1px solid #dcdcdc;
+	border-bottom: 1px solid #dcdcdc;
+}
+.product_spec td{
+	font-size: 14px;
+	line-height: 26px;
+	color: #333;
+	padding: 28px 0;
+	border-top: 1px solid #dcdcdc;
+	border-bottom: 1px solid #dcdcdc;
+}
+.product_spec td:nth-of-type(1){
+	width: 144px;
+}
+.product_spec td:nth-of-type(2){
+	width: 160px;
+}
+@media screen and (max-width: 768px) {
+.rocklinefilter_content{
+	padding: 0;
+}
+.product_spec{
+	margin: 30px 0 0;
+	overflow-x: auto;
+}
+.product_spec table{
+	width: 900px;
+}
+.product_spec th{
+	width: 160px;
+	line-height: 21px;
+}
+.product_spec td{
+	line-height: 21px;
+	padding: 15px 0;
+}
+.product_spec td:nth-of-type(1){
+	width: 100px;
+}
+.product_spec td:nth-of-type(2){
+	width: 120px;
+}
+.rocklinefilter_content .box_yellow{
+	margin: 30px 0 60px;
+}
+.rocklinefilter_box{
+	display: block;
+	margin: 0 0 50px;
+}
+.rocklinefilter_box_img{
+	display: block;
+	width: 100%;
+	text-align: center;
+	padding: 0 0 20px;
+	margin: 0 0 20px;
+	border-right: none;
+	border-bottom: 1px solid #dcdcdc;
+}
+.rocklinefilter_box_img img{
+	max-width: 280px;
+}
+.rocklinefilter_box_content{
+	padding: 0;
+	display: block;
+}
+.rocklinefilter_box_title{
+	font-size: 18px;
+}
+.rocklinefilter_box_txt{
+	margin: 20px 0 0;
+}
+}
+
+
+
+
+
+
+
+
+
