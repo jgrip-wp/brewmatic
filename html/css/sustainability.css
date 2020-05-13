@@ -115,14 +115,15 @@
 .sustain_balance_logo{
 	width: 100%;
 	text-align: center;
-	margin: 0 0 20px;
 }
 .sustain_balance_logo img{
 	max-width: 280px;
 }
 .sustain_balance_text{
-	padding: 0;
+	margin: 20px 0 0;
+	padding: 20px 0 0;
 	border-left: none;
+	border-top: 1px solid #dcdcdc;
 	font-size: 14px;
 }
 }
