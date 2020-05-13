@@ -1,0 +1,241 @@
+@charset "utf-8";
+
+.aboutus_section+.aboutus_section {
+  margin-top: 200px;
+}
+.aboutus_section .page_title_mid {
+  margin-bottom: 70px;
+}
+
+.aboutus_place {
+  overflow: hidden;
+}
+.aboutus_place .aboutus_place_img {
+  float: left;
+  width: 230px;
+  text-align: center;
+  padding-top: 10px;
+}
+.aboutus_place .aboutus_place_cont {
+  padding: 10px 0 0 30px;
+  border-left: 1px #dcdcdc solid;
+  overflow: hidden;
+}
+.aboutus_place .aboutus_place_tit {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.8;
+  margin-bottom: 35px;
+}
+.aboutus_place .aboutus_place_txt li {
+  line-height: 1.8;
+}
+.aboutus_place .aboutus_place_txt li+li {
+  margin-top: 25px;
+}
+.aboutus_place .aboutus_place_btn {
+  margin-top: 30px;
+}
+.aboutus_place .aboutus_place_btn a {
+  display: inline-block;
+  border: 1px #dcdcdc solid;
+  font-weight: 500;
+  padding: 10px 25px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  border-radius: 20px;
+}
+.aboutus_place .aboutus_place_btn a:hover {
+  border: 1px #000 solid;
+  background: #000;
+  color: #fff;
+}
+.aboutus_place .aboutus_place_btn a span {
+  display: inline-block;
+  background: url(../images/aboutus/arrow_aboutus.png) right center no-repeat;
+  padding-right: 20px;
+}
+.aboutus_place .aboutus_place_btn a:hover span {
+  background: url(../images/aboutus/arrow_aboutus_on.png) right center no-repeat;
+}
+@media screen and (max-width: 768px) {
+.aboutus_section+.aboutus_section {
+  margin-top: 50px;
+}
+.aboutus_section .page_title_mid {
+  margin-bottom: 30px;
+}
+
+.aboutus_place .aboutus_place_img {
+  float: none;
+  width: auto;
+  text-align: center;
+  padding-top: 0;
+  margin-bottom: 20px;
+}
+.aboutus_place .aboutus_place_cont {
+  padding: 20px 0 0;
+  border-left: none;
+  border-top: 1px #dcdcdc solid;
+}
+.aboutus_place .aboutus_place_tit {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+.aboutus_place .aboutus_place_txt li+li {
+  margin-top: 15px;
+}
+.aboutus_place .aboutus_place_btn {
+  margin-top: 20px;
+}
+}
+
+
+.aboutus_company {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.aboutus_company .aboutus_company_box {
+  width: 49%;
+}
+.aboutus_company .common_table th {
+  width: 20%;
+  vertical-align: top;
+}
+.aboutus_company .common_table td {
+  line-height: 1.8;
+}
+.aboutus_company .aboutus_company_addr+.aboutus_company_addr {
+  margin-top: 20px;
+}
+.aboutus_company .aboutus_company_map {
+  margin-top: 10px;
+}
+.aboutus_company .aboutus_company_map a {
+  display: inline-block;
+  color: #7b7b7b;
+  font-size: 18px;
+  border: 1px #dcdcdc solid;
+  padding: 5px 15px;
+  line-height: 1;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+  border-radius: 15px;
+}
+.aboutus_company .aboutus_company_map a:hover {
+  border: 1px #000 solid;
+  background: #000;
+  color: #fff;
+}
+@media screen and (max-width: 768px) {
+.aboutus_company {
+  display: block;
+}
+.aboutus_company .aboutus_company_box {
+  width: auto;
+}
+.aboutus_company .aboutus_company_box+.aboutus_company_box {
+  margin-top: 50px;
+}
+.aboutus_company .common_table th {
+  width: 25%;
+}
+}
+
+
+.aboutus_history {
+  background: url(../images/aboutus/bg_aboutus_his.png) right bottom no-repeat;
+}
+.aboutus_history_box {
+  overflow: hidden;
+  padding-bottom: 30px;
+}
+.aboutus_history_box .aboutus_history_txt {
+  line-height: 1.7;
+  margin-top: 25px;
+}
+.aboutus_history_left {
+  float: left;
+  border-right: 1px #d3d3d3 solid;
+  width: 70%;
+}
+.aboutus_history_left .aboutus_history_tit {
+  font-weight: 500;
+  font-size: 18px;
+}
+.aboutus_history_right {
+  float: left;
+  width: 30%;
+  padding-left: 25px;
+}
+.aboutus_history_left .clearfix+.clearfix {
+  margin-top: 30px;
+}
+.aboutus_history_left .ftbox {
+  padding: 0 70px 0 35px;
+  border-left: 1px #d3d3d3 solid;
+}
+.aboutus_history_right .aboutus_history_tit {
+  font-weight: 700;
+}
+.aboutus_history_date {
+  float: left;
+  margin-right: 40px;
+  color: #669ed1;
+  font-size: 42px;
+}
+
+@media screen and (max-width: 1080px) {
+.aboutus_history_left .ftbox {
+  padding: 0 30px 0 20px;
+}
+}
+
+@media screen and (max-width: 768px) {
+.aboutus_history_box {
+  padding-bottom: 0;
+}
+.aboutus_history_box .aboutus_history_txt {
+  margin-top: 15px;
+}
+.aboutus_history_left {
+  float: none;
+  border-right: none;
+  width: auto;
+  border-bottom: 1px #d3d3d3 solid;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+.aboutus_history_left .aboutus_history_tit {
+  font-size: 16px;
+}
+.aboutus_history_right {
+  float: none;
+  width: auto;
+  padding-left: 0;
+}
+.aboutus_history_left .clearfix+.clearfix {
+  margin-top: 20px;
+}
+.aboutus_history_left .ftbox {
+  padding: 0 0 0 15px;
+}
+.aboutus_history_date {
+  margin-right: 10px;
+  font-size: 28px;
+}
+}
+
+
+@media screen and (max-width: 1080px) {
+  
+}
+@media screen and (max-width: 768px) {
+  
+}
+

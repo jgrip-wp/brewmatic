@@ -36,6 +36,12 @@
             <h2 class="page_title"><span class="page_title_en fonten">SSSS</span>BBBBBBBBBBB</h2>
             <p class="page_title_detail">detail</p>
             <div class="contents_main_box">
+               <ul class="common_bnr">
+                 <li><a href="#">DDDDDD</a></li>
+                 <li><a href="#">DDDDDD</a></li>
+                 <li><a href="#">DDDDDD</a></li>
+               </ul>
+              <!-- /common_bnr -->
               <div class="box_yellow">
                 box_yellow box_yellow box_yellow box_yellow
               </div>

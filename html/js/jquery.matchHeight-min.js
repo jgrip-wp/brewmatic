@@ -20,8 +20,8 @@ function muchHeight() {
 	var $el = $('.hlg01');
 	var $el2 = $('.hlg02');
 	var $el3 = $('.hlg03');
-	var $el3 = $('.hlg04');
-	var $el3 = $('.hlg05');
+	var $el4 = $('.hlg04');
+	var $el5 = $('.hlg05');
 	
 	$el.matchHeight();
 	$el2.matchHeight();
