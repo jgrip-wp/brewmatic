@@ -58,6 +58,8 @@
                 </tr>
               </table>
               <!-- /common_table -->
+              <br><br>
+              <p class="common_btn"><a href="#">詳しく見る</a></p>
             </div>
             <!-- /contents_main_box -->
           </div>

@@ -669,6 +669,31 @@ html,  html body {
 }
 
 
+/* !btn
+---------------------------------------------------------- */
+.common_btn {
+  text-align: center;
+}
+.common_btn a {
+  display: block;
+  font-size: 14px;
+  text-align: center;
+  border: 1px #dcdcdc solid;
+  padding: 6px 5px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+  border-radius: 15px;
+}
+.common_btn a:hover {
+  background: #000;
+  border: 1px #000 solid;
+  color: #fff;
+}
+
+
+
 /* !link
 ---------------------------------------------------------- */
 .link_white {
@@ -714,7 +739,8 @@ html,  html body {
 }
 
 
-/*common_form*/
+/* !common_form
+---------------------------------------------------------- */
 .common_form{
 	padding: 34px 0 0;
 }
@@ -796,7 +822,7 @@ html,  html body {
 }
 .checkbox_wrap label{
 	display: inline-block;
-	margin: 14px 30px 14px 0;
+	margin: 10px 30px 10px 0;
 }
 .common_form .form_checkbox{
 	display: inline-block;
@@ -903,6 +929,72 @@ html,  html body {
 
 
 
+/* !column
+---------------------------------------------------------- */
+.column_four {
+  overflow: hidden;
+  margin-left: -40px;
+}
+.column_four li {
+  float: left;
+  width: 25%;
+  padding-left: 40px;
+}
+.column_four .column_box {
+  
+}
+.column_four .column_box_img {
+  text-align: center;
+}
+.column_four .column_box_det {
+  text-align: center;
+  margin-top: 20px;
+}
+.column_four .column_box_txt {
+  border-top: 1px #d3d3d3 solid;
+  margin-top: 20px;
+  padding-top: 20px;
+  line-height: 1.8;
+}
+.column_four .common_btn {
+  margin-top: 25px;
+}
+@media screen and (max-width: 1080px) {
+.column_four {
+  margin-left: -20px;
+}
+.column_four li {
+  width: 33.3333%;
+  padding-left: 20px;
+}
+}
+@media screen and (max-width: 768px) {
+.column_four {
+  margin-left: 0;
+}
+.column_four li {
+  float: none;
+  width: auto;
+  padding-left: 0;
+}
+}
+
+
+
+/* !common_brand_list
+---------------------------------------------------------- */
+.common_brand_list{
+	margin: -20px 0 0;
+	display: flex;
+	justify-content: space-between;
+}
+@media screen and (max-width: 768px) {
+.common_brand_list{
+	margin: 0 0 20px;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+}
 
 
 @media screen and (max-width: 1080px) {

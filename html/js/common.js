@@ -116,6 +116,8 @@ var pageScroll = function(){
 
 /* !common --------------------------------------------------- */
 var common = (function(){
+
+    new WOW().init();
   
 	$(function(){
 		var hdmenu = $('.js-navbar');
@@ -165,8 +167,6 @@ var common = (function(){
 		}
 			
 	}
-
-    new WOW().init();
 
 });
 

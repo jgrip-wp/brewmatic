@@ -27,7 +27,7 @@
 </head>
 <body>
   <div id="wrapper">
-    <input type="hidden" id="pageID" value="">
+    <input type="hidden" id="pageID" value="gNav05">
     <?php include( $_SERVER['DOCUMENT_ROOT'] . '/include/head.php'); ?>
 
 
@@ -50,56 +50,56 @@
               </div>
               <!-- /brand_intro -->
               <ul class="brand_list">
-                <li>
+                <li class="wow fadeIn">
                   <div class="brand_box hlg01">
                     <p class="brand_box_img"><img src="images/brand/img_brand02.jpg" alt="カーチス"></p>
                     <p class="brand_box_tit">カーチス</p>
                     <p class="brand_box_txt">一度に大量抽出できるパワフルなパフォーマンスで、ダイナー、ホテル、レストランなど、アメリカのコーヒー文化を支えてきた名門ブランド。</p>
                   </div>
                 </li>
-                <li>
+                <li class="wow fadeIn">
                   <div class="brand_box hlg01">
                     <p class="brand_box_img"><img src="images/brand/img_brand03.jpg" alt="カリマリ"></p>
                     <p class="brand_box_tit">カリマリ</p>
                     <p class="brand_box_txt">イタリアが誇るコーヒー文化のアンバサダーとして、全自動コーヒーマシンのパイオニアとして、コーヒーとともにある幸福な時間を世界中へ。</p>
                   </div>
                 </li>
-                <li>
+                <li class="wow fadeIn">
                   <div class="brand_box hlg01">
                     <p class="brand_box_img"><img src="images/brand/img_brand04.jpg" alt="ユーラ"></p>
                     <p class="brand_box_tit">ユーラ</p>
                     <p class="brand_box_txt">メイド・イン・スイスの美学。卓越した技術と細やかな感性、普遍的な美しさを極めた全自動コーヒーマシン。</p>
                   </div>
                 </li>
-                <li>
+                <li class="wow fadeIn">
                   <div class="brand_box hlg01">
                     <p class="brand_box_img"><img src="images/brand/img_brand05.jpg" alt="リアベンドーズ"></p>
                     <p class="brand_box_tit">リアベンドーズ</p>
                     <p class="brand_box_txt">あらゆる空間と時間に、もっと自由なコーヒースタイルを。豊富な専用オプションを展開し、コインメックにも対応。</p>
                   </div>
                 </li>
-                <li>
+                <li class="wow fadeIn">
                   <div class="brand_box hlg01">
                     <p class="brand_box_img"><img src="images/brand/img_brand06.jpg" alt="サンレモ"></p>
                     <p class="brand_box_tit">サンレモ</p>
                     <p class="brand_box_txt">イタリア発エスプレッソマシンの革新者。伝統と最新技術がボーダレスに融合したハイエンドモデルをラインアップ。</p>
                   </div>
                 </li>
-                <li>
+                <li class="wow fadeIn">
                   <div class="brand_box hlg01">
                     <p class="brand_box_img"><img src="images/brand/img_brand07.jpg" alt="バラッツア"></p>
                     <p class="brand_box_tit">バラッツア</p>
                     <p class="brand_box_txt">パーフェクトなコーヒーは、パーフェクトなグラインドから。アメリカ・シアトル発、グラインダーのプロフェッショナルブランド。</p>
                   </div>
                 </li>
-                <li>
+                <li class="wow fadeIn">
                   <div class="brand_box hlg01">
                     <p class="brand_box_img"><img src="images/brand/img_brand08.jpg" alt="ロックライン"></p>
                     <p class="brand_box_tit">ロックライン</p>
                     <p class="brand_box_txt">北米で最大のシェアを誇るコーヒーフィルターペーパー。</p>
                   </div>
                 </li>
-                <li>
+                <li class="wow fadeIn">
                   <div class="brand_box hlg01">
                     <p class="brand_box_img"><img src="images/brand/img_brand09.jpg" alt="その他の製品"></p>
                     <p class="brand_box_tit">その他の製品</p>

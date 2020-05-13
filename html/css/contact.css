@@ -22,19 +22,7 @@
 }
 }
 
-/*common_brand_list*/
-.common_brand_list{
-	margin: -20px 0 0;
-	display: flex;
-	justify-content: space-between;
-}
-@media screen and (max-width: 768px) {
-.common_brand_list{
-	margin: 0 0 20px;
-	flex-wrap: wrap;
-	justify-content: space-around;
-}
-}
+
 
 
 
