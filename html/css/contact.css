@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+
+.contact_content{
+	padding: 72px 0 0;
+	max-width: 850px;
+	margin: 0 auto;
+}
+.contact_comment{
+	font-size: 14px;
+	line-height: 26px;
+	color: #1c1c1c;
+}
+.contact_comment a{
+	color: #005bac;
+}
+@media screen and (max-width: 768px) {
+.contact_content{
+	padding: 0;
+	max-width: 100%;
+	margin: 0;
+}
+}
+
+/*common_brand_list*/
+.common_brand_list{
+	margin: -20px 0 0;
+	display: flex;
+	justify-content: space-between;
+}
+@media screen and (max-width: 768px) {
+.common_brand_list{
+	margin: 0 0 20px;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+}
+
+
+
+
+
+
+
