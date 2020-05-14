@@ -12,7 +12,7 @@
                 <li><a href="#">お問い合わせ</a></li>
                 <li><a href="#">総合カタログのご請求</a></li>
                 <li><a href="#">ショールームのご予約</a></li>
-                <li><a href="/faq.php">よくあるご質問</a></li>
+                <li><a href="#">よくあるご質問</a></li>
               </ul>
             </div>
             <div class="footer_link">
