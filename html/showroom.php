@@ -6,6 +6,7 @@
 <title></title>
 <meta name="keywords" content="" />
 <meta name="description" content="" />
+<meta name="format-detection" content="telephone=no"/>
 <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
 
 <link rel="stylesheet" type="text/css" href="/css/common.css" media="all" />
