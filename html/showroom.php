@@ -116,7 +116,7 @@
     <?php include( $_SERVER['DOCUMENT_ROOT'] . '/include/footer.php'); ?>
 
   </div>
-  <!-- /wrapper -->
+<!-- /wrapper -->
 <script>
   $(document).ready(function(){
     $('.gallery_img_item').click(function(){

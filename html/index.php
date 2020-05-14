@@ -10,14 +10,14 @@
 
 <link rel="stylesheet" type="text/css" href="/css/common.css" media="all" />
 <link rel="stylesheet" type="text/css" href="/css/animate.css"/>
-
+<link rel="stylesheet" type="text/css" href="/css/top.css"/>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Harmattan&display=swap" rel="stylesheet">
 
 <script type="text/javascript" src="/js/jquery.min.js"></script>
 <script type="text/javascript" src="/js/common.js"></script>
 <script type="text/javascript" src="/js/wow.min.js"></script>
-
+<script type="text/javascript" src="/js/top.js"></script>
 <!--[if lt IE 9]>
 <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
@@ -80,5 +80,9 @@
 
   </div>
   <!-- /wrapper -->
+<div id="top_logo">
+  <div class="top_logo_inner"><div></div></div>
+</div>
+<!-- /top_logo -->
 </body>
 </html>
