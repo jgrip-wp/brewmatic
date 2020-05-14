@@ -24,53 +24,13 @@
 </head>
 <body>
   <div id="wrapper">
-    <input type="hidden" id="pageID" value="gNav01">
+    <input type="hidden" id="pageID" value="">
     <?php include( $_SERVER['DOCUMENT_ROOT'] . '/include/head.php'); ?>
 
 
     <article>
       <div id="contents">
-        <p id="breadcrumb" class="op"><a href="/" class="home fonten">Top</a> > <a href="#">222222</a> > 333333</p>
-        <div class="contents_main">
-          <div class="inner">
-            <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">SSSS</span>BBBBBBBBBBB</h2>
-            <p class="page_title_detail wow fadeIn">detail</p>
-            <div class="contents_main_box">
-               <ul class="common_bnr">
-                 <li><a href="#">DDDDDD</a></li>
-                 <li><a href="#">DDDDDD</a></li>
-                 <li><a href="#">DDDDDD</a></li>
-               </ul>
-              <!-- /common_bnr -->
-              <div class="box_yellow">
-                box_yellow box_yellow box_yellow box_yellow
-              </div>
-              <!-- /box_yellow -->
-              <br><br>
-              <h3 class="page_title_mid">HHHHHHHHHHHHH</h3>
-              <br><br>
-              <table class="common_table">
-                <tr>
-                  <th>HHHHHHH</th>
-                  <td>DDDDDDDDDD</td>
-                </tr>
-                <tr>
-                  <th>HHHHHHH</th>
-                  <td>DDDDDDDDDD</td>
-                </tr>
-                <tr>
-                  <th>HHHHHHH</th>
-                  <td>DDDDDDDDDD</td>
-                </tr>
-              </table>
-              <!-- /common_table -->
-              <br><br>
-              <p class="common_btn"><a href="#">詳しく見る</a></p>
-            </div>
-            <!-- /contents_main_box -->
-          </div>
-        </div>
-        <!-- /contents_main -->
+       
       </div>
       <!-- /contents -->
 
