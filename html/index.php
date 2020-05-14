@@ -67,7 +67,7 @@
        
        <div class="top_pst">
          <div class="inner">
-           <ul class="top_pst_list">
+           <ul class="top_pst_list op">
              <li class="wow fadeIn" data-wow-delay="0.2s">
               <a href="#">
                  <p class="top_pst_tit fonten hlg01">Premium Machines</p>
@@ -93,6 +93,106 @@
          </div>
        </div>
        <!-- /top_pst -->
+       
+       <div class="top_brand">
+         <div class="inner">
+            <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">Brand Lineup</span>取り扱いブランド</h2>
+            <ul class="top_brand_list op">
+              <li class="wow fadeIn"><a href="#"><img src="/images/top/img_brand01.png" alt="取り扱いブランド"></a></li>
+              <li class="wow fadeIn"><a href="#"><img src="/images/top/img_brand02.png" alt="取り扱いブランド"></a></li>
+              <li class="wow fadeIn"><a href="#"><img src="/images/top/img_brand03.png" alt="取り扱いブランド"></a></li>
+              <li class="wow fadeIn"><a href="#"><img src="/images/top/img_brand04.png" alt="取り扱いブランド"></a></li>
+              <li class="wow fadeIn"><a href="#"><img src="/images/top/img_brand05.png" alt="取り扱いブランド"></a></li>
+              <li class="wow fadeIn"><a href="#"><img src="/images/top/img_brand06.png" alt="取り扱いブランド"></a></li>
+              <li class="wow fadeIn"><a href="#"><img src="/images/top/img_brand07.png" alt="取り扱いブランド"></a></li>
+              <li class="wow fadeIn"><a href="#"><img src="/images/top/img_brand08.png" alt="取り扱いブランド"></a></li>
+              <li class="wow fadeIn"><a href="#"><img src="/images/top/img_brand09.png" alt="取り扱いブランド"></a></li>
+            </ul>
+         </div>
+       </div>
+       <!-- /top_brand -->
+       
+       <div class="top_life">
+          <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">Life with Coffee</span>コーヒーマシンのある風景</h2>
+          <div class="top_life_slider wow fadeIn">
+            <div>
+              <div class="top_life_box">
+                <p class="top_life_tit"><span class="fonten">CARIMALI100</span>周年記念イベント</p>
+                <p class="top_life_det fonten">News／CARIMILI</p>
+                <p><a href="#"><img src="/images/top/img_life01.jpg" alt="CARIMALI100周年記念イベント"></a></p>
+              </div>
+            </div>
+            <div>
+              <div class="top_life_box">
+                <p class="top_life_tit"><span class="fonten">Eggs’n Things Coffee</span> 高崎OPA店</p>
+                <p class="top_life_det fonten">店舗紹介／BARATZA</p>
+                <p><a href="#"><img src="/images/top/img_life02.jpg" alt="Eggs’n Things Coffee 高崎OPA店"></a></p>
+              </div>
+            </div>
+            <div>
+              <div class="top_life_box">
+                <p class="top_life_tit"><span class="fonten">KEY’S CAFÉ -CLASSE-</span></p>
+                <p class="top_life_det fonten">店舗紹介／CARIMALI</p>
+                <p><a href="#"><img src="/images/top/img_life03.jpg" alt="KEY’S CAFÉ -CLASSE-"></a></p>
+              </div>
+            </div>
+            <div>
+              <div class="top_life_box">
+                <p class="top_life_tit"><span class="fonten">CARIMALI100</span>周年記念イベント</p>
+                <p class="top_life_det fonten">News／CARIMILI</p>
+                <p><a href="#"><img src="/images/top/img_life01.jpg" alt="CARIMALI100周年記念イベント"></a></p>
+              </div>
+            </div>
+            <div>
+              <div class="top_life_box">
+                <p class="top_life_tit"><span class="fonten">Eggs’n Things Coffee</span> 高崎OPA店</p>
+                <p class="top_life_det fonten">店舗紹介／BARATZA</p>
+                <p><a href="#"><img src="/images/top/img_life02.jpg" alt="Eggs’n Things Coffee 高崎OPA店"></a></p>
+              </div>
+            </div>
+            <div>
+              <div class="top_life_box">
+                <p class="top_life_tit"><span class="fonten">KEY’S CAFÉ -CLASSE-</span></p>
+                <p class="top_life_det fonten">店舗紹介／CARIMALI</p>
+                <p><a href="#"><img src="/images/top/img_life03.jpg" alt="KEY’S CAFÉ -CLASSE-"></a></p>
+              </div>
+            </div>
+          </div>
+          <p class="top_links"><a href="#">記事一覧へ</a></p>
+       </div>
+       <!-- /top_brand -->
+       
+       <div class="top_news">
+         <div class="inner">
+           <div class="clearfix">
+             <p class="top_facebook wow fadeIn"><img src="/images/top/dummy_facebook.png" alt=""></p>
+             <div class="ftbox wow fadeIn">
+               <p class="top_news_tit fonten">What’s New</p>
+               <ul class="top_news_list op">
+                 <li>
+                   <p class="top_news_date fonten">2020.06.29</p>
+                   <p><a href="#">ホームページをリニューアルしました。</a></p>
+                 </li>
+                 <li>
+                   <p class="top_news_date fonten">2020.04.09</p>
+                   <p><a href="#">テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト</a></p>
+                 </li>
+                 <li>
+                   <p class="top_news_date fonten">2020.04.09</p>
+                   <p><a href="#">テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト</a></p>
+                 </li>
+               </ul>
+               <p class="top_links op"><a href="#">過去の<span class="fonten">News</span></a></p>
+             </div>
+           </div>
+         </div>
+       </div>
+       <!-- /top_news -->
+       
+       <div class="top_recruit wow fadeIn">
+        <a href="/recruit.php"><img src="/images/top/img_recruit_top_pc.jpg" alt="Recruit 採用情報"><span class="top_recruit_tit"><b class="fonten">Recruit</b>採用情報</span><span class="top_recruit_link">詳しく見る</span></a>
+       </div>
+       <!-- /top_recruit -->
        
        </div>
        
