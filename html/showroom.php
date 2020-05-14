@@ -51,12 +51,22 @@
                 </div>
                 <!-- /common_brand_list -->
                 <div class="showroom_gallery clearfix wow fadeIn">
-                  <div class="showroom_gallery_main"><img src="/images/showroom/img_showroom01.jpg" alt="写真"></div>
+                  <div class="showroom_gallery_main">
+                    <img src="/images/showroom/img_showroom01.jpg" alt="写真" id="js-gallery-main">
+                  </div>
                   <div class="showroom_gallery_group">
-                    <img src="/images/showroom/img_showroom02.jpg" alt="写真">
-                    <img src="/images/showroom/img_showroom03.jpg" alt="写真">
-                    <img src="/images/showroom/img_showroom04.jpg" alt="写真">
-                    <img src="/images/showroom/img_showroom05.jpg" alt="写真">
+                    <div class="gallery_img_item current" data-src="/images/showroom/img_showroom01.jpg">
+                      <img src="/images/showroom/img_showroom02.jpg" alt="写真">
+                    </div>
+                    <div class="gallery_img_item" data-src="/images/showroom/img_showroom03.jpg">
+                      <img src="/images/showroom/img_showroom03.jpg" alt="写真">
+                    </div>
+                    <div class="gallery_img_item" data-src="/images/showroom/img_showroom04.jpg">
+                      <img src="/images/showroom/img_showroom04.jpg" alt="写真">
+                    </div>
+                    <div class="gallery_img_item" data-src="/images/showroom/img_showroom05.jpg">
+                      <img src="/images/showroom/img_showroom05.jpg" alt="写真">
+                    </div>
                   </div>
                 </div>
                 <!-- /showroom_gallery -->
@@ -107,5 +117,18 @@
 
   </div>
   <!-- /wrapper -->
+<script>
+  $(document).ready(function(){
+    $('.gallery_img_item').click(function(){
+      var datasrc = $(this).data('src')
+      var $mainimg = $('#js-gallery-main')
+      if($mainimg.attr('src') != datasrc){
+        $('.gallery_img_item').removeClass('current')
+        $(this).addClass('current')
+        $mainimg.attr('src', datasrc)
+      }
+    })
+  })
+</script>
 </body>
 </html>
