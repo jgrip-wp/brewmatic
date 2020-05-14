@@ -1,0 +1,136 @@
+@charset "utf-8";
+
+.carimali_main {
+  padding-top: 20px;
+}
+.carimali_cata {
+  text-align: center;
+  margin-bottom: 25px;
+}
+.carimali_cata a {
+  display: inline-block;
+  font-weight: 500;
+  margin: 0 25px;
+  color: #b7b7b7;
+}
+.carimali_cata a.current {
+  color: #1c1c1c;
+}
+@media screen and (max-width: 768px) {
+.carimali_cata a {
+  display: inline-block;
+  margin: 5px 0;
+  text-align: center;
+  width: 50%;
+}
+}
+
+.carimali_cont {
+  margin-top: 120px;
+}
+.carimali_cont .carimali_cont_tit {
+  text-align: center;
+  margin-bottom: 100px;
+}
+.carimali_list {
+  overflow: hidden;
+  margin: -40px 0 0 -50px;
+}
+.carimali_list li {
+  float: left;
+  width: 33.3333%;
+  padding-left: 50px;
+  margin-top: 40px;
+}
+.carimali_list_box {
+  border-bottom: 1px #dcdcdc solid;
+  padding-bottom: 40px;
+}
+.carimali_list_tit {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 25px;
+}
+.carimali_list_tit .fonten {
+  font-size: 24px;
+}
+.carimali_list_txt {
+  line-height: 1.8;
+  margin-bottom: 20px;
+}
+.carimali_list_img {
+  text-align: center;
+}
+.carimali_nextpage {
+  margin-top: 50px;
+  text-align: center;
+}
+.carimali_nextpage a {
+  display: inline-block;
+  border: 1px #dcdcdc solid;
+  padding: 7px 40px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+  border-radius: 15px;
+}
+.carimali_nextpage a:hover {
+  border: 1px #000 solid;
+  background: #000;
+  color: #fff;
+}
+.carimali_nextpage a span {
+  background: url(../images/common/arrow_right.png) right center no-repeat;
+  padding-right: 35px;
+}
+.carimali_nextpage a:hover span {
+  background: url(../images/common/arrow_right_on.png) right center no-repeat;
+}
+
+
+@media screen and (max-width: 1080px) {
+.carimali_list {
+  margin: -30px 0 0 -30px;
+}
+.carimali_list li {
+  width: 50%;
+  padding-left: 30px;
+  margin-top: 30px;
+}
+}
+@media screen and (max-width: 768px) {
+.carimali_cont {
+  margin-top: 50px;
+}
+.carimali_cont .carimali_cont_tit {
+  margin-bottom: 50px;
+}
+.carimali_list {
+  margin: -30px 0 0;
+}
+.carimali_list li {
+  float: none;
+  width: auto;
+  padding-left: 0;
+  margin-top: 30px;
+}
+.carimali_list_box {
+  padding-bottom: 30px;
+}
+.carimali_list_tit {
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+.carimali_list_tit .fonten {
+  font-size: 20px;
+}
+.carimali_nextpage {
+  margin-top: 30px;
+}
+.carimali_nextpage a {
+  padding: 7px 20px;
+}
+}
+
+

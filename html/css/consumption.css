@@ -1,0 +1,153 @@
+@charset "utf-8";
+
+.consump_seciton+.consump_seciton {
+  margin-top: 110px;
+}
+.consump_overflow {
+  width: 100%;
+}
+.consump_overflow_det {
+  overflow: hidden;
+  margin-bottom: 15px;
+}
+.consump_overflow_det li {
+  float: left;
+}
+.consump_overflow_det li+li {
+  float: right;
+}
+.consump_table {
+  width: 100%;
+  border-top: 1px #c4c4c4 solid;
+}
+.consump_table th,.consump_table td {
+  border-bottom: 1px #c4c4c4 solid;
+  vertical-align: middle;
+  padding: 25px;
+  width: 110px;
+  position: relative;
+}
+.consump_table th {
+  background: #f6f6f6;
+  text-align: center;
+  font-weight: 700;
+}
+.consump_table td {
+  text-align: center;
+}
+.consump_table_cont {
+  width: 310px !important;
+  border-right: 1px #c4c4c4 solid;
+}
+.consump_table .consump_table_head td {
+  padding: 20px 0;
+}
+.consump_table_box {
+  display: flex;
+  align-items: center;
+}
+.consump_table_name {
+  font-size: 18px;
+}
+.consump_table_tit {
+  width: 150px !important;
+}
+.consump_cell_blue {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  height: 20px;
+  margin-top: -10px;
+  background: #005bac;
+  z-index: 2;
+}
+.consump_cell_blue:before {
+  position: absolute;
+  content: "";
+  background: url("../images/consumption/arrow_blue.png") 0 0 no-repeat;
+  width: 12px;
+  height: 30px;
+  left: 100%;
+  top: 50%;
+  margin-top: -15px;
+  z-index: 2;
+}
+.consump_cell_red {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  height: 20px;
+  margin-top: -10px;
+  background: #ae1000;
+  z-index: 2;
+}
+.consump_cell_red:before {
+  position: absolute;
+  content: "";
+  background: url("../images/consumption/arrow_red.png") 0 0 no-repeat;
+  width: 12px;
+  height: 30px;
+  left: 100%;
+  top: 50%;
+  margin-top: -15px;
+  z-index: 2;
+}
+.consump_cell_one {
+  width: 98px;
+}
+.consump_cell_two {
+  width: 208px;
+}
+.consump_cell_three {
+  width: 318px;
+}
+.consump_cell_four {
+  width: 428px;
+}
+.consump_cell_five {
+  width: 538px;
+}
+.consump_cell_six {
+  width: 648px;
+}
+
+@media screen and (max-width: 1080px) {
+.consump_overflow {
+	overflow-x:scroll;
+	padding:15px 0;
+}
+.consump_overflow::-webkit-scrollbar{
+	width: 5px;
+	background: #ebe7e7;
+	border-radius: 2px;
+	border:1px #666 solid;
+}
+.consump_overflow::-webkit-scrollbar:horizontal{
+	height: 5px;
+	background: #ebe7e7;
+	border-radius: 2px;
+	border:1px #666 solid;
+}
+.consump_overflow::-webkit-scrollbar-thumb{
+	background: #666;
+	border-radius: 2px;
+}
+.consump_overflow::-webkit-scrollbar-thumb:horizontal{
+	background: #666;
+	border-radius: 2px;
+}
+.consump_overflow_det {
+  width: 1120px;
+}
+.consump_table {
+  width: 1120px;
+}
+}
+
+@media screen and (max-width: 1080px) {
+  
+}
+@media screen and (max-width: 768px) {
+  
+}
+

@@ -36,7 +36,7 @@
         <p id="breadcrumb" class="op"><a href="/" class="home fonten">Top</a> > About us</p>
         <div class="contents_main">
           <div class="inner">
-            <h2 class="page_title"><span class="page_title_en fonten">About us</span>ブルーマチックジャパンについて</h2>
+            <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">About us</span>ブルーマチックジャパンについて</h2>
              <ul class="common_bnr wow fadeIn">
                <li><a href="/aboutus.php" class="active">ブルーマチックジャパンについて</a></li>
                <li><a href="/policy.php">経営理念</a></li>

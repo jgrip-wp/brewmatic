@@ -1,0 +1,161 @@
+@charset "utf-8";
+
+.rheaven_main {
+  padding-top: 40px;
+}
+
+.rheaven_group {
+  margin-top: 120px;
+}
+.rheaven_group_tit {
+  text-align: center;
+  margin-bottom: 70px;
+}
+.rheaven_column {
+  margin-top: -100px;
+}
+.rheaven_column li {
+  margin-top: 100px;
+}
+
+@media screen and (max-width: 768px) {
+.rheaven_group {
+  margin-top: 50px;
+}
+.rheaven_group_tit {
+  margin-bottom: 30px;
+}
+.rheaven_column {
+  margin-top: -50px;
+}
+.rheaven_column li {
+  margin-top: 50px;
+}
+}
+
+
+.rheaven_det_box {
+  display: flex;
+  align-items: flex-start;
+}
+.rheaven_det_in {
+  width: 50%;
+}
+.rheaven_det_img {
+  text-align: center;
+  padding: 0 20px;
+}
+.rheaven_det_intro {
+  font-size: 13px;
+  color: #7b7b7b;
+  margin-bottom: 15px;
+}
+.rheaven_det_tit {
+  font-weight: 500;
+  line-height: 1.2;
+  margin-bottom: 25px;
+}
+.rheaven_det_tit .fonten {
+  font-size: 36px;
+}
+.rheaven_det_price {
+  margin-bottom: 50px;
+  font-weight: 500;
+  font-size: 38px;
+  line-height: 1.2;
+}
+.rheaven_det_price span {
+  display: inline-block;
+}
+.rheaven_det_price .fonten {
+  font-size: 52px;
+}
+.rheaven_det_tax {
+  font-size: 16px;
+}
+.rheaven_det_txt {
+  border-top: 1px #d3d3d3 solid;
+  margin-top: 30px;
+  padding-top: 30px;
+  line-height: 1.8;
+}
+.rheaven_det_arrow {
+  background: url(../images/rheavendors/arrow_rheaven_det.png) 0 center no-repeat;
+  padding-left: 15px;
+  color: #606060;
+  font-size: 13px;
+  font-weight: 500;
+  margin-top: 50px;
+}
+.rheaven_det_bnr {
+  margin-top: 15px;
+}
+
+@media screen and (max-width: 768px) {
+.rheaven_det_box {
+  display: block;
+}
+.rheaven_det_in {
+  width: auto;
+}
+.rheaven_det_in+.rheaven_det_in {
+  margin-top: 30px;
+}
+.rheaven_det_img {
+  text-align: center;
+  padding: 0 20px;
+}
+.rheaven_det_tit .fonten {
+  font-size: 24px;
+}
+.rheaven_det_price {
+  margin-bottom: 30px;
+  font-size: 26px;
+}
+.rheaven_det_tax {
+  font-size: 14px;
+}
+.rheaven_det_txt {
+  margin-top: 20px;
+  padding-top: 20px;
+}
+.rheaven_det_arrow {
+  margin-top: 30px;
+}
+}
+
+
+.rheaven_spec {
+  margin-top: 140px;
+}
+.rheaven_spec .page_title_mid {
+  margin-bottom: 70px;
+}
+.rheaven_spec .common_table {
+  max-width: 850px;
+  margin: 0 auto;
+}
+.rheaven_spec .common_table th {
+  width: 30%;
+}
+@media screen and (max-width: 768px) {
+.rheaven_spec {
+  margin-top: 50px;
+}
+.rheaven_spec .page_title_mid {
+  margin-bottom: 30px;
+}
+.rheaven_spec .common_table th {
+  width: 40%;
+  padding-right: 20px;
+}
+}
+
+
+@media screen and (max-width: 1080px) {
+  
+}
+@media screen and (max-width: 768px) {
+  
+}
+

@@ -35,7 +35,7 @@
         <p id="breadcrumb" class="op"><a href="/" class="home fonten">Top</a> > プライバシーポリシー</p>
         <div class="contents_main">
           <div class="inner">
-            <h2 class="page_title"><span class="page_title_en fonten">Privacy policy</span>プライバシーポリシー</h2>
+            <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">Privacy policy</span>プライバシーポリシー</h2>
             <div class="contents_main_box">
               <div class="box_yellow">
                 <ul class="privacy_list">

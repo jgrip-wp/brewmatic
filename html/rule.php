@@ -35,7 +35,7 @@
         <p id="breadcrumb" class="op"><a href="/" class="home fonten">Top</a> > 免責事項</p>
         <div class="contents_main">
           <div class="inner">
-            <h2 class="page_title"><span class="page_title_en fonten">Disclaimer</span>免責事項</h2>
+            <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">Disclaimer</span>免責事項</h2>
             <div class="contents_main_box">
               <div class="box_yellow">
                 <ul class="rule_list wow fadeIn">

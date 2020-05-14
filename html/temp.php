@@ -33,8 +33,8 @@
         <p id="breadcrumb" class="op"><a href="/" class="home fonten">Top</a> > <a href="#">222222</a> > 333333</p>
         <div class="contents_main">
           <div class="inner">
-            <h2 class="page_title"><span class="page_title_en fonten">SSSS</span>BBBBBBBBBBB</h2>
-            <p class="page_title_detail">detail</p>
+            <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">SSSS</span>BBBBBBBBBBB</h2>
+            <p class="page_title_detail wow fadeIn">detail</p>
             <div class="contents_main_box">
                <ul class="common_bnr">
                  <li><a href="#">DDDDDD</a></li>
