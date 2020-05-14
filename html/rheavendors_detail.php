@@ -62,6 +62,14 @@
                     <p class="rheaven_det_intro">全自動コーヒーマシン</p>
                     <h4 class="rheaven_det_tit"><span class="fonten">la Rhea GRANDE2 Premium</span><br>ラ レア グランデ2 プレミアム</h4>
                     <p class="rheaven_det_price">￥<span class="fonten">123,456</span><span class="rheaven_det_tax">（税込み）</span></p>
+                    <div class="rheaven_cut_wrap">
+                      <div class="rheaven_cut_num clearfix">
+                        <div class="rheaven_cut_minus">-</div>
+                        <div class="rheaven_cut_setnum"><span class="setnum" id="js-setnum">1</span></div>
+                        <div class="rheaven_cut_plus">+</div>
+                      </div>
+                      <div class="rheaven_cut_btn op"><a href="#">カートに入れる</a></div>
+                    </div>
                     <p class="rheaven_det_txt">コーヒー・ラテ・モカ・ココア・抹茶ラテまで、多彩なメニューが抽出できる、ハイパフォーマンスエスプレッソマシンです。</p>
                     <p class="rheaven_det_arrow">商品詳細はブランドサイトでご紹介しています</p>
                     <p class="rheaven_det_bnr op"><a href="#"><img src="/images/rheavendors/bnr_rheaven_det.png" alt=""></a></p>
@@ -117,5 +125,23 @@
 
   </div>
   <!-- /wrapper -->
+<script>
+  var $setnum = $('#js-setnum')
+  $(document).ready(function(){
+    $('.rheaven_cut_minus').click(function(){
+      if(getnum() <= 1){
+        $setnum.text('1')
+      }else{
+        $setnum.text(getnum() - 1)
+      }
+    })
+    $('.rheaven_cut_plus').click(function(){
+      $setnum.text(getnum() + 1)
+    })
+  })
+  function getnum(){
+    return Number($setnum.text())
+  }
+</script>
 </body>
 </html>

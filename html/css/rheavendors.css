@@ -73,6 +73,66 @@
 .rheaven_det_tax {
   font-size: 16px;
 }
+.rheaven_cut_wrap{
+  display: flex;
+}
+.rheaven_cut_num{
+  width: 130px;
+  box-sizing: border-box;
+  border: 1px solid #dcdcdc;
+  border-radius: 3px;
+  padding: 10px 0;
+  margin: 0 20px 0 0;
+}
+.rheaven_cut_minus{
+  float: left;
+  width: 42px;
+  height: 26px;
+  font-size: 18px;
+  line-height: 24px;
+  text-align: center;
+  cursor: pointer;
+}
+.rheaven_cut_setnum{
+  float: left;
+  width: 44px;
+  height: 26px;
+}
+.rheaven_cut_setnum .setnum{
+  display: block;
+  width: 100%;
+  border: none;
+  font-size: 24px;
+  line-height: 30px;
+  height: 26px;
+  text-align: center;
+  font-family: 'Harmattan', sans-serif;
+}
+.rheaven_cut_plus{
+  float: left;
+  width: 42px;
+  height: 26px;
+  font-size: 18px;
+  line-height: 26px;
+  text-align: center;
+  cursor: pointer;
+}
+.rheaven_cut_btn{
+  flex: 1;
+}
+.rheaven_cut_btn a{
+  display: block;
+  font-size: 15px;
+  line-height: 46px;
+  border: 1px solid #005bac;
+  color: #fff;
+  background: #005bac;
+  text-align: center;
+}
+.rheaven_cut_btn a:hover{
+  background: #fff;
+  color: #005bac;
+}
 .rheaven_det_txt {
   border-top: 1px #d3d3d3 solid;
   margin-top: 30px;
