@@ -32,3 +32,17 @@
 	width: 320px;
 	height: 320px;
 }
+
+
+.top_main_img {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+
+@media screen and (max-width: 1080px) {
+  
+}
+@media screen and (max-width: 768px) {
+  
+}
