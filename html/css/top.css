@@ -33,11 +33,143 @@
 	height: 320px;
 }
 
+.top_inner {
+  padding-bottom: 100px;
+}
 
 .top_main_img {
   max-width: 1200px;
   margin: 0 auto;
 }
+@media screen and (max-width: 768px) {
+.top_inner {
+  padding-bottom: 50px;
+}
+}
+
+
+.top_aboutus {
+  margin-top: 120px;
+}
+.top_aboutus_tit {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 28px;
+  font-weight: 500;
+}
+.top_aboutus_tit span {
+  display: block;
+  color: #7b7b7b;
+  font-size: 25px;
+  font-weight: 400;
+  margin-bottom: 15px;
+}
+.top_aboutus_txt {
+  text-align: center;
+  font-size: 16px;
+  line-height: 1.9;
+  margin-bottom: 35px;
+}
+.top_aboutus .common_btn {
+  max-width: 230px;
+  margin: 0 auto;
+}
+@media screen and (max-width: 768px) {
+.top_aboutus {
+  margin-top: 50px;
+}
+.top_aboutus_tit {
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+.top_aboutus_tit span {
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+.top_aboutus_txt {
+  margin-bottom: 20px;
+  font-size: 14px;
+}
+}
+
+.top_pst {
+  margin-top: 140px;
+}
+.top_pst_list {
+  overflow: hidden;
+  margin-left: -20px;
+}
+.top_pst_list li {
+  float: left;
+  width: 33.3333%;
+  padding-left: 20px;
+}
+.top_pst_list li a:hover img {
+  opacity: 0.7;
+}
+.top_pst_tit {
+  font-size: 32px;
+  color: #7b7b7b;
+  padding-right: 100px;
+  line-height: 1;
+  margin-bottom: 20px;
+  position: relative;
+}
+.top_pst_tit:before {
+  position: absolute;
+  content: "";
+  background: #dcdcdc;
+  width: 100px;
+  height: 1px;
+  right: 0;
+  bottom: 10px;
+  z-index: 2;
+}
+.top_pst_txt {
+  color: #333;
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+.top_pst_img {
+  text-align: center;
+}
+.top_pst_img img {
+  width: 100%;
+}
+@media screen and (max-width: 1080px) {
+.top_pst_list {
+  margin: -20px 0 0 -40px;
+}
+.top_pst_list li {
+  width: 50%;
+  margin-top: 40px;
+}
+}
+
+@media screen and (max-width: 768px) {
+.top_pst {
+  margin-top: 50px;
+}
+.top_pst_list {
+  margin: -30px 0 0;
+}
+.top_pst_list li {
+  float: none;
+  width: auto;
+  padding-left: 0;
+  margin-top: 30px;
+}
+.top_pst_tit {
+  font-size: 24px;
+  padding-right: 40px;
+  margin-bottom: 10px;
+}
+.top_pst_tit:before {
+  width: 40px;
+  bottom: 10px;
+}
+}
+
 
 
 @media screen and (max-width: 1080px) {
