@@ -21,22 +21,6 @@ $(function () {
 
   });
 });
-<<<<<<< Updated upstream
-=======
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 $(function () {
   $('.top_main_box').slick({
@@ -50,4 +34,3 @@ $(function () {
   });
 
 });
->>>>>>> Stashed changes
