@@ -78,6 +78,41 @@ var isUA = (function(){
 	o.iphone  = function(){ return indexOfKey("iphone"); }
 	return o;
 })();
+/* !init Smart Devices ------------------------------------------------------ */
+(function (){
+	var parentNode = document.getElementsByTagName('head')[0];
+	var viewport = {
+        withzoom:'width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no',
+        android : 'width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no',
+        ipad    : 'width=1240, user-scalable=no',
+        //iphonescale1  : 'width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0'
+        iphone  : 'width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no'
+    }
+	meta = document.createElement('meta');
+	meta.setAttribute('name','viewport');
+
+	if( isUA.android() ){
+		meta.setAttribute('content',viewport.android);
+		parentNode.appendChild(meta);
+	}else if( isUA.ipad() ){
+		// meta.setAttribute('content',viewport.ipad);
+		// parentNode.appendChild(meta);
+	}else if( isUA.ipod() || isUA.iphone() ){
+		meta.setAttribute('content',viewport.iphone);
+		parentNode.appendChild(meta);
+		/*window.addEventListener('load', function(){ setTimeout(scrollTo, 100, 0, 1);}, false);*/
+	}else{
+	}
+	$(window).bind( 'orientationchange', function(e){
+		if( isUA.ipad() ) {
+			if (window.orientation == 90 || window.orientation == -90) {
+				$('meta[name=viewport]').attr('content',viewport.ipad);
+			}else if (window.orientation == 0 || window.orientation == 180) {
+				$('meta[name=viewport]').attr('content',viewport.ipad);
+			}
+		}
+	});
+})();
 
 /* !pageScroll -------------------------------------------------------------- */
 var pageScroll = function(){
