@@ -95,8 +95,8 @@ var isUA = (function(){
 		meta.setAttribute('content',viewport.android);
 		parentNode.appendChild(meta);
 	}else if( isUA.ipad() ){
-		// meta.setAttribute('content',viewport.ipad);
-		// parentNode.appendChild(meta);
+		meta.setAttribute('content',viewport.ipad);
+		parentNode.appendChild(meta);
 	}else if( isUA.ipod() || isUA.iphone() ){
 		meta.setAttribute('content',viewport.iphone);
 		parentNode.appendChild(meta);
@@ -155,7 +155,7 @@ var common = (function(){
     new WOW().init();
 
   	var isMobile = false;
-	var breakpoint = 1000;
+	var breakpoint = 999;
 	updateIsMobile();
 
 	$(window).on('resize load', function () {
@@ -168,6 +168,10 @@ var common = (function(){
 	$(window).on('load scroll', function () {
 	    var ws = $(this).scrollTop();
 	    var showlinetop = $('.js-showhead').offset().top;
+	    // console.log('$(window).width()',$(window).width())
+	    // console.log('isMobile',isMobile)
+	    // console.log('ws',ws)
+	    // console.log('showlinetop',showlinetop)
 	    if(!isMobile){
 		    if(ws >= showlinetop){
 				$('.fixed_head').addClass('show')
@@ -179,17 +183,14 @@ var common = (function(){
 		}
 	});
 
-	var hdmenu = $('.js-navbar');
-	var menuclose = $('.js-navbar-close');
-	var menu = $('#menu');
-	hdmenu.click(function(){
-		menu.addClass('on');
-		menuclose.addClass('is-active');
+	var $hdmenu = $('.js-navbar');
+	var $menuclose = $('.js-close');
+	var $menu = $('.js-menu');
+	$hdmenu.click(function(){
+		$menu.addClass('on');
 	});
-	menuclose.click(function(){
-		menu.removeClass('on');
-		menuclose.removeClass('is-active');
-		hdmenu.removeClass('is-active');
+	$menuclose.click(function(){
+		$menu.removeClass('on');
 	})
 
 	

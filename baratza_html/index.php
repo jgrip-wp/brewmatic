@@ -42,8 +42,8 @@
         <!-- /top_mainimg -->
         <div class="inner">
           <div class="top_meet js-showhead">
-            <h2 class="page_title fontDIN">MEET YOUR GRINDER!</h2>
-            <div class="meet_box">
+            <h2 class="page_title fontDIN wow fadeInUp">MEET YOUR GRINDER!</h2>
+            <div class="meet_box wow fadeInUp">
               <div class="meet_box_item">
                 <img src="/images/top/img_meet01.png" alt="Forté-BG">
                 <div class="name">Forté-BG</div>
@@ -63,7 +63,7 @@
             </div>
           </div>
           <!-- /top_meet -->
-          <div class="introduce">
+          <div class="introduce wow fadeInUp">
             <div class="biggerlink clearfix">
               <div class="introduce_img"><img src="/images/top/img_introduce02.jpg" class="visiblets" alt="写真"></div>
               <div class="introduce_content">
@@ -76,7 +76,7 @@
           </div>
           <!-- /introduce -->
           <div class="product_lineup">
-            <div class="first_group clearfix">
+            <div class="first_group clearfix wow fadeInUp">
               <div class="first_group_img"><img src="images/top/img_product_lineup01_pc.jpg" alt="写真"></div>
               <div class="second_group visiblets">
                 <img src="/images/top/img_product_lineup04.jpg" alt="写真">
@@ -88,7 +88,7 @@
                 <p class="first_group_btn"><a href="#" class="common_btn">Product lineup</a></p>
               </div>
             </div>
-            <div class="second_group visiblepc">
+            <div class="second_group visiblepc wow fadeInUp">
               <img src="/images/top/img_product_lineup02.jpg" alt="写真">
               <img src="/images/top/img_product_lineup03.jpg" alt="写真">
             </div>
@@ -96,8 +96,8 @@
           <!-- /product_lineup -->
         </div>
         <div class="choose_reason">
-          <h2 class="page_title_mid"><span>REASON WHY PEOPLE CHOOSE</span>BARATZAが選ばれる理由</h2>
-          <div class="reason_box">
+          <h2 class="page_title_mid wow fadeInUp"><span>REASON WHY PEOPLE CHOOSE</span>BARATZAが選ばれる理由</h2>
+          <div class="reason_box wow fadeInUp">
             <div class="reason_box_item">
               <p class="reason_box_tit">BARATZAのこだわり</p>
               <p class="reason_box_comment">コンパクトなボディから生まれる最高のパフォーマンス </p>
