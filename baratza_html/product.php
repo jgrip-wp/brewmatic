@@ -77,7 +77,9 @@
                 </li>
               </ul>
             </div>
+            <!-- /product_list -->
           </div>
+          <!-- /product_content -->
         </div>
       </div>
       <!-- /contents -->

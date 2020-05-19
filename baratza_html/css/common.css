@@ -422,7 +422,10 @@ html,  html body {
   background-repeat: no-repeat;
 }
 .teaser_product{
-  background-image: url(../images/product/bg_teaser01.jpg);
+  background-image: url(../images/product/bg_teaser_product01.jpg);
+}
+.teaser_about{
+  background-image: url(../images/about/bg_teaser_about01.jpg);
 }
 /* !main-contents
 ---------------------------------------------------------- */
