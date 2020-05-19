@@ -153,41 +153,62 @@ var pageScroll = function(){
 var common = (function(){
 
     new WOW().init();
-  
-	$(function(){
-		var hdmenu = $('.js-navbar');
-		var menuclose = $('.js-navbar-close');
-		var menu = $('#menu');
-		hdmenu.click(function(){
-			menu.addClass('on');
-			menuclose.addClass('is-active');
-		});
-		menuclose.click(function(){
-			menu.removeClass('on');
-			menuclose.removeClass('is-active');
-			hdmenu.removeClass('is-active');
-		})
-	})
-	
-	$(function() {
-		
-		$(window).resize(function (event) {
-			switchImage($('.visiblets').css('display') == 'block');
-		});
-		switchImage($('.visiblets').css('display') == 'block');
-		function switchImage(isVisible_header) {
-			$('img').each(function (index) {
-				var pc = $(this).attr('src').replace('_sp.', '_pc.');
-				var ts = $(this).attr('src').replace('_pc.', '_sp.');
-				if (!isVisible_header) {
-					$(this).attr("src",pc);
-				}else {
-					
-					$(this).attr("src",ts);
-				}
-			});
+
+  	var isMobile = false;
+	var breakpoint = 1000;
+	updateIsMobile();
+
+	$(window).on('resize load', function () {
+	    updateIsMobile();
+	});
+
+	function updateIsMobile() {
+	    isMobile = $(window).width() < breakpoint;
+	}
+	$(window).on('load scroll', function () {
+	    var ws = $(this).scrollTop();
+	    var showlinetop = $('.js-showhead').offset().top;
+	    if(!isMobile){
+		    if(ws >= showlinetop){
+				$('.fixed_head').addClass('show')
+		    }else{
+		    	$('.fixed_head').removeClass('show')
+		    }
+		}else{
+			$('.fixed_head').removeClass('show')
 		}
 	});
+
+	var hdmenu = $('.js-navbar');
+	var menuclose = $('.js-navbar-close');
+	var menu = $('#menu');
+	hdmenu.click(function(){
+		menu.addClass('on');
+		menuclose.addClass('is-active');
+	});
+	menuclose.click(function(){
+		menu.removeClass('on');
+		menuclose.removeClass('is-active');
+		hdmenu.removeClass('is-active');
+	})
+
+	
+	$(window).resize(function (event) {
+		switchImage($('.visiblets').css('display') == 'block');
+	});
+	switchImage($('.visiblets').css('display') == 'block');
+	function switchImage(isVisible_header) {
+		$('img').each(function (index) {
+			var pc = $(this).attr('src').replace('_sp.', '_pc.');
+			var ts = $(this).attr('src').replace('_pc.', '_sp.');
+			if (!isVisible_header) {
+				$(this).attr("src",pc);
+			}else {
+				
+				$(this).attr("src",ts);
+			}
+		});
+	}
   
 	if ($('#pageID').length == 1) {
 		if($('#pageID').val() != ''){
