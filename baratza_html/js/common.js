@@ -168,10 +168,6 @@ var common = (function(){
 	$(window).on('load scroll', function () {
 	    var ws = $(this).scrollTop();
 	    var showlinetop = $('.js-showhead').offset().top;
-	    // console.log('$(window).width()',$(window).width())
-	    // console.log('isMobile',isMobile)
-	    // console.log('ws',ws)
-	    // console.log('showlinetop',showlinetop)
 	    if(!isMobile){
 		    if(ws >= showlinetop){
 				$('.fixed_head').addClass('show')

@@ -5,11 +5,11 @@
         </div>
         <div class="head_down">
           <ul>
-            <li><a href="#" class="head_link">ABOUT</a></li>
-            <li><a href="#" class="head_link">PRODUCT</a></li>
+            <li><a href="/about.php" id="gNav01" class="head_link">ABOUT</a></li>
+            <li><a href="/product.php" id="gNav02" class="head_link">PRODUCT</a></li>
             <li class="op"><a href="#" class="head_logo"><img src="/images/common/logo_head.png" alt="BARATZA"></a></li>
-            <li><a href="#" class="head_link">SUPPORT</a></li>
-            <li><a href="#" class="head_link">LIFE WITH COFFEE</a></li>
+            <li><a href="#" id="gNav03" class="head_link">SUPPORT</a></li>
+            <li><a href="#" id="gNav04" class="head_link">LIFE WITH COFFEE</a></li>
           </ul>
           <div class="head_shop op">
             <a href="#">ONLINE SHOP</a>
@@ -21,8 +21,8 @@
         <p class="js-close"></p>
         <div class="menu_logo"><a href="#"><img src="/images/common/logo_head.png" alt="BARATZA"></a></div>
         <ul class="menu_links">
-          <li><a href="#">ABOUT</a></li>
-          <li><a href="#">PRODUCT</a></li>
+          <li><a href="/about.php">ABOUT</a></li>
+          <li><a href="/product.php">PRODUCT</a></li>
           <li><a href="#">SUPPORT</a></li>
           <li><a href="#">LIFE WITH COFFEE</a></li>
         </ul>
@@ -39,8 +39,8 @@
       </div>
       <div class="head_down">
         <ul>
-          <li><a href="#" class="head_link">ABOUT</a></li>
-          <li><a href="#" class="head_link">PRODUCT</a></li>
+          <li><a href="/about.php" class="head_link">ABOUT</a></li>
+          <li><a href="/product.php" class="head_link">PRODUCT</a></li>
           <li class="op"><a href="#" class="head_logo"><img src="/images/common/logo_head.png" alt="BARATZA"></a></li>
           <li><a href="#" class="head_link">SUPPORT</a></li>
           <li><a href="#" class="head_link">LIFE WITH COFFEE</a></li>

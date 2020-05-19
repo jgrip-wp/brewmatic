@@ -7,6 +7,12 @@
   font-style: normal;
   src: url("./font/din1451alt.ttf") format("truetype");
 }
+@font-face {
+  font-family: "Myriad Pro";
+  font-weight: normal;
+  font-style: normal;
+  src: url("./font/MYRIADPRO-REGULAR.OTF") format("truetype");
+}
 /* !HTML5 elements
 ---------------------------------------------------------- */
 header, footer, nav, section, aside, article {
@@ -84,7 +90,9 @@ abbr, acronym {
 .fontDIN {
   font-family: 'Alte DIN 1451 Mittelschrift', sans-serif;
 }
-
+.fontMyriad {
+  font-family: "Myriad Pro", sans-serif;
+}
 /* !Base Fonts
 ---------------------------------------------------------- */
 a {
@@ -386,21 +394,13 @@ html,  html body {
 /* !breadcrumb
 ---------------------------------------------------------- */
 #breadcrumb {
-  max-width: 1150px;
-  padding: 0 15px;
-  margin: 15px auto 0;
-  font-size: 13px;
-  text-align: right;
-  color: #7b7b7b;
+  font-size: 12px;
+  line-height: 30px;
+  color: #fff;
+  background: rgba(0,0,0,0.4);
 }
 #breadcrumb a {
-  color: #7b7b7b;
-}
-#breadcrumb .home {
-  font-size: 20px;
-}
-#breadcrumb span {
-  font-size: 20px;
+  color: #fff;
 }
 @media screen and (max-width: 1080px) {
 #breadcrumb {
@@ -413,7 +413,17 @@ html,  html body {
   text-align: left;
 }
 }
-
+/* !teaser
+---------------------------------------------------------- */
+.teaser{
+  height: 180px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.teaser_product{
+  background-image: url(../images/product/bg_teaser01.jpg);
+}
 /* !main-contents
 ---------------------------------------------------------- */
 #contents {
