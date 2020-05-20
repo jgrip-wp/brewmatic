@@ -8,18 +8,18 @@
 <meta name="description" content="" />
 <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
 
-<link rel="stylesheet" type="text/css" href="/css/common.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/css/animate.css"/>
+<link rel="stylesheet" type="text/css" href="./css/common.css" media="all" />
+<link rel="stylesheet" type="text/css" href="./css/animate.css"/>
 
-<link rel="stylesheet" type="text/css" href="/css/aboutus.css"/>
+<link rel="stylesheet" type="text/css" href="./css/aboutus.css"/>
 
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Harmattan&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 
-<script type="text/javascript" src="/js/jquery.min.js"></script>
-<script type="text/javascript" src="/js/common.js"></script>
-<script type="text/javascript" src="/js/wow.min.js"></script>
+<script type="text/javascript" src="./js/jquery.min.js"></script>
+<script type="text/javascript" src="./js/common.js"></script>
+<script type="text/javascript" src="./js/wow.min.js"></script>
 
 <!--[if lt IE 9]>
 <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -28,24 +28,24 @@
 <body>
   <div id="wrapper">
     <input type="hidden" id="pageID" value="gNav01">
-    <?php include( $_SERVER['DOCUMENT_ROOT'] . '/include/head.php'); ?>
+    <?php include './include/head.php'; ?>
 
 
     <article>
       <div id="contents">
-        <p id="breadcrumb" class="op"><a href="/" class="home fonten">Top</a> > About us</p>
+        <p id="breadcrumb" class="op"><a href="./" class="home fonten">Top</a> > About us</p>
         <div class="contents_main">
           <div class="inner">
             <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">About us</span>ブルーマチックジャパンについて</h2>
              <ul class="common_bnr wow fadeIn">
-               <li><a href="/aboutus.php" class="active">ブルーマチックジャパンについて</a></li>
-               <li><a href="/policy.php">経営理念</a></li>
-               <li><a href="/ceo.php">トップメッセージ</a></li>
+               <li><a href="./aboutus.php" class="active">ブルーマチックジャパンについて</a></li>
+               <li><a href="./policy.php">経営理念</a></li>
+               <li><a href="./ceo.php">トップメッセージ</a></li>
              </ul>
             <!-- /common_bnr -->
             <div class="aboutus_section">
               <div class="aboutus_place wow fadeIn">
-                <p class="aboutus_place_img"><img src="/images/aboutus/logo_aboutus.png" alt="あらゆる場所と時間にコーヒーマシンのある社会をつくる"></p>
+                <p class="aboutus_place_img"><img src="./images/aboutus/logo_aboutus.png" alt="あらゆる場所と時間にコーヒーマシンのある社会をつくる"></p>
                 <div class="aboutus_place_cont">
                   <h3 class="aboutus_place_tit">あらゆる場所と時間に<br>コーヒーマシンのある社会をつくる</h3>
                   <ul class="aboutus_place_txt">
@@ -152,7 +152,7 @@
 
     </article>
 
-    <?php include( $_SERVER['DOCUMENT_ROOT'] . '/include/footer.php'); ?>
+    <?php include './include/footer.php'; ?>
 
   </div>
   <!-- /wrapper -->

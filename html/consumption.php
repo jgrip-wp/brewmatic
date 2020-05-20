@@ -8,18 +8,18 @@
 <meta name="description" content="" />
 <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
 
-<link rel="stylesheet" type="text/css" href="/css/common.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/css/animate.css"/>
+<link rel="stylesheet" type="text/css" href="./css/common.css" media="all" />
+<link rel="stylesheet" type="text/css" href="./css/animate.css"/>
 
-<link rel="stylesheet" type="text/css" href="/css/consumption.css"/>
+<link rel="stylesheet" type="text/css" href="./css/consumption.css"/>
 
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Harmattan&display=swap" rel="stylesheet">
 
-<script type="text/javascript" src="/js/jquery.min.js"></script>
-<script type="text/javascript" src="/js/common.js"></script>
-<script type="text/javascript" src="/js/wow.min.js"></script>
-<script type="text/javascript" src="/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" src="./js/jquery.min.js"></script>
+<script type="text/javascript" src="./js/common.js"></script>
+<script type="text/javascript" src="./js/wow.min.js"></script>
+<script type="text/javascript" src="./js/jquery.matchHeight-min.js"></script>
 
 <!--[if lt IE 9]>
 <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -28,12 +28,12 @@
 <body>
   <div id="wrapper">
     <input type="hidden" id="pageID" value="gNav07">
-    <?php include( $_SERVER['DOCUMENT_ROOT'] . '/include/head.php'); ?>
+    <?php include './include/head.php'; ?>
 
 
     <article>
       <div id="contents">
-        <p id="breadcrumb" class="op"><a href="/" class="home fonten">Top</a> > <a href="#">コーヒーマシンの選び方</a> > 消費量から選ぶ</p>
+        <p id="breadcrumb" class="op"><a href="./" class="home fonten">Top</a> > <a href="#">コーヒーマシンの選び方</a> > 消費量から選ぶ</p>
         <div class="contents_main">
           <div class="inner">
             <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">Select Machine</span>コーヒーマシンの選び方</h2>
@@ -64,7 +64,7 @@
                     <th rowspan="2" class="consump_table_tit">手注ぎ式</th>
                     <td class="consump_table_cont">
                       <div class="consump_table_box">
-                        <p><img src="/images/consumption/img_consumption01.png" alt="EZ Brewer"></p>
+                        <p><img src="./images/consumption/img_consumption01.png" alt="EZ Brewer"></p>
                         <p class="consump_table_name fonten">EZ Brewer</p>
                       </div>
                     </td>
@@ -78,7 +78,7 @@
                   <tr>
                     <td class="consump_table_cont">
                       <div class="consump_table_box">
-                        <p><img src="/images/consumption/img_consumption02.png" alt="EZ Thermo Brewer"></p>
+                        <p><img src="./images/consumption/img_consumption02.png" alt="EZ Thermo Brewer"></p>
                         <p class="consump_table_name fonten">EZ Thermo Brewer</p>
                       </div>
                     </td>
@@ -93,7 +93,7 @@
                     <th rowspan="8" class="consump_table_tit">ドリップ<br>コーヒーマシン</th>
                     <td class="consump_table_cont">
                       <div class="consump_table_box">
-                        <p><img src="/images/consumption/img_consumption03.png" alt="C-22［100V］"></p>
+                        <p><img src="./images/consumption/img_consumption03.png" alt="C-22［100V］"></p>
                         <p class="consump_table_name fonten">C-22［100V］</p>
                       </div>
                     </td>
@@ -107,7 +107,7 @@
                   <tr>
                     <td class="consump_table_cont">
                       <div class="consump_table_box">
-                        <p><img src="/images/consumption/img_consumption04.png" alt="C-22"></p>
+                        <p><img src="./images/consumption/img_consumption04.png" alt="C-22"></p>
                         <p class="consump_table_name fonten">C-22</p>
                       </div>
                     </td>
@@ -121,7 +121,7 @@
                   <tr>
                     <td class="consump_table_cont">
                       <div class="consump_table_box">
-                        <p><img src="/images/consumption/img_consumption05.png" alt="B3 Decanter"></p>
+                        <p><img src="./images/consumption/img_consumption05.png" alt="B3 Decanter"></p>
                         <p class="consump_table_name fonten">B3 Decanter</p>
                       </div>
                     </td>
@@ -135,7 +135,7 @@
                   <tr>
                     <td class="consump_table_cont">
                       <div class="consump_table_box">
-                        <p><img src="/images/consumption/img_consumption06.png" alt="ALPHA"></p>
+                        <p><img src="./images/consumption/img_consumption06.png" alt="ALPHA"></p>
                         <p class="consump_table_name fonten">ALPHA</p>
                       </div>
                     </td>
@@ -149,7 +149,7 @@
                   <tr>
                     <td class="consump_table_cont">
                       <div class="consump_table_box">
-                        <p><img src="/images/consumption/img_consumption07.png" alt="B3 Thermo Brewer"></p>
+                        <p><img src="./images/consumption/img_consumption07.png" alt="B3 Thermo Brewer"></p>
                         <p class="consump_table_name fonten">B3 Thermo Brewer</p>
                       </div>
                     </td>
@@ -163,7 +163,7 @@
                   <tr>
                     <td class="consump_table_cont">
                       <div class="consump_table_box">
-                        <p><img src="/images/consumption/img_consumption08.png" alt="C-22 Thermo Brewer"></p>
+                        <p><img src="./images/consumption/img_consumption08.png" alt="C-22 Thermo Brewer"></p>
                         <p class="consump_table_name fonten">C-22 Thermo Brewer</p>
                       </div>
                     </td>
@@ -177,7 +177,7 @@
                   <tr>
                     <td class="consump_table_cont">
                       <div class="consump_table_box">
-                        <p><img src="/images/consumption/img_consumption09.png" alt="Coffee Urn T3EA"></p>
+                        <p><img src="./images/consumption/img_consumption09.png" alt="Coffee Urn T3EA"></p>
                         <p class="consump_table_name fonten">Coffee Urn<br>T3EA</p>
                       </div>
                     </td>
@@ -191,7 +191,7 @@
                   <tr>
                     <td class="consump_table_cont">
                       <div class="consump_table_box">
-                        <p><img src="/images/consumption/img_consumption10.png" alt="Coffee Urn T6EA"></p>
+                        <p><img src="./images/consumption/img_consumption10.png" alt="Coffee Urn T6EA"></p>
                         <p class="consump_table_name fonten">Coffee Urn<br>T6EA</p>
                       </div>
                     </td>
@@ -226,7 +226,7 @@
                     <th rowspan="11" class="consump_table_tit">フルオート</th>
                     <td class="consump_table_cont">
                       <div class="consump_table_box">
-                        <p><img src="/images/consumption/img_consumption11.png" alt="E8"></p>
+                        <p><img src="./images/consumption/img_consumption11.png" alt="E8"></p>
                         <p class="consump_table_name fonten">E8</p>
                       </div>
                     </td>
@@ -240,7 +240,7 @@
                   <tr>
                     <td class="consump_table_cont">
                       <div class="consump_table_box">
-                        <p><img src="/images/consumption/img_consumption12.png" alt="E6"></p></p>
+                        <p><img src="./images/consumption/img_consumption12.png" alt="E6"></p></p>
                         <p class="consump_table_name fonten">E6</p>
                       </div>
                     </td>
@@ -254,7 +254,7 @@
                   <tr>
                     <td class="consump_table_cont">
                       <div class="consump_table_box">
-                        <p><img src="/images/consumption/img_consumption13.png" alt="WE8"></p></p>
+                        <p><img src="./images/consumption/img_consumption13.png" alt="WE8"></p></p>
                         <p class="consump_table_name fonten">WE8</p>
                       </div>
                     </td>
@@ -268,7 +268,7 @@
                   <tr>
                     <td class="consump_table_cont">
                       <div class="consump_table_box">
-                        <p><img src="/images/consumption/img_consumption14.png" alt="GIGA X3"></p></p>
+                        <p><img src="./images/consumption/img_consumption14.png" alt="GIGA X3"></p></p>
                         <p class="consump_table_name fonten">GIGA X3</p>
                       </div>
                     </td>
@@ -282,7 +282,7 @@
                   <tr>
                     <td class="consump_table_cont">
                       <div class="consump_table_box">
-                        <p><img src="/images/consumption/img_consumption15.png" alt="GIGA X8c"></p></p>
+                        <p><img src="./images/consumption/img_consumption15.png" alt="GIGA X8c"></p></p>
                         <p class="consump_table_name fonten">GIGA X8c</p>
                       </div>
                     </td>
@@ -296,7 +296,7 @@
                   <tr>
                     <td class="consump_table_cont">
                       <div class="consump_table_box">
-                        <p><img src="/images/consumption/img_consumption16.png" alt="X8"></p></p>
+                        <p><img src="./images/consumption/img_consumption16.png" alt="X8"></p></p>
                         <p class="consump_table_name fonten">X8</p>
                       </div>
                     </td>
@@ -310,7 +310,7 @@
                   <tr>
                     <td class="consump_table_cont">
                       <div class="consump_table_box">
-                        <p><img src="/images/consumption/img_consumption17.png" alt="eC +コインメック"></p></p>
+                        <p><img src="./images/consumption/img_consumption17.png" alt="eC +コインメック"></p></p>
                         <p class="consump_table_name fonten">eC +コインメック</p>
                       </div>
                     </td>
@@ -324,7 +324,7 @@
                   <tr>
                     <td class="consump_table_cont">
                       <div class="consump_table_box">
-                        <p><img src="/images/consumption/img_consumption18.png" alt="rhea BL eC"></p></p>
+                        <p><img src="./images/consumption/img_consumption18.png" alt="rhea BL eC"></p></p>
                         <p class="consump_table_name fonten">rhea BL eC</p>
                       </div>
                     </td>
@@ -338,7 +338,7 @@
                   <tr>
                     <td class="consump_table_cont">
                       <div class="consump_table_box">
-                        <p><img src="/images/consumption/img_consumption19.png" alt="la Rhea GRANDE2 Premium"></p></p>
+                        <p><img src="./images/consumption/img_consumption19.png" alt="la Rhea GRANDE2 Premium"></p></p>
                         <p class="consump_table_name fonten">la Rhea GRANDE2<br>Premium</p>
                       </div>
                     </td>
@@ -352,7 +352,7 @@
                   <tr>
                     <td class="consump_table_cont">
                       <div class="consump_table_box">
-                        <p><img src="/images/consumption/img_consumption20.png" alt="BlueDot Plus"></p></p>
+                        <p><img src="./images/consumption/img_consumption20.png" alt="BlueDot Plus"></p></p>
                         <p class="consump_table_name fonten">BlueDot Plus</p>
                       </div>
                     </td>
@@ -366,7 +366,7 @@
                   <tr>
                     <td class="consump_table_cont">
                       <div class="consump_table_box">
-                        <p><img src="/images/consumption/img_consumption21.png" alt="HARMONY SOFT"></p></p>
+                        <p><img src="./images/consumption/img_consumption21.png" alt="HARMONY SOFT"></p></p>
                         <p class="consump_table_name fonten">HARMONY SOFT</p>
                       </div>
                     </td>
@@ -381,7 +381,7 @@
                     <th rowspan="2" class="consump_table_tit">セミオート</th>
                     <td class="consump_table_cont">
                       <div class="consump_table_box">
-                        <p><img src="/images/consumption/img_consumption22.png" alt="Cento50 G1"></p>
+                        <p><img src="./images/consumption/img_consumption22.png" alt="Cento50 G1"></p>
                         <p class="consump_table_name fonten">Cento50 G1</p>
                       </div>
                     </td>
@@ -395,7 +395,7 @@
                   <tr>
                     <td class="consump_table_cont">
                       <div class="consump_table_box">
-                        <p><img src="/images/consumption/img_consumption23.png" alt="Cento50 G2"></p></p>
+                        <p><img src="./images/consumption/img_consumption23.png" alt="Cento50 G2"></p></p>
                         <p class="consump_table_name fonten">Cento50 G2</p>
                       </div>
                     </td>
@@ -418,7 +418,7 @@
 
     </article>
 
-    <?php include( $_SERVER['DOCUMENT_ROOT'] . '/include/footer.php'); ?>
+    <?php include './include/footer.php'; ?>
 
   </div>
   <!-- /wrapper -->

@@ -1,7 +1,7 @@
     <footer>
       <div id="footer">
         <div class="footer_inner op">
-          <p class="footer_inner_logo"><img src="/images/common/logo_footer.png" alt="BREW MATIC"></p>
+          <p class="footer_inner_logo"><img src="./images/common/logo_footer.png" alt="BREW MATIC"></p>
           <div class="clearfix">
             <div class="footer_link">
               <p class="footer_link_tit"><span>Brewmatic Japan</span>について</p>
@@ -46,9 +46,9 @@
       </div>
       <!-- /footer -->
       <ul class="page_fixed op">
-        <li><a href="#" class="page_fixed_red"><img src="/images/common/ico_contact_head.png" alt="お問合せ"><span class="page_fixed_txt">お問合せ</span></a></li>
-        <li><a href="#" class="page_fixed_brown"><img src="/images/common/ico_cata_head.png" alt="カタログのご請求"><span class="page_fixed_txt">カタログの<br>ご請求</span></a></li>
-        <li><a href="#" class="page_fixed_blue"><img src="/images/common/ico_show_head.png" alt="ショールームのご案内"><span class="page_fixed_txt">ショールーム<br>のご案内</span></a></li>
+        <li><a href="#" class="page_fixed_red"><img src="./images/common/ico_contact_head.png" alt="お問合せ"><span class="page_fixed_txt">お問合せ</span></a></li>
+        <li><a href="#" class="page_fixed_brown"><img src="./images/common/ico_cata_head.png" alt="カタログのご請求"><span class="page_fixed_txt">カタログの<br>ご請求</span></a></li>
+        <li><a href="#" class="page_fixed_blue"><img src="./images/common/ico_show_head.png" alt="ショールームのご案内"><span class="page_fixed_txt">ショールーム<br>のご案内</span></a></li>
       </ul>
       <!-- /page_fixed -->
     </footer>

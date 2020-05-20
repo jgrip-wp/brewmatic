@@ -8,18 +8,18 @@
 <meta name="description" content="" />
 <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
 
-<link rel="stylesheet" type="text/css" href="/css/common.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/css/animate.css"/>
+<link rel="stylesheet" type="text/css" href="./css/common.css" media="all" />
+<link rel="stylesheet" type="text/css" href="./css/animate.css"/>
 
-<link rel="stylesheet" type="text/css" href="/css/faq.css"/>
+<link rel="stylesheet" type="text/css" href="./css/faq.css"/>
 
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Harmattan&display=swap" rel="stylesheet">
 
-<script type="text/javascript" src="/js/jquery.min.js"></script>
-<script type="text/javascript" src="/js/common.js"></script>
-<script type="text/javascript" src="/js/wow.min.js"></script>
-<script type="text/javascript" src="/js/faq.js"></script>
+<script type="text/javascript" src="./js/jquery.min.js"></script>
+<script type="text/javascript" src="./js/common.js"></script>
+<script type="text/javascript" src="./js/wow.min.js"></script>
+<script type="text/javascript" src="./js/faq.js"></script>
 
 <!--[if lt IE 9]>
 <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -28,12 +28,12 @@
 <body>
   <div id="wrapper">
     <input type="hidden" id="pageID" value="gNav04">
-    <?php include( $_SERVER['DOCUMENT_ROOT'] . '/include/head.php'); ?>
+    <?php include './include/head.php'; ?>
 
 
     <article>
       <div id="contents">
-        <p id="breadcrumb" class="op"><a href="/" class="home fonten">Top</a> > よくあるご質問</p>
+        <p id="breadcrumb" class="op"><a href="./" class="home fonten">Top</a> > よくあるご質問</p>
         <div class="contents_main">
           <div class="inner">
             <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">FAQ</span>よくあるご質問</h2>
@@ -43,7 +43,7 @@
             <div class="inner">
               <h3 class="faq_search_tit wow fadeIn">キーワードで検索</h3>
               <p class="faq_search_in wow fadeIn"><input type="text" id="" name="" class="faq_search_input" placeholder="キーワードを入力してください"><input type="button" id="" name="" value="検索" class="faq_search_btn"></p>
-              <p class="faq_search_cap op wow fadeIn">こちらで解決しない場合には、<a href="/contact.php">お問い合わせ</a>よりご連絡をお願いします。</p>
+              <p class="faq_search_cap op wow fadeIn">こちらで解決しない場合には、<a href="./contact.php">お問い合わせ</a>よりご連絡をお願いします。</p>
               <div class="faq_search_cont">
                 <p class="faq_step_tit wow fadeIn"><span>長期休業前・再開時のコーヒーマシンの取り扱いについて</span><br>コーヒーマシンの運転を休止し、再開する際の手順はこちらをご覧ください。</p>
                 <ul class="faq_step_link op wow fadeIn">
@@ -58,20 +58,20 @@
           </div>
           <div class="inner">
             <ul class="common_logo">
-              <li><a href="#" class="wow fadeIn"><img src="/images/common/logo01.png" alt=""></a></li>
-              <li><a href="#" class="wow fadeIn"><img src="/images/common/logo02.png" alt=""></a></li>
-              <li><a href="#" class="wow fadeIn"><img src="/images/common/logo03.png" alt=""></a></li>
-              <li><a href="#" class="wow fadeIn"><img src="/images/common/logo04.png" alt=""></a></li>
-              <li><a href="#" class="wow fadeIn"><img src="/images/common/logo05.png" alt=""></a></li>
-              <li class="current"><a href="#" class="wow fadeIn"><img src="/images/common/logo06.png" alt=""></a></li>
-              <li><a href="#" class="wow fadeIn"><img src="/images/common/logo07.png" alt=""></a></li>
-              <li><a href="#" class="wow fadeIn"><img src="/images/common/logo08.png" alt=""></a></li>
-              <li><a href="#" class="wow fadeIn"><img src="/images/common/logo09.png" alt=""></a></li>
-              <li><a href="#" class="wow fadeIn"><img src="/images/common/logo10.png" alt=""></a></li>
+              <li><a href="#" class="wow fadeIn"><img src="./images/common/logo01.png" alt=""></a></li>
+              <li><a href="#" class="wow fadeIn"><img src="./images/common/logo02.png" alt=""></a></li>
+              <li><a href="#" class="wow fadeIn"><img src="./images/common/logo03.png" alt=""></a></li>
+              <li><a href="#" class="wow fadeIn"><img src="./images/common/logo04.png" alt=""></a></li>
+              <li><a href="#" class="wow fadeIn"><img src="./images/common/logo05.png" alt=""></a></li>
+              <li class="current"><a href="#" class="wow fadeIn"><img src="./images/common/logo06.png" alt=""></a></li>
+              <li><a href="#" class="wow fadeIn"><img src="./images/common/logo07.png" alt=""></a></li>
+              <li><a href="#" class="wow fadeIn"><img src="./images/common/logo08.png" alt=""></a></li>
+              <li><a href="#" class="wow fadeIn"><img src="./images/common/logo09.png" alt=""></a></li>
+              <li><a href="#" class="wow fadeIn"><img src="./images/common/logo10.png" alt=""></a></li>
             </ul>
             <!-- /common_logo -->
             <div class="faq_cont">
-              <p class="faq_cont_logo wow fadeIn"><img src="/images/faq/logo_faq.png" alt=""></p>
+              <p class="faq_cont_logo wow fadeIn"><img src="./images/faq/logo_faq.png" alt=""></p>
               <div class="faq_section">
                 <p class="faq_cont_tit wow fadeIn">CLARISフィルターについて</p>
                 <div class="js-qa">
@@ -117,7 +117,7 @@
 
     </article>
 
-    <?php include( $_SERVER['DOCUMENT_ROOT'] . '/include/footer.php'); ?>
+    <?php include './include/footer.php'; ?>
 
   </div>
   <!-- /wrapper -->

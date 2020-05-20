@@ -9,15 +9,15 @@
 <meta name="format-detection" content="telephone=no"/>
 <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
 
-<link rel="stylesheet" type="text/css" href="/css/common.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/css/animate.css"/>
-<link rel="stylesheet" type="text/css" href="/css/showroom.css"/>
+<link rel="stylesheet" type="text/css" href="./css/common.css" media="all" />
+<link rel="stylesheet" type="text/css" href="./css/animate.css"/>
+<link rel="stylesheet" type="text/css" href="./css/showroom.css"/>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Harmattan&display=swap" rel="stylesheet">
 
-<script type="text/javascript" src="/js/jquery.min.js"></script>
-<script type="text/javascript" src="/js/common.js"></script>
-<script type="text/javascript" src="/js/wow.min.js"></script>
+<script type="text/javascript" src="./js/jquery.min.js"></script>
+<script type="text/javascript" src="./js/common.js"></script>
+<script type="text/javascript" src="./js/wow.min.js"></script>
 
 <!--[if lt IE 9]>
 <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -26,12 +26,12 @@
 <body>
   <div id="wrapper">
     <input type="hidden" id="pageID" value="">
-    <?php include( $_SERVER['DOCUMENT_ROOT'] . '/include/head.php'); ?>
+    <?php include './include/head.php'; ?>
 
 
     <article>
       <div id="contents">
-        <p id="breadcrumb" class="op"><a href="/" class="home fonten">Top</a> > ショールームのご予約</p>
+        <p id="breadcrumb" class="op"><a href="./" class="home fonten">Top</a> > ショールームのご予約</p>
         <div class="contents_main">
           <div class="inner">
             <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">Showroom</span>ショールームのご予約</h2>
@@ -40,32 +40,32 @@
               <div class="showroom_content">
                 <p class="showroom_comment op wow fadeIn">ブルーマチックジャパンでは、世界のプレミアムブランドを実際に操作してお試しいただけるショールームをご用意しています。<br>ご検討中のマシンの詳細はもちろん、業態や提供スタイル、店舗の環境、コンセプトに合わせたトータルな提案もいたしますので、ご予約の上ぜひお越しください。</p>
                 <div class="common_brand_list wow fadeIn">
-                  <img src="/images/common/logo_brand01.jpg" alt="BREW MATIC">
-                  <img src="/images/common/logo_brand02.jpg" alt="Curtis">
-                  <img src="/images/common/logo_brand03.jpg" alt="Carimali">
-                  <img src="/images/common/logo_brand04.jpg" alt="juia">
-                  <img src="/images/common/logo_brand05.jpg" alt="rheavendors group">
-                  <img src="/images/common/logo_brand06.jpg" alt="SANREMO">
-                  <img src="/images/common/logo_brand07.jpg" alt="BARATZA">
-                  <img src="/images/common/logo_brand08.jpg" alt="rockline">
+                  <img src="./images/common/logo_brand01.jpg" alt="BREW MATIC">
+                  <img src="./images/common/logo_brand02.jpg" alt="Curtis">
+                  <img src="./images/common/logo_brand03.jpg" alt="Carimali">
+                  <img src="./images/common/logo_brand04.jpg" alt="juia">
+                  <img src="./images/common/logo_brand05.jpg" alt="rheavendors group">
+                  <img src="./images/common/logo_brand06.jpg" alt="SANREMO">
+                  <img src="./images/common/logo_brand07.jpg" alt="BARATZA">
+                  <img src="./images/common/logo_brand08.jpg" alt="rockline">
                 </div>
                 <!-- /common_brand_list -->
                 <div class="showroom_gallery clearfix wow fadeIn">
                   <div class="showroom_gallery_main">
-                    <img src="/images/showroom/img_showroom01.jpg" alt="写真" id="js-gallery-main">
+                    <img src="./images/showroom/img_showroom01.jpg" alt="写真" id="js-gallery-main">
                   </div>
                   <div class="showroom_gallery_group">
                     <div class="gallery_img_item current" data-src="/images/showroom/img_showroom01.jpg">
-                      <img src="/images/showroom/img_showroom02.jpg" alt="写真">
+                      <img src="./images/showroom/img_showroom02.jpg" alt="写真">
                     </div>
                     <div class="gallery_img_item" data-src="/images/showroom/img_showroom03.jpg">
-                      <img src="/images/showroom/img_showroom03.jpg" alt="写真">
+                      <img src="./images/showroom/img_showroom03.jpg" alt="写真">
                     </div>
                     <div class="gallery_img_item" data-src="/images/showroom/img_showroom04.jpg">
-                      <img src="/images/showroom/img_showroom04.jpg" alt="写真">
+                      <img src="./images/showroom/img_showroom04.jpg" alt="写真">
                     </div>
                     <div class="gallery_img_item" data-src="/images/showroom/img_showroom05.jpg">
-                      <img src="/images/showroom/img_showroom05.jpg" alt="写真">
+                      <img src="./images/showroom/img_showroom05.jpg" alt="写真">
                     </div>
                   </div>
                 </div>
@@ -113,7 +113,7 @@
 
     </article>
 
-    <?php include( $_SERVER['DOCUMENT_ROOT'] . '/include/footer.php'); ?>
+    <?php include './include/footer.php'; ?>
 
   </div>
 <!-- /wrapper -->

@@ -8,15 +8,15 @@
 <meta name="description" content="" />
 <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
 
-<link rel="stylesheet" type="text/css" href="/css/common.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/css/animate.css"/>
-<link rel="stylesheet" type="text/css" href="/css/rocklinefilter.css"/>
+<link rel="stylesheet" type="text/css" href="./css/common.css" media="all" />
+<link rel="stylesheet" type="text/css" href="./css/animate.css"/>
+<link rel="stylesheet" type="text/css" href="./css/rocklinefilter.css"/>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Harmattan&display=swap" rel="stylesheet">
 
-<script type="text/javascript" src="/js/jquery.min.js"></script>
-<script type="text/javascript" src="/js/common.js"></script>
-<script type="text/javascript" src="/js/wow.min.js"></script>
+<script type="text/javascript" src="./js/jquery.min.js"></script>
+<script type="text/javascript" src="./js/common.js"></script>
+<script type="text/javascript" src="./js/wow.min.js"></script>
 
 <!--[if lt IE 9]>
 <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -25,12 +25,12 @@
 <body>
   <div id="wrapper">
     <input type="hidden" id="pageID" value="">
-    <?php include( $_SERVER['DOCUMENT_ROOT'] . '/include/head.php'); ?>
+    <?php include './include/head.php'; ?>
 
 
     <article>
       <div id="contents">
-        <p id="breadcrumb" class="op"><a href="/" class="home fonten">Top</a> > <a href="/brand.php">ブランド一覧</a> > フィルターペーパー</p>
+        <p id="breadcrumb" class="op"><a href="./" class="home fonten">Top</a> > <a href="./brand.php">ブランド一覧</a> > フィルターペーパー</p>
         <div class="contents_main">
           <div class="inner">
             <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">Brand lineup</span>ROCKLINE</h2>
@@ -38,7 +38,7 @@
             <div class="contents_main_box">
               <div class="rocklinefilter_content">
                 <div class="rocklinefilter_box wow fadeIn">
-                  <div class="rocklinefilter_box_img"><img src="/images/rocklinefilter/img_rocklinefilter01.png" alt="写真"></div>
+                  <div class="rocklinefilter_box_img"><img src="./images/rocklinefilter/img_rocklinefilter01.png" alt="写真"></div>
                   <div class="rocklinefilter_box_content">
                     <h4 class="rocklinefilter_box_title">フィルターペーパー</h4>
                     <p class="rocklinefilter_box_txt">北米で最大シェアを誇るロックライン社製。<br>安定した透過性と丈夫なコーヒーフィルターです。</p>
@@ -139,7 +139,7 @@
 
     </article>
 
-    <?php include( $_SERVER['DOCUMENT_ROOT'] . '/include/footer.php'); ?>
+    <?php include './include/footer.php'; ?>
 
   </div>
   <!-- /wrapper -->

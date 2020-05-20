@@ -8,18 +8,18 @@
 <meta name="description" content="" />
 <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
 
-<link rel="stylesheet" type="text/css" href="/css/common.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/css/animate.css"/>
+<link rel="stylesheet" type="text/css" href="./css/common.css" media="all" />
+<link rel="stylesheet" type="text/css" href="./css/animate.css"/>
 
-<link rel="stylesheet" type="text/css" href="/css/rheavendors.css"/>
+<link rel="stylesheet" type="text/css" href="./css/rheavendors.css"/>
 
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Harmattan&display=swap" rel="stylesheet">
 
-<script type="text/javascript" src="/js/jquery.min.js"></script>
-<script type="text/javascript" src="/js/common.js"></script>
-<script type="text/javascript" src="/js/wow.min.js"></script>
-<script type="text/javascript" src="/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" src="./js/jquery.min.js"></script>
+<script type="text/javascript" src="./js/common.js"></script>
+<script type="text/javascript" src="./js/wow.min.js"></script>
+<script type="text/javascript" src="./js/jquery.matchHeight-min.js"></script>
 
 <!--[if lt IE 9]>
 <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -28,35 +28,35 @@
 <body>
   <div id="wrapper">
     <input type="hidden" id="pageID" value="gNav09">
-    <?php include( $_SERVER['DOCUMENT_ROOT'] . '/include/head.php'); ?>
+    <?php include './include/head.php'; ?>
 
 
     <article>
       <div id="contents">
-        <p id="breadcrumb" class="op"><a href="/" class="home fonten">Top</a> > <a href="#">オンラインショップ</a> > <a href="#" class="home fonten">rheavendors</a> > <span class="home fonten">la-rhea-grande2-premium</span></p>
+        <p id="breadcrumb" class="op"><a href="./" class="home fonten">Top</a> > <a href="#">オンラインショップ</a> > <a href="#" class="home fonten">rheavendors</a> > <span class="home fonten">la-rhea-grande2-premium</span></p>
         <div class="contents_main">
           <div class="inner">
             <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">Online shop</span>オンラインショップ</h2>
             <p class="page_title_detail wow fadeIn">ブルーマチックジャパンの取り扱いマシン、メンテナンス商品を<br class="visiblepc">お求めいただけるオンラインショップです。</p>
             <div class="contents_main_box rheaven_main">
               <ul class="common_logo">
-                <li><a href="#" class="wow fadeIn"><img src="/images/common/logo01.png" alt=""></a></li>
-                <li><a href="#" class="wow fadeIn"><img src="/images/common/logo02.png" alt=""></a></li>
-                <li><a href="#" class="wow fadeIn"><img src="/images/common/logo03.png" alt=""></a></li>
-                <li><a href="#" class="wow fadeIn"><img src="/images/common/logo04.png" alt=""></a></li>
-                <li><a href="#" class="wow fadeIn"><img src="/images/common/logo05.png" alt=""></a></li>
-                <li class="current"><a href="#" class="wow fadeIn"><img src="/images/common/logo06.png" alt=""></a></li>
-                <li><a href="#" class="wow fadeIn"><img src="/images/common/logo07.png" alt=""></a></li>
-                <li><a href="#" class="wow fadeIn"><img src="/images/common/logo08.png" alt=""></a></li>
-                <li><a href="#" class="wow fadeIn"><img src="/images/common/logo09.png" alt=""></a></li>
-                <li><a href="#" class="wow fadeIn"><img src="/images/common/logo10.png" alt=""></a></li>
+                <li><a href="#" class="wow fadeIn"><img src="./images/common/logo01.png" alt=""></a></li>
+                <li><a href="#" class="wow fadeIn"><img src="./images/common/logo02.png" alt=""></a></li>
+                <li><a href="#" class="wow fadeIn"><img src="./images/common/logo03.png" alt=""></a></li>
+                <li><a href="#" class="wow fadeIn"><img src="./images/common/logo04.png" alt=""></a></li>
+                <li><a href="#" class="wow fadeIn"><img src="./images/common/logo05.png" alt=""></a></li>
+                <li class="current"><a href="#" class="wow fadeIn"><img src="./images/common/logo06.png" alt=""></a></li>
+                <li><a href="#" class="wow fadeIn"><img src="./images/common/logo07.png" alt=""></a></li>
+                <li><a href="#" class="wow fadeIn"><img src="./images/common/logo08.png" alt=""></a></li>
+                <li><a href="#" class="wow fadeIn"><img src="./images/common/logo09.png" alt=""></a></li>
+                <li><a href="#" class="wow fadeIn"><img src="./images/common/logo10.png" alt=""></a></li>
               </ul>
               <!-- /common_logo -->
               <div class="rheaven_group">
-                <h3 class="rheaven_group_tit wow fadeIn"><img src="/images/rheavendors/logo_rheaven.png" alt="rheavendors"></h3>
+                <h3 class="rheaven_group_tit wow fadeIn"><img src="./images/rheavendors/logo_rheaven.png" alt="rheavendors"></h3>
                 <div class="rheaven_det_box">
                   <div class="rheaven_det_in wow fadeIn">
-                    <p class="rheaven_det_img"><img src="/images/rheavendors/img_rheaven_det.png" alt="la Rhea GRANDE2 Premium"></p>
+                    <p class="rheaven_det_img"><img src="./images/rheavendors/img_rheaven_det.png" alt="la Rhea GRANDE2 Premium"></p>
                   </div>
                   <div class="rheaven_det_in wow fadeIn">
                     <p class="rheaven_det_intro">全自動コーヒーマシン</p>
@@ -72,7 +72,7 @@
                     </div>
                     <p class="rheaven_det_txt">コーヒー・ラテ・モカ・ココア・抹茶ラテまで、多彩なメニューが抽出できる、ハイパフォーマンスエスプレッソマシンです。</p>
                     <p class="rheaven_det_arrow">商品詳細はブランドサイトでご紹介しています</p>
-                    <p class="rheaven_det_bnr op"><a href="#"><img src="/images/rheavendors/bnr_rheaven_det.png" alt=""></a></p>
+                    <p class="rheaven_det_bnr op"><a href="#"><img src="./images/rheavendors/bnr_rheaven_det.png" alt=""></a></p>
                   </div>
                 </div>
                 <!-- /rheaven_det_box -->
@@ -121,7 +121,7 @@
 
     </article>
 
-    <?php include( $_SERVER['DOCUMENT_ROOT'] . '/include/footer.php'); ?>
+    <?php include './include/footer.php'; ?>
 
   </div>
   <!-- /wrapper -->

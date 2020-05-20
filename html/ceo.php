@@ -8,17 +8,17 @@
 <meta name="description" content="" />
 <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
 
-<link rel="stylesheet" type="text/css" href="/css/common.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/css/animate.css"/>
+<link rel="stylesheet" type="text/css" href="./css/common.css" media="all" />
+<link rel="stylesheet" type="text/css" href="./css/animate.css"/>
 
-<link rel="stylesheet" type="text/css" href="/css/ceo.css"/>
+<link rel="stylesheet" type="text/css" href="./css/ceo.css"/>
 
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Harmattan&display=swap" rel="stylesheet">
 
-<script type="text/javascript" src="/js/jquery.min.js"></script>
-<script type="text/javascript" src="/js/common.js"></script>
-<script type="text/javascript" src="/js/wow.min.js"></script>
+<script type="text/javascript" src="./js/jquery.min.js"></script>
+<script type="text/javascript" src="./js/common.js"></script>
+<script type="text/javascript" src="./js/wow.min.js"></script>
 
 <!--[if lt IE 9]>
 <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -27,23 +27,23 @@
 <body>
   <div id="wrapper">
     <input type="hidden" id="pageID" value="gNav01">
-    <?php include( $_SERVER['DOCUMENT_ROOT'] . '/include/head.php'); ?>
+    <?php include './include/head.php'; ?>
 
 
     <article>
       <div id="contents">
-        <p id="breadcrumb" class="op"><a href="/" class="home fonten">Top</a> > <a href="/aboutus.php">About us</a> > トップメッセージ</p>
+        <p id="breadcrumb" class="op"><a href="./" class="home fonten">Top</a> > <a href="./aboutus.php">About us</a> > トップメッセージ</p>
         <div class="contents_main">
           <div class="inner">
             <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">About us</span>ブルーマチックジャパンについて</h2>
              <ul class="common_bnr wow fadeIn">
-               <li><a href="/aboutus.php">ブルーマチックジャパンについて</a></li>
-               <li><a href="/policy.php">経営理念</a></li>
-               <li><a href="/ceo.php" class="active">トップメッセージ</a></li>
+               <li><a href="./aboutus.php">ブルーマチックジャパンについて</a></li>
+               <li><a href="./policy.php">経営理念</a></li>
+               <li><a href="./ceo.php" class="active">トップメッセージ</a></li>
              </ul>
             <!-- /common_bnr -->
             <div class="ceo_image wow fadeIn">
-              <img src="/images/ceo/img_ceo.jpg" alt="社会創造企業として未来への扉を開けるために">
+              <img src="./images/ceo/img_ceo.jpg" alt="社会創造企業として未来への扉を開けるために">
               <p class="ceo_image_txt">社会創造企業として<br>未来への扉を開けるために</p>
               <p class="ceo_image_name">ブルーマチックジャパン株式会社<br>代表取締役社長 <span>河口雅明</span></p>
             </div>
@@ -68,7 +68,7 @@
 
     </article>
 
-    <?php include( $_SERVER['DOCUMENT_ROOT'] . '/include/footer.php'); ?>
+    <?php include './include/footer.php'; ?>
 
   </div>
   <!-- /wrapper -->
