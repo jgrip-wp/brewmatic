@@ -43,13 +43,14 @@
             <div class="brand_concept">
               <div class="brand_concept_first clearfix wow fadeInUp">
                 <div class="concept_first_img"><img src="/images/about/img_brand_concept01.jpg" alt="写真"></div>
+                <div class="brand_concept_second wow fadeInUp visiblets"><img src="/images/about/img_brand_concept02.png" alt="写真"></div>
                 <div class="concept_content">
                   <p class="concept_tit">本当にコーヒーにこだわりたい方へ、<br>最高品質のグラインダーを</p>
                   <p class="concept_txt">From Seed to Cup。豆からカップまで、すべてにこだわるスペシャルティコーヒーに相応しい、最高品質のグラインダーを開発するBARATZA（バラッツア）。<br><br>サードウェーブのメッカであるシアトルで、企画・設計・デザインされるプロダクトはハイクオリティでコンパクト。<br>パーツ一つひとつ細部にまで完璧さを追求し、刃はもちろん、270段階の粒度設定、高性能スケール、0.1秒単位のタイマーなど、コーヒーの可能性を最大限に引き出すノウハウが、スタイリッシュなボディに収められています。<br><br>パーフェクトなコーヒーは、パーフェクトなグラインドから。<br>繊細かつパワフルなBARATZAのグラインダーは、コーヒーに特別なこだわりをもつシアトルの人々はもちろん、世界中のコーヒー愛好家、プロフェッショナル、スペシャルティコーヒー専門店などに選ばれています。</p>
                   <p class="concept_btn"><a href="#" class="common_btn">BARATZAのこだわり</a></p>
                 </div>
               </div>
-              <div class="brand_concept_second wow fadeInUp"><img src="/images/about/img_brand_concept02.png" alt="写真"></div>
+              <div class="brand_concept_second wow fadeInUp visiblepc"><img src="/images/about/img_brand_concept02.png" alt="写真"></div>
             </div>
             <!-- /brand_concept -->
           </div>

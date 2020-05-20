@@ -68,9 +68,76 @@
 	margin: 15px 0 0;
 }
 }
+@media screen and (max-width: 1000px) {
+.about_content{
+  padding: 26px 0 0;
+}
+.brand_concept{
+	margin: 35px 0 0;
+}
+.brand_concept_first{
+	position: relative;
+}
+.brand_concept_first:before{
+	position: relative;
+}
+.concept_first_img{
+	float: none;
+	margin: 0;
+}
+.concept_first_img img{
+	width: 100%;
+}
+.concept_content{
+	overflow: hidden;
+	padding: 20px 0 0;
+}
+.concept_tit{
+	font-size: 18px;
+	line-height: 30px;
+}
+.concept_txt{
+	font-size: 12px;
+	line-height: 21px;
+	margin: 15px 0 0;
+}
+.concept_btn{
+	text-align: center;
+	margin: 20px 0 0;
+}
+.concept_btn a{
+	display: block;
+	width: 100%;
+}
+.brand_concept_second{
+	position: relative;
+	padding: 20px 0 0;
+	text-align: center;
+}
+.brand_concept_second img{
+	width: 100%;
+}
+.brand_concept_second:before{
+	position: absolute;
+	width: 230px;
+	height: 120px;
+	left: 0;
+	top: 40px;
+	background: url(../images/about/img_brand_concept03.jpg) 0 0 no-repeat;
+	z-index: -1;
+}
+}
 @media screen and (max-width: 768px) {
-.product_about{
-  
+.brand_concept_second:before{
+	position: absolute;
+	width: 40%;
+	height: 0;
+	padding-top: 22%;
+	left: 0;
+	top: 10px;
+	background: url(../images/about/img_brand_concept03.jpg) 0 0 no-repeat;
+	background-size: 100% auto;
+	z-index: -1;
 }
 }
 /*brand_story*/
@@ -171,8 +238,75 @@
 	padding-right: 240px;
 }	
 }
-
-
+@media screen and (max-width: 1000px) {
+.brand_story{
+	padding: 50px 0 40px;
+}
+.brand_story_inner{
+	margin: 30px 0 0;
+	padding: 30px 0;
+	background: url(../images/about/bg_brand_story01.jpg) center no-repeat;
+	background-size: cover;
+}
+.brand_story_inner .inner{
+	position: relative;
+}
+.story_first_img{
+	display: none;
+}
+.story_second_img{
+	display: none;
+}
+.brand_story dl:before{
+	left: 100px;
+	top: 37px;
+}
+.brand_story dt{
+	font-size: 13px;
+	line-height: 26px;
+	float: left;
+	width: 100px;
+	padding: 24px 20px 0 0;
+}	
+.brand_story dl:nth-of-type(1) dd{
+	padding-right: 0;
+}
+}
+@media screen and (max-width: 768px) {
+.brand_story{
+	padding: 50px 0 0;
+}
+.brand_story dl:before{
+	left: 80px;
+	top: 32px;
+}
+.brand_story dt{
+	font-size: 10px;
+	line-height: 21px;
+	float: left;
+	width: 80px;
+	padding: 20px 20px 0 0;
+}
+.brand_story dt:before{
+	width: 6px;
+	height: 6px;
+	right: -3px;
+	top: 27px;
+	border-radius: 3px;
+}
+.brand_story dd{
+	padding: 20px 0 20px 20px;
+	font-size: 10px;
+	line-height: 21px;
+}	
+.brand_story_link a{
+	font-size: 10px;
+	line-height: 21px;
+	display: inline-block;
+	padding: 0 25px 0 0;
+	background: url(../images/common/arw_right03.png) right 0 top 9px no-repeat;
+}
+}
 
 
 
