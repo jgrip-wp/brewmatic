@@ -1,0 +1,144 @@
+@charset "utf-8";
+
+.teaser_history {
+  background: url(../images/history/teaser_history.jpg) right center no-repeat;
+  background-size: cover;
+}
+.history_detail {
+  overflow: hidden;
+  margin-bottom: 100px;
+}
+.history_detail .flimg {
+  margin-right: 40px;
+}
+.history_tit {
+  font-size: 60px;
+  font-weight: 900;
+  margin-bottom: 60px;
+  line-height: 1.2;
+}
+.history_detail_txt {
+  line-height: 2.3;
+}
+@media screen and (max-width: 1080px) {
+.history_detail .flimg {
+  float: none;
+  margin: 0 0 30px;
+  text-align: center;
+}
+}
+@media screen and (max-width: 768px) {
+.history_detail {
+  margin-bottom: 50px;
+}
+.history_tit {
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+.history_detail_txt {
+  line-height: 2;
+}
+}
+
+.history_step+.history_step {
+  margin-top: 110px;
+}
+.history_step {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+.history_step_img {
+  width: 330px;
+  max-width: 30%;
+}
+.history_step_cont {
+  width: 68%;
+  background: url(../images/history/ico_history.png) 0 0 no-repeat;
+  padding: 15px 0 0 85px;
+}
+.history_step_tit {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 15px;
+  position: relative;
+}
+.history_step_date {
+  position: absolute;
+  left: -30px;
+  bottom: 0;
+  font-size: 43px;
+  color: #f0f0f0;
+  font-weight: 700;
+  line-height: 1.1;
+  z-index: 1;
+}
+.history_step_date span {
+  font-size: 93px;
+}
+.history_step_tit_txt {
+  position: relative;
+  z-index: 2;
+}
+.history_step_txt {
+  line-height: 2;
+}
+.history_step_cont .common_btn {
+  margin-top: 35px;
+}
+.history_step_cont .common_btn a {
+  width: 280px;
+  font-size: 14px;
+}
+@media screen and (max-width: 768px) {
+.history_step+.history_step {
+  margin-top: 70px;
+}
+.history_step {
+  display: block;
+}
+.history_step_img {
+  width: auto;
+  max-width: none;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.history_step_cont {
+  width: auto;
+  padding: 15px 0 0 60px;
+}
+.history_step_tit {
+  font-size: 18px;
+}
+.history_step_date {
+  left: -20px;
+  bottom: inherit;
+  top: 0;
+  transform: translateY(-70%);
+  font-size: 25px;
+}
+.history_step_date span {
+  font-size: 50px;
+}
+.history_step_cont .common_btn {
+  margin-top: 20px;
+}
+.history_step_cont .common_btn a {
+  width: 100%;
+}
+.history_step_none {
+  display: none;
+}
+}
+
+
+
+
+@media screen and (max-width: 1080px) {
+  
+}
+@media screen and (max-width: 768px) {
+  
+}
+
