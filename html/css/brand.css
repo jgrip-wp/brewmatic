@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 .brand_detail {
-  padding: 60px 0 100px;
+  padding: 10px 0 80px;
 }
 
 .brand_intro {
@@ -19,20 +19,19 @@
 }
 .brand_list {
   overflow: hidden;
-  margin: -50px 0 0 -50px;
+  margin: -80px 0 0 -50px;
 }
 .brand_list li {
   float: left;
   width: 33.3333%;
   padding-left: 50px;
-  margin-top: 50px;
+  margin-top: 80px;
 }
-.brand_box {
-  border-bottom: 1px #dcdcdc solid;
-  padding-bottom: 35px;
-}
+
 .brand_box_img {
-  margin-bottom: 25px;
+  border-bottom: 1px #dcdcdc solid;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
 }
 .brand_box_tit {
   font-size: 16px;
@@ -76,10 +75,9 @@
 .brand_list li+li {
   margin-top: 30px;
 }
-.brand_box {
-  padding-bottom: 30px;
-}
+
 .brand_box_img {
+  padding-bottom: 20px;
   margin-bottom: 20px;
   text-align: center;
 }

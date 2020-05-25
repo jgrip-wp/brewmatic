@@ -37,10 +37,10 @@
             <p class="page_title_detail wow fadeIn">1976年の創業以来、世界最高品質を目指すロックライン。<br>コーヒーフィルターペーパーのシェアは北米No.1。</p>
             <div class="contents_main_box">
               <div class="rockline_content">
-                <div class="rockline_banner wow fadeIn"><img src="./images/rockline/img_rockline01.jpg" alt="写真"></div>
+                <div class="rockline_banner wow fadeIn"><img src="./images/rockline/img_rockline01.jpg" alt="rockline"></div>
                 <p class="rockline_comment op wow fadeIn">コーヒーの個性を最大限に引き出すには、高品質なコーヒーフィルターが不可欠です。<br>ロックラインのコーヒーフィルターは、安定した品質に定評があり世界中のレストラン、カフェ、ホテルなどに選ばれ続けています。</p>
                 <div class="statement_box">
-                  <h3 class="page_title_mid wow fadeIn">Value Statement”PRTE”</h3>
+                  <h3 class="rockline_value_tit wow fadeIn">Value Statement”PRTE”</h3>
                   <div class="statement_box_inner wow fadeIn">
                     <table>
                       <tr>

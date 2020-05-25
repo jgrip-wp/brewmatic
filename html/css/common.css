@@ -986,6 +986,13 @@ html,  html body {
   padding-top: 20px;
   line-height: 1.8;
 }
+.column_four .column_box_price {
+  display: block;
+  color: #7b7b7b;
+  font-size: 26px;
+  text-align: center;
+  margin-top: 10px;
+}
 .column_four .common_btn {
   margin-top: 25px;
 }
