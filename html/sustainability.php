@@ -37,20 +37,30 @@
             <p class="page_title_detail wow fadeIn">地球環境、地域社会、人々の豊かな暮らしが調和する<br>持続可能な社会の実現を目指しています。</p>
             <div class="contents_main_box">
               <div class="sustain_content">
-                <h3 class="page_title_mid wow fadeIn">コーヒーの「2050年問題」</h3>
-                <p class="sustain_comment wow fadeIn">世界のコーヒー消費量は増加している一方、気候変動が及ぼすコーヒー産地への影響が世界的な課題となっています。農作物であるコーヒーは、気候変動の影響を受けやすく従来のバランスが崩れることで品質低下、生産量の減少を引き起こします。特にアラビカ種は、2050年までに栽培に適した土地が現在の50％にまで減少すると予想されています。<br><br>ブルーマチックジャパンは、豊かなコーヒー文化を未来につなげていくために、社会的責任として2050年問題に取り組んでいます。2019年●月、ブルーマチックジャパンはキーコーヒー株式会社様がワールド・コーヒー・リサーチと協働で進める国際品種栽培試験に賛同。代表取締役社長 河口雅明が●●●●を務めています。現地の状況や最新の研究結果を注視し社内外へ発信していくことで、持続可能なコーヒー文化の発展に貢献していくことを目指しています。</p>
+                <p class="sustain_txt sustain_cont_up wow fadeIn">コーヒービジネスのバリューチェーンは、コーヒ豆の生産から流通、焙煎、販売、飲食店、そしてコーヒーマシンをはじめとする関連機器など多岐にわたり、多くの人や会社が関わっています。そして、気候変動や地球環境にも負荷を与えています。<br>ブルーマチックジャパンは、世界をつなぐコーヒービジネスの一翼を担う企業として、私たちの日々のビジネス活動が世界つながっていることを認識し、気候変動による環境問題や、産地・工場で働く人の労働環境など、コーヒービジネスの背景にある社会課題にも向き合っていく責任があると考えています。私たちは、コーヒーマシンの品質はもちろん、ともにサステナブルな社会を目指す取引先とともに、環境負荷低減、従業員の働きやすさ向上など、地球と地域社会、人々と調和する事業活動に努めています。</p>
+                <h3 class="page_title_mid wow fadeIn">持続可能な調達<br>サステナビリティに配慮した一流メーカーによる製造</h3>
+                <p class="sustain_comment wow fadeIn">ブルーマチックの取り扱うコーヒーマシンのほとんどが、サステナビリティ先進国である欧州、アメリカの一流メーカーによる製造であり、サステナビリティにおいても、高いレベルでの取り組みを実施しています。設計から、部品の調達、出荷にいたるまであらゆるプロセスで環境負荷削減や働く人の安全に配慮し、一部工場では、地域に開かれた保育所を用意するなど、地域社会との共生においても、積極的に取り組んでいます。<br>また、年に数回はブルーマチックジャパン社員が現地工場を訪問し、現場でのインタビュー、および視察を実施し、問題がないか確認しています。</p>
                 <div class="box_yellow wow fadeIn">
-                  <div class="clearfix">
-                    <div class="variety_trial_img"><img src="./images/sustainability/img_sustainability01.jpg" alt="写真"></div>
-                    <div class="variety_trial_content">
-                      <h4 class="variety_trial_title">国際品種栽培試験<span class="fonten">International Multi-Location Variety Trial</span></h4>
-                      <p class="variety_trial_text">コーヒーの調査・研究を行う国際的な研究機関ワールド・コーヒー・リサーチが、世界26カ国の研究機関や企業と協働し、気候変動に耐性のある新品種開発を目指す取り組み。キーコーヒー株式会社様は、インドネシアの自社農園の一角、約2ヘクタールを実験圃場とし、通常はインドネシア外で栽培されている品種を含むコーヒーの苗木35種(最終的には42種の予定)の栽培試験を実施しています。世界各地からの試験結果はワールド・コーヒー・リサーチが集約。ビッグデータを元に新品種開発がグローバルに進められいます。</p>
-                      <div class="variety_trial_detail op"><a href="#">詳しい内容はこちらもご覧ください。</a></div>
-                      <div class="variety_trial_links op">
-                        <a href="#">キーコーヒー株式会社様Webサイト<img src="./images/sustainability/icon_sustainability01.png" alt="icon"></a>
-                        <br>
-                        <a href="#">サステナブル・ブランドジャパン掲載記事<img src="./images/sustainability/icon_sustainability01.png" alt="icon"></a>
+                  <div class="sustain_purchase">
+                    <div class="sustain_purchase_in">
+                      <div class="clearfix">
+                        <p class="sustain_purchase_tit">Curtis社の取り組み</p>
+                        <p class="sustain_purchase_link op"><a href="#">詳しくはこちら</a></p>
                       </div>
+                      <ul class="sustain_purchase_img">
+                        <li><img src="./images/sustainability/img_sustainability01.jpg" alt="Curtis社の取り組み"></li>
+                        <li><img src="./images/sustainability/img_sustainability02.jpg" alt="Curtis社の取り組み"></li>
+                      </ul>
+                    </div>
+                    <div class="sustain_purchase_in">
+                      <div class="clearfix">
+                        <p class="sustain_purchase_tit">CARIMALI社の取り組み</p>
+                        <p class="sustain_purchase_link op"><a href="#">詳しくはこちら</a></p>
+                      </div>
+                      <ul class="sustain_purchase_img">
+                        <li><img src="./images/sustainability/img_sustainability03.jpg" alt="CARIMALI社の取り組み"></li>
+                        <li><img src="./images/sustainability/img_sustainability04.jpg" alt="CARIMALI社の取り組み"></li>
+                      </ul>
                     </div>
                   </div>
                 </div>
@@ -58,9 +68,13 @@
                 <div class="sustain_balance wow fadeIn">
                   <h3 class="page_title_mid">ワーク・ライフ・バランスの取り組み</h3>
                   <div class="sustain_balance_inner">
-                    <div class="sustain_balance_logo"><img src="./images/sustainability/logo_sustainability.jpg" alt="logo"></div>
+                    <div class="sustain_balance_logo"><img src="./images/sustainability/logo_sustainability.jpg" alt="ワーク・ライフ・バランスの取り組み"></div>
                     <div class="sustain_balance_text">
-                      ブルーマチックジャパンは、働きやすい職場環境の実現に取り組んでおり、これまでの取り組みが評価され、「2018年度 よこはまグッドバランス賞」に認定されています。<br><br>「よこはまグッドバランス賞」とは、横浜市によるプロジェクトで、女性の活躍やワーク・ライフ・バランスの推進など、性別を問わず誰もが働きやすい職場環境の実現に向けて、積極的に取り組んでいる事業所を認定するものです。 認定を受けるには、労働関係法令の遵守はもちろん、経営者のコミットメント、長時間労働の是正、仕事と育児・介護の両立など、具体的な取り組みについて書類を提出し、認定委員会による厳正な審査を通過する必要があります。<br><br>ブルーマチックジャパンは今回の認定を一つのステップに、さらなる職場改善を進め、より魅力的な企業になることを目指していきます。
+                      <ul>
+                        <li>ブルーマチックジャパンは、働きやすい職場環境の実現に取り組んでおり、これまでの取り組みが評価され、「2018年度 よこはまグッドバランス賞」に認定されています。</li>
+                        <li>「よこはまグッドバランス賞」とは、横浜市によるプロジェクトで、女性の活躍やワーク・ライフ・バランスの推進など、性別を問わず誰もが働きやすい職場環境の実現に向けて、積極的に取り組んでいる事業所を認定するものです。 認定を受けるには、労働関係法令の遵守はもちろん、経営者のコミットメント、長時間労働の是正、仕事と育児・介護の両立など、具体的な取り組みについて書類を提出し、認定委員会による厳正な審査を通過する必要があります。</li>
+                        <li>ブルーマチックジャパンは今回の認定を一つのステップに、さらなる職場改善を進め、より魅力的な企業になることを目指していきます。</li>
+                      </ul>
                     </div>
                   </div>
                 </div>

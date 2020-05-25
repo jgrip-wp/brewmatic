@@ -1,0 +1,113 @@
+@charset "utf-8";
+
+.key_page_tit {
+  font-size: 30px;
+}
+@media screen and (max-width: 768px) {
+.key_page_tit {
+  font-size: 24px;
+}
+}
+
+.key_box {
+  overflow: hidden;
+}
+.key_box .key_box_img {
+  float: left;
+  margin-right: 40px;
+  max-width: 560px;
+}
+.key_box .key_box_cap {
+  font-size: 13px;
+  color: #7b7b7b;
+  margin-top: 10px;
+}
+.key_box .key_box_tit {
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 30px;
+}
+.key_box .key_box_txt {
+  line-height: 1.8;
+}
+.key_box .common_btn {
+  margin-top: 70px;
+  max-width: 250px;
+}
+@media screen and (max-width: 1080px) {
+.key_box .key_box_img {
+  float: none;
+  margin: 0 auto 30px;
+}
+}
+@media screen and (max-width: 768px) {
+.key_box .key_box_tit {
+  margin-bottom: 20px;
+}
+.key_box .common_btn {
+  margin: 30px auto 0;
+}
+}
+
+.key_access {
+  margin-top: 100px;
+  border: 1px #dcdcdc solid;
+  padding: 40px;
+}
+.key_access_tit {
+  float: left;
+  font-size: 30px;
+  margin-right: 40px;
+}
+.key_access_cont {
+  line-height: 1.8;
+}
+.key_access_link a {
+  display: inline;
+  color: #005bac;
+  background: url("../images/carimali_key/blank_key.png") right center no-repeat;
+  padding-right: 25px;
+}
+.key_access_list {
+  overflow: hidden;
+  margin: 0 0 0 -5px;
+}
+.key_access_list li {
+  float: left;
+  width: 33.3333%;
+  padding-left: 5px;
+  margin-top: 25px;
+  text-align: center;
+}
+@media screen and (max-width: 768px) {
+.key_access {
+  margin-top: 50px;
+  padding: 20px;
+}
+.key_access_tit {
+  float: none;
+  margin: 0 0 10px;
+}
+.key_access_link a {
+  word-wrap:break-word; 
+}
+.key_access_list {
+  overflow: hidden;
+  margin: 0;
+}
+.key_access_list li {
+  float: none;
+  width: auto;
+  padding-left: 0;
+  margin-top: 20px;
+}
+}
+
+
+@media screen and (max-width: 1080px) {
+  
+}
+@media screen and (max-width: 768px) {
+  
+}
+

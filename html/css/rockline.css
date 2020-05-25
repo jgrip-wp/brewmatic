@@ -28,7 +28,7 @@
 	width: 160px;
 	font-size: 20px;
 	line-height: 26px;
-	color: #d11300;
+	color: #5ea3ab;
 	font-weight: 500;
 }
 .statement_box_inner td{
@@ -135,7 +135,12 @@
 }
 }
 
-
+.rockline_value_tit {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 50px;
+}
 
 
 
