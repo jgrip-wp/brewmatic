@@ -53,7 +53,7 @@
                     <li>信頼のネットワークで世界最高峰のプレミアコーヒーマシンを日本市場へ。ブルーマチックジャパンは、専門商社ならではの品揃えとオペレーション力で、レストラン、カフェ、商業施設、コンビニエンスストア、ご家庭など、あらゆる時間と場所にベストフィットするソリューションを提供します｡</li>
                   </ul>
                   <ul class="aboutus_place_link">
-                    <li><p class="aboutus_place_btn"><a href="#history"><span>沿革を詳しく見る</span></a></p></li>
+                    <li><p class="aboutus_place_btn"><a href="#history" class="scroll"><span>沿革を詳しく見る</span></a></p></li>
                     <li><p class="aboutus_link_right op"><a href="#">動画を見る</a></p></li>
                     <li><p class="aboutus_link_right op"><a href="#">ブランドストーリー</a></p></li>
                   </ul>

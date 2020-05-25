@@ -61,6 +61,19 @@
 .carimali_list_img {
   text-align: center;
 }
+.carimali_list_img a {
+  overflow: hidden;
+  display: inline-block;
+}
+.carimali_list_img a img {
+  transition: all 0.6s;
+  -webkit-transition: all 0.6s;
+  transform: scale(1); 
+}
+.carimali_list_img a:hover img {
+  transform: scale(1.1);
+  transition: all 0.6s;
+}
 .carimali_nextpage {
   margin-top: 50px;
   text-align: center;
@@ -69,11 +82,11 @@
   display: inline-block;
   border: 1px #dcdcdc solid;
   padding: 7px 40px;
-  -webkit-border-radius: 15px;
-  -moz-border-radius: 15px;
-  -ms-border-radius: 15px;
-  -o-border-radius: 15px;
-  border-radius: 15px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  border-radius: 20px;
 }
 .carimali_nextpage a:hover {
   border: 1px #000 solid;

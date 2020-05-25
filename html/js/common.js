@@ -79,6 +79,7 @@ var isUA = (function(){
 	return o;
 })();
 
+
 /* !pageScroll -------------------------------------------------------------- */
 var pageScroll = function(){
 	jQuery.easing.easeInOutCubic = function (x, t, b, c, d) {
@@ -91,27 +92,19 @@ var pageScroll = function(){
 			var target  = $(this).attr('href');
 			var targetY = $(target).offset().top;
 			var parent  = ( isUA.opera() )? (document.compatMode == 'BackCompat') ? 'body': 'html' : 'html,body';
-			var headH = $('.headerin').outerHeight();
-			var hdmenuH = $('.headernavi').outerHeight();
-			if($(window).width() > 1080){
-				$(parent).animate(
-					{scrollTop: targetY - headH - hdmenuH},
-					400
-				);
-			}else{
-				$(parent).animate(
-					{scrollTop: targetY - headH},
-					400
-				);
-			}
+			$(parent).animate(
+				{scrollTop: targetY },
+				400
+			);
 			return false;
 		});
 	});
-	$('.pagetop a').click(function(){
+	$('.pageTop a').click(function(){
 		$('html,body').animate({scrollTop: 0}, 'slow','swing');
 		return false;
 	});
 }
+
 
 
 /* !common --------------------------------------------------- */

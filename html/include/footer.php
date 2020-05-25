@@ -39,7 +39,7 @@
             </div>
           </div>
           <div class="footer_message">
-            <p class="footer_message_cont"><a href="#">サイトマップ</a>　・　<a href="#">免責事項</a>　・　<a href="#">プライバシーポリシー</a>　・　<a href="#">特定商取引法に基づく表示</a></p>
+            <p class="footer_message_cont"><a href="#">サイトマップ</a><span>・</span><a href="#">免責事項</a><span>・</span><br class="change_line"><a href="#">プライバシーポリシー</a><span>・</span><a href="#">特定商取引法に基づく表示</a></p>
             <p class="footer_message_copyright">Copyright(c) 2020 Brewmatic Japan Ltd. All Rights Reserved.</p>
           </div>
         </div>

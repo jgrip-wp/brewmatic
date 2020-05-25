@@ -32,7 +32,7 @@
 </style>
 </head>
 <body>
-  <div id="wrapper">
+  <div id="wrapper" class="top_wrapper">
     <?php include './include/head.php'; ?>
 
 
@@ -44,13 +44,13 @@
        <div class="top_main_img">
          <div class="top_main_box">
            <div>
-             <img src="./images/top/main_top01.jpg" alt="">
+             <img src="./images/top/main_top01_pc.jpg" alt="">
            </div>
            <div>
-             <img src="./images/top/main_top01.jpg" alt="">
+             <img src="./images/top/main_top01_pc.jpg" alt="">
            </div>
            <div>
-             <img src="./images/top/main_top01.jpg" alt="">
+             <img src="./images/top/main_top01_pc.jpg" alt="">
            </div>
          </div>
        </div>
