@@ -70,10 +70,10 @@
 }
 @media screen and (max-width: 1080px) {
 .about_index_content{
-  padding: 26px 0 0;
+  padding: 35px 0 0;
 }
 .brand_concept{
-	margin: 35px 0 0;
+	margin: 45px 0 0;
 }
 .brand_concept_first{
 	position: relative;
@@ -90,20 +90,20 @@
 }
 .concept_content{
 	overflow: hidden;
-	padding: 20px 0 0;
+	padding: 35px 0 0;
 }
 .concept_tit{
 	font-size: 18px;
 	line-height: 30px;
 }
 .concept_txt{
-	font-size: 12px;
-	line-height: 21px;
-	margin: 15px 0 0;
+	font-size: 15px;
+  line-height: 25px;
+	margin: 35px 0 0;
 }
 .concept_btn{
 	text-align: center;
-	margin: 20px 0 0;
+	margin: 35px 0 0;
 }
 .concept_btn a{
 	display: block;
@@ -274,15 +274,15 @@
 }
 @media screen and (max-width: 768px) {
 .brand_story{
-	padding: 50px 0 0;
+	padding: 70px 0 0;
 }
 .brand_story dl:before{
 	left: 80px;
 	top: 32px;
 }
 .brand_story dt{
-	font-size: 10px;
-	line-height: 21px;
+	font-size:15px;
+  line-height:25px;
 	float: left;
 	width: 80px;
 	padding: 20px 20px 0 0;
@@ -296,12 +296,12 @@
 }
 .brand_story dd{
 	padding: 20px 0 20px 20px;
-	font-size: 10px;
-	line-height: 21px;
+	font-size:15px;
+  line-height:25px;
 }	
 .brand_story_link a{
-	font-size: 10px;
-	line-height: 21px;
+	font-size:15px;
+  line-height:25px;
 	display: inline-block;
 	padding: 0 25px 0 0;
 	background: url(../images/common/arw_right03.png) right 0 top 9px no-repeat;
@@ -343,10 +343,10 @@
 	padding: 0 0 70px;
 }
 .feature{
-	padding: 25px 0 35px;
+	padding: 35px 0;
 }
 .feature_box{
-	margin: 20px 0 0;
+	margin: 35px 0 0;
 }
 .feature_img{
 	float: none;
@@ -355,9 +355,9 @@
 	text-align: center;
 }
 .feature_text{
-	font-size: 12px;
-	line-height: 21px;
-	padding: 20px 0 0;
+	font-size: 15px;
+	line-height: 25px;
+	padding: 35px 0 0;
 }
 }
 @media screen and (max-width: 768px) {
@@ -367,7 +367,7 @@
 .feature_comment{
 	font-size: 14px;
 	line-height: 24px;
-	margin: 30px 0 0;
+	margin: 35px 0 0;
 }
 }
 /*about_box*/
@@ -531,17 +531,17 @@
 	font-size: 40px;
 }	
 .about_title{
-	font-size: 14px;
-	line-height: 24px;
+	font-size: 18px;
+	line-height: 30px;
 }
 .about_comment{
-	font-size: 12px;
-	line-height: 21px;
-	margin: 10px 0 0;
+	margin: 20px 0 0;
+	font-size:15px;
+	line-height:25px
 }
 .about_inner_comment{
-	font-size: 12px;
-	line-height: 21px;
+	font-size: 13px;
+	line-height: 23px;
 	margin: 20px 0 0;
 }
 }

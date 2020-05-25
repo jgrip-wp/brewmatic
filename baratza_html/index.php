@@ -37,8 +37,18 @@
     <article>
       <div id="contents">
         <div class="top_mainimg">
-          <div><img src="./images/top/main_top01_pc.jpg" alt="写真"></div>
-          <div><img src="./images/top/main_top02_pc.jpg" alt="写真"></div>
+          <div class="top_mainimg_left">
+            <div><img src="./images/top/main_top01_pc.jpg" alt="写真"></div>
+            <div><img src="./images/top/main_top02_pc.jpg" alt="写真"></div>
+            <div><img src="./images/top/main_top01_pc.jpg" alt="写真"></div>
+            <div><img src="./images/top/main_top02_pc.jpg" alt="写真"></div>
+          </div>
+          <div class="top_mainimg_right">
+            <div><img src="./images/top/main_top02_pc.jpg" alt="写真"></div>
+            <div><img src="./images/top/main_top01_pc.jpg" alt="写真"></div>
+            <div><img src="./images/top/main_top02_pc.jpg" alt="写真"></div>
+            <div><img src="./images/top/main_top01_pc.jpg" alt="写真"></div>
+          </div>
         </div>
         <!-- /top_mainimg -->
         <div class="inner">
@@ -46,20 +56,28 @@
             <h2 class="page_title fontDIN wow fadeInUp">MEET YOUR GRINDER!</h2>
             <div class="meet_box wow fadeInUp">
               <div class="meet_box_item">
-                <img src="./images/top/img_meet01.png" alt="Forté-BG">
-                <div class="name">Forté-BG</div>
+                <a href="./products/forte-bg/">
+                  <img src="./images/top/img_meet01.png" alt="Forté-BG">
+                  <div class="name">Forté-BG</div>
+                </a>
               </div>
               <div class="meet_box_item">
-                <img src="./images/top/img_meet02.png" alt="Sette270Wi">
-                <div class="name">Sette270Wi</div>
+                <a href="./products/sette270wi/">
+                  <img src="./images/top/img_meet02.png" alt="Sette270Wi">
+                  <div class="name">Sette270Wi</div>
+                </a>
               </div>
               <div class="meet_box_item">
-                <img src="./images/top/img_meet03.png" alt="Sette270">
-                <div class="name">Sette270</div>
+                <a href="./products/sette270/">
+                  <img src="./images/top/img_meet03.png" alt="Sette270">
+                  <div class="name">Sette270</div>
+                </a>
               </div>
               <div class="meet_box_item">
-                <img src="./images/top/img_meet04.png" alt="Sette30">
-                <div class="name">Sette30</div>
+                <a href="./products/sette30/">
+                  <img src="./images/top/img_meet04.png" alt="Sette30">
+                  <div class="name">Sette30</div>
+                </a>
               </div>
             </div>
           </div>
@@ -71,7 +89,7 @@
                 <p class="introduce_tit fontDIN">BARATZA</p>
                 <p class="introduce_comment">パーフェクトなコーヒーは、パーフェクトなグラインドから</p>
                 <p class="introduce_txt">シアトル発、グラインダーのプレミアムブランド、BARATZA（バラッツア）。品質もデザインもスペシャルティコーヒーに相応しいプロダクトとして、コーヒー愛好家からプロフェッショナルまで、本物を追求する世界中の人々に選ばれています。</p>
-                <p class="introduce_btn"><a href="#">Read more</a></p>
+                <p class="introduce_btn"><a href="./about/">Read more</a></p>
               </div>
             </div>
           </div>
@@ -99,16 +117,16 @@
         <div class="choose_reason">
           <h2 class="page_title_mid wow fadeInUp"><span>REASON WHY PEOPLE CHOOSE</span>BARATZAが選ばれる理由</h2>
           <div class="reason_box wow fadeInUp">
-            <div class="reason_box_item">
+            <a href="./about_detail.php" class="reason_box_item">
               <p class="reason_box_tit">BARATZAのこだわり</p>
-              <p class="reason_box_comment">コンパクトなボディから生まれる最高のパフォーマンス </p>
-              <p class="reason_box_btn"><a href="#" class="common_btn">Read more</a></p>
-            </div>
-            <div class="reason_box_item">
+              <p class="reason_box_comment">コンパクトなボディから生まれる<br class="visiblets">最高のパフォーマンス </p>
+              <p class="reason_box_btn"><span class="common_btn">Read more</span></p>
+            </a>
+            <a href="https://www.brewmatic.co.jp/coffeelife/" class="reason_box_item">
               <p class="reason_box_tit">LIFE WITH COFFEE</p>
               <p class="reason_box_comment">導入店舗紹介／Eggs ’n Things Coffee 高崎OPA店</p>
-              <p class="reason_box_btn"><a href="#" class="common_btn">Read more</a></p>
-            </div>
+              <p class="reason_box_btn"><span class="common_btn">Read more</span></p>
+            </a>
           </div>
         </div>
         <!-- /choose_reason -->

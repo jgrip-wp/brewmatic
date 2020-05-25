@@ -24,6 +24,20 @@
 	padding: 0 0 0 50px;
 	box-sizing: border-box;
 }
+.product_list_item{
+	display: block;
+}
+.product_list_item .common_btn{
+	transition: all .3s ease;
+}
+.product_list_item:hover .common_btn{
+	background: #d4d4d4;
+}
+.product_list_item:hover .common_btn:after {
+  position: relative;
+  left: 10px;
+  transition: 0.3s ease-in-out;
+}
 .product_list_img img{
 	width: 100%;
 }
@@ -42,18 +56,18 @@
 .product_list_btn{
 	margin: 52px 0 0;
 }
-.product_list_btn a{
+.product_list_btn .common_btn{
 	display: block;
 	width: 100%;
 }
 @media screen and (max-width: 768px) {
 .product_index_content{
-  padding: 26px 0 0;
+  padding: 35px 0 0;
 }
 .product_comment{
-	font-size: 12px;
-	line-height: 21px;
-	margin: 30px 0 0;
+	font-size: 15px;
+	line-height: 25px;
+	margin: 45px 0 0;
 }
 .product_list{
 	margin: 26px 0 0;
@@ -64,7 +78,7 @@
 .product_list li{
 	width: 50%;
 	padding: 0 0 0 20px;
-	margin: 0 0 20px;
+	margin: 0 0 35px;
 }
 .product_list_name{
 	font-size: 20px;
@@ -72,7 +86,7 @@
 	margin: 20px 0 0;
 }
 .product_list_txt{
-	font-size: 12px;
+	font-size: 15px;
 	line-height: 21px;
 	margin: 15px 0 0;
 }
@@ -180,7 +194,7 @@
 }
 @media screen and (max-width: 768px) {
 .detail_introduce{
-	padding: 30px 0 0;
+	padding: 35px 0 0;
 }
 .detail_introduce_img{
 	float: none;
@@ -192,20 +206,20 @@
 }
 .detail_introduce_content{
 	overflow: hidden;
-	padding: 20px 0 20px;
+	padding: 35px 0;
 }
 .detail_introduce_subtit{
-	font-size: 14px;
-	line-height: 24px;
+	font-size: 15px;
+	line-height: 25px;
 }
 .detail_introduce_tit{
-	font-size: 26px;
-	line-height: 32px;
+	font-size: 25px;
+	line-height: 35px;
 	margin: 10px 0 0;
 }
 .detail_introduce_type{
-	font-size: 12px;
-	line-height: 21px;
+	font-size: 13px;
+	line-height: 23px;
 }
 .detail_introduce_type:before{
 	width: 30px;
@@ -385,22 +399,22 @@
 	font-size: 56px;
 }
 .parameter_features_tit{
-	font-size: 13px;
-	line-height: 24px;
+	font-size: 18px;
+	line-height: 15px;
 }
 .parameter_features_txt{
-	font-size: 13px;
-	line-height: 24px;
-	padding: 8px 0 0;
+   font-size: 15px;
+  line-height: 25px;
+  padding: 25px 0 0;
 }
 .parameter_features_comment{
 	font-size: 13px;
 	line-height: 24px;
-	padding: 0 0 0 20px;
+	padding: 0 0 0 40px;
 	margin: 30px 0 0;
 }
 .parameter_features_comment:before{
-	left: 8px;
+	left: 24px;
 	top: 8px;
 }
 .parameter_techninal_data{

@@ -46,7 +46,7 @@
                 <div class="concept_content">
                   <p class="concept_tit">本当にコーヒーにこだわりたい方へ、<br>最高品質のグラインダーを</p>
                   <p class="concept_txt">From Seed to Cup。豆からカップまで、すべてにこだわるスペシャルティコーヒーに相応しい、最高品質のグラインダーを開発するBARATZA（バラッツア）。<br><br>サードウェーブのメッカであるシアトルで、企画・設計・デザインされるプロダクトはハイクオリティでコンパクト。<br>パーツ一つひとつ細部にまで完璧さを追求し、刃はもちろん、270段階の粒度設定、高性能スケール、0.1秒単位のタイマーなど、コーヒーの可能性を最大限に引き出すノウハウが、スタイリッシュなボディに収められています。<br><br>パーフェクトなコーヒーは、パーフェクトなグラインドから。<br>繊細かつパワフルなBARATZAのグラインダーは、コーヒーに特別なこだわりをもつシアトルの人々はもちろん、世界中のコーヒー愛好家、プロフェッショナル、スペシャルティコーヒー専門店などに選ばれています。</p>
-                  <p class="concept_btn"><a href="#" class="common_btn">BARATZAのこだわり</a></p>
+                  <p class="concept_btn"><a href="./about_detail.php" class="common_btn">BARATZAのこだわり</a></p>
                 </div>
               </div>
               <div class="brand_concept_second wow fadeInUp visiblepc"><img src="./images/about/img_brand_concept02.png" alt="写真"></div>
@@ -57,7 +57,7 @@
         </div>
         <div class="brand_story">
           <div class="inner">
-            <h2 class="page_title_mid wow fadeInUp"><span>BARATZA Brand Story</span>品質もデザインも、スペシャルティコーヒーに相応しいグラインダーを世界中へ</h2>
+            <h2 class="page_title_mid wow fadeInUp"><span>BARATZA Brand Story</span>品質もデザインも、<br class="visiblets">スペシャルティコーヒーに相応しい<br class="visiblets">グラインダーを世界中へ</h2>
           </div>
           <div class="brand_story_inner wow fadeInUp">
             <div class="inner">
@@ -86,17 +86,17 @@
                 <dt>2013年</dt>
                 <dd>
                   ブルーマチック ジャパンと取引を開始。日本市場への進出を本格化。<br>ホテルの朝食会場、空港のラウンジ、ショッピングモールなど、幅広い業態で活用されている。
-                  <p class="brand_story_link op"><a href="#">ブルーマチック ジャパンについて</a></p>
+                  <p class="brand_story_link op"><a href="https://www.brewmatic.co.jp/about">ブルーマチック ジャパンについて</a></p>
                   <br>
                   SCA（Specialty Coffee Association）でFortéがベストニュープロダクト賞を受賞。
-                  <p class="brand_story_link op"><a href="#">最新のFortéシリーズ</a></p>
+                  <p class="brand_story_link op"><a href="./products/forte-bg/">最新のFortéシリーズ</a></p>
                 </dd>
               </dl>
               <dl class="clearfix">
                 <dt>2016年</dt>
                 <dd>
                   他社に先駆けてスケール内蔵のグラインダー、Setteシリーズを発表。
-                  <p class="brand_story_link op"><a href="#">最新のSetteシリーズ</a></p>
+                  <p class="brand_story_link op"><a href="./products/sette270wi/">最新のSetteシリーズ</a></p>
                 </dd>
               </dl>
               <div class="story_second_img"><img src="./images/about/img_brand_concept05.png" alt="写真"></div>

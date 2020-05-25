@@ -1,4 +1,25 @@
+
 $(document).ready(function(){
+	$('.top_mainimg_left').slick({
+    autoplay: true,
+    vertical: true,
+    arrows: false,
+    dots:false,
+    speed: 800,
+    pauseOnHover: false,
+    touchMove: false,
+    swipe: false,
+  });
+  $('.top_mainimg_right').slick({
+    autoplay: true,
+    vertical: true,
+    arrows: false,
+    dots:false,
+    speed: 800,
+    pauseOnHover: false,
+    touchMove: false,
+    swipe: false,
+  });
 	if ($('.biggerlink').length > 0) {
 		$('.biggerlink').biggerlink();
 	}

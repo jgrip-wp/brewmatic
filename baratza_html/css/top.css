@@ -4,14 +4,18 @@
 .top_mainimg{
   display: flex;
 }
-.top_mainimg div{
+.top_mainimg > div{
   width: 50%;
 }
 .top_mainimg img{
   width: 100%;
 }
-
-
+.top_mainimg_right{
+	transform: rotate(180deg);
+}
+.slick-vertical .slick-slide{
+	border: none;
+}
 /*top_meet*/
 .top_meet{
 	padding: 60px 0 0;
@@ -172,7 +176,7 @@
 @media screen and (max-width: 1080px) {
 .introduce{
 	margin: 0 -20px;
-	padding: 50px 20px;
+	padding: 70px 20px;
 }
 .introduce > a{
 	display: block;
@@ -195,14 +199,14 @@
 	letter-spacing: 5px;
 }
 .introduce_comment{
-	font-size: 13px;
+	font-size: 18px;
 	line-height: 26px;
 	margin: 20px 0 0;
 }
 .introduce_txt{
-	font-size: 12px;
-	line-height: 17px;
-	margin: 0;
+	font-size: 15px;
+	line-height: 23px;
+	margin: 20px 0 0;
 }
 .introduce_btn{
 	margin: 25px 0 0;
@@ -217,8 +221,8 @@
 }	
 .introduce_btn a{
 	display: block;
-	font-size: 12px;
-	line-height: 36px;
+	font-size: 15px;
+	line-height: 45px;
 	border: 2px solid #bda78f;
 }
 .introduce_btn a:after{
@@ -281,7 +285,7 @@
 }
 @media screen and (max-width: 1080px) {
 .product_lineup{
-	margin: 50px 0 0;
+	margin: 70px 0 0;
 }
 .first_group{
 	margin: 0;
@@ -303,8 +307,8 @@
 	margin-top: -28px;
 }
 .first_group_comment{
-	font-size: 12px;
-	line-height: 18px;
+	font-size: 15px;
+	line-height: 28px;
 	margin: 20px 0 0;
 }
 .first_group_btn{
@@ -405,13 +409,24 @@
 	transform: translateX(-50%);
 	z-index: 3;
 }
+.reason_box_item .common_btn{
+	transition: all .3s ease;
+}
+.reason_box_item:hover .common_btn{
+	background: #d4d4d4;
+}
+.reason_box_item:hover .common_btn:after{
+	position: relative;
+  left: 10px;
+  transition: 0.3s ease-in-out;
+}
 @media screen and (max-width: 768px) {
 .choose_reason{
-	padding: 48px 0 0;
+	padding: 70px 0 0;
 }
 .reason_box{
 	display: block;
-	margin: 50px 0 0;
+	margin: 35px 0 0;
 }
 .reason_box_item{
 	width: 100%;
@@ -434,8 +449,8 @@
 	font-size: 12px;
 }
 .reason_box_comment{
-	font-size: 10px;
-	line-height: 16px;
+	font-size: 15px;
+	line-height: 25px;
 	margin: 10px 0 0;
 }
 .reason_box_btn{

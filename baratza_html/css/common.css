@@ -238,6 +238,7 @@ html,  html body {
 }
 .head_down li{
   display: inline;
+  vertical-align: top;
 }
 .head_down li + li{
   margin: 0 0 0 70px;
@@ -246,7 +247,7 @@ html,  html body {
   position: relative;
   display: inline-block;
   font-size: 12px;
-  line-height: 40px;
+  line-height: 42px;
 }
 .head_down .head_link:after{
   position: absolute;
@@ -279,7 +280,7 @@ html,  html body {
 }
 .fixed_head{
   position: fixed;
-  top: -140px;
+  top: -145px;
   left: 0;
   width: 100%;
   transition: all .5s ease;
@@ -373,8 +374,8 @@ html,  html body {
 }
 .menu_links li a{
   display: block;
-  font-size: 12px;
-  line-height: 30px;
+  font-size: 14px;
+  line-height: 50px;
 }
 .menu_btns{
   margin: 19px 0 0;
@@ -382,8 +383,8 @@ html,  html body {
 .menu_btns a{
   display: block;
   text-align: center;
-  font-size: 10px;
-  line-height: 43px;
+  font-size: 14px;
+  line-height: 45px;
   color: #fff;
   background: #333333;
 }
@@ -528,8 +529,8 @@ html,  html body {
   line-height: 24px;
 }
 .page_title_mid span{
-  font-size: 10px;
-  margin: 0 0 8px;
+  font-size: 12px;
+  margin: 0 0 12px;
 }  
 }
 /* !btn
