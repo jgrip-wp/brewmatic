@@ -863,22 +863,57 @@ html,  html body {
 	display: inline-block;
 	margin: 10px 30px 10px 0;
 }
-.common_form .form_checkbox{
-	display: inline-block;
-	width: 22px;
-	margin: 0 8px 0 0;
+.checkbox_wrap label span,
+.form_privacy label span{
+  position: relative;
+  display: inline-block;
+  padding: 0 0 0 30px;
 }
-.common_form .form_privacy{
+.checkbox_wrap input[type=checkbox],
+.form_privacy input[type=checkbox]{
+	display: inline-block;
+	width: 0;
+  overflow: hidden;
+  height: 0;
+  visibility: hidden;
+}
+.checkbox_wrap label span:before,
+.form_privacy label span:before{
+  position: absolute;
+  content: '';
+  display: block;
+  border: 1px solid #b7b7b7;
+  width: 20px;
+  height: 20px;
+  top:0;
+  left:0;
+  background: #fff;
+}
+.checkbox_wrap input[type=checkbox]:checked + span:after,
+.form_privacy input[type=checkbox]:checked + span:after{
+  content: '';
+  display: inline-block;
+  border: 1px solid #b7b7b7;
+  border-top-width: 0;
+  border-right-width: 0; 
+  width: 16px;
+  height: 8px;
+  -webkit-transform: rotate(-50deg);
+  position: absolute;
+  top:4px;
+  left:2px;
+}
+.form_privacy{
 	text-align: center;
 	margin: 10px 0 0;
 }
-.common_form .form_privacy label{
+.form_privacy label{
 	display: inline-block;
 	font-size: 14px;
 	line-height: 22px;
 	margin: 0 8px 0 0;
 }
-.common_form .form_privacy a{
+.form_privacy a{
 	color: #005bac;
 }
 .common_form .form_btn{

@@ -48,7 +48,7 @@
               </div>
               <!-- /common_brand_list -->
               <div class="contact_content">
-                <p class="contact_comment op wow fadeIn">よくお問い合わせいただく内容をまとめた「<a href="#">よくあるご質問</a>」もご用意しています。<br>※お客様の個人情報、お寄せいただいた相談内容は厳重に取扱いお問い合わせに対応させていただくための目的のみに利用いたします。</p>
+                <p class="contact_comment op wow fadeIn">よくお問い合わせいただく内容をまとめた「<a href="#">よくあるご質問</a>」もご用意しています。<br>お客様の個人情報、お寄せいただいた相談内容は厳重に取扱いお問い合わせに対応させていただくための目的のみに利用いたします。<br>ご注意：※は必須項目です。</p>
                 <div class="common_form wow fadeIn">
                   <form action="">
                     <table>
@@ -100,48 +100,48 @@
                         <td>
                           <div class="checkbox_wrap">
                             <label for="machine_tools01">
-                              <input type="checkbox" class="form_checkbox" name="parm[machine_tools01]" id="machine_tools01">業務用
+                              <input type="checkbox" class="form_checkbox" name="parm[machine_tools01]" id="machine_tools01"><span>業務用</span>
                             </label>
                             <label for="machine_tools02">
-                              <input type="checkbox" class="form_checkbox" name="parm[machine_tools02]" id="machine_tools02">家庭用
+                              <input type="checkbox" class="form_checkbox" name="parm[machine_tools02]" id="machine_tools02"><span>家庭用</span>
                             </label>
                             <label for="machine_tools03">
-                              <input type="checkbox" class="form_checkbox" name="parm[machine_tools03]" id="machine_tools03">オフィス用
+                              <input type="checkbox" class="form_checkbox" name="parm[machine_tools03]" id="machine_tools03"><span>オフィス用</span>
                             </label>
                             <label for="machine_tools04">
-                              <input type="checkbox" class="form_checkbox" name="parm[machine_tools04]" id="machine_tools04">その他
+                              <input type="checkbox" class="form_checkbox" name="parm[machine_tools04]" id="machine_tools04"><span>その他</span>
                             </label>
                           </div>
                         </td>
                       </tr>
                       <tr>
-                        <th>ご興味をお持ちのブランド<span>※</span></th>
+                        <th>ご興味をお持ちのブランド</th>
                         <td>
                           <div class="checkbox_wrap">
                             <label for="machine_brand01">
-                              <input type="checkbox" class="form_checkbox" name="parm[machine_brand01]" id="machine_brand01">BREWMATIC
+                              <input type="checkbox" class="form_checkbox" name="parm[machine_brand01]" id="machine_brand01"><span>BREWMATIC</span>
                             </label>
                             <label for="machine_brand02">
-                              <input type="checkbox" class="form_checkbox" name="parm[machine_brand02]" id="machine_brand02">Curtis
+                              <input type="checkbox" class="form_checkbox" name="parm[machine_brand02]" id="machine_brand02"><span>Curtis</span>
                             </label>
                             <label for="machine_brand03">
-                              <input type="checkbox" class="form_checkbox" name="parm[machine_brand03]" id="machine_brand03">CARIMALI
+                              <input type="checkbox" class="form_checkbox" name="parm[machine_brand03]" id="machine_brand03"><span>CARIMALI</span>
                             </label>
                             <label for="machine_brand04">
-                              <input type="checkbox" class="form_checkbox" name="parm[machine_brand04]" id="machine_brand04">JURA
+                              <input type="checkbox" class="form_checkbox" name="parm[machine_brand04]" id="machine_brand04"><span>JURA</span>
                             </label>
                             <br class="visiblepc">
                             <label for="machine_brand05">
-                              <input type="checkbox" class="form_checkbox" name="parm[machine_brand05]" id="machine_brand05">rheavendors
+                              <input type="checkbox" class="form_checkbox" name="parm[machine_brand05]" id="machine_brand05"><span>rheavendors</span>
                             </label>
                             <label for="machine_brand06">
-                              <input type="checkbox" class="form_checkbox" name="parm[machine_brand06]" id="machine_brand06">SANREMO
+                              <input type="checkbox" class="form_checkbox" name="parm[machine_brand06]" id="machine_brand06"><span>SANREMO</span>
                             </label>
                             <label for="machine_brand07">
-                              <input type="checkbox" class="form_checkbox" name="parm[machine_brand07]" id="machine_brand07">BARATZA
+                              <input type="checkbox" class="form_checkbox" name="parm[machine_brand07]" id="machine_brand07"><span>BARATZA</span>
                             </label>
                             <label for="machine_brand08">
-                              <input type="checkbox" class="form_checkbox" name="parm[machine_brand08]" id="machine_brand08">ROCKLINE
+                              <input type="checkbox" class="form_checkbox" name="parm[machine_brand08]" id="machine_brand08"><span>ROCKLINE</span>
                             </label>
                           </div>
                         </td>
@@ -161,7 +161,7 @@
                     </table>
                     <div class="form_privacy op">
                       <label for="privacy">
-                        <input type="checkbox" class="form_checkbox" name="parm[privacy]" id="privacy"><a href="#" target="_blank">個人情報保護方針</a>に同意します
+                        <input type="checkbox" class="form_checkbox" name="parm[privacy]" id="privacy"><span><a href="#" target="_blank">個人情報保護方針</a>に同意します</span>
                       </label>
                     </div>
                     <div class="form_btn">

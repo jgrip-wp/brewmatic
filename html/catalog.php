@@ -37,7 +37,7 @@
             <p class="page_title_detail wow fadeIn">取り扱いマシンを紹介した総合カタログをご用意しています。</p>
             <div class="contents_main_box">
               <div class="catalog_content">
-                <p class="catalog_comment op wow fadeIn">総合カタログのPDFは<a href="#">こちらからダウンロード</a>していただけます。<br>印刷したカタログが必要な方は、下記のお問合せフォームよりご連絡ください。<br>※お客様の個人情報は厳重に取扱いお問い合わせに対応させていただくための目的のみに利用致します。</p>
+                <p class="catalog_comment op wow fadeIn">総合カタログのPDFは<a href="#">こちらからダウンロード</a>していただけます。<br>印刷したカタログが必要な方は、下記のお問合せフォームよりご連絡ください。<br>お客様の個人情報は厳重に取扱いお問い合わせに対応させていただくための目的のみに利用致します。<br>ご注意：※は必須項目です。</p>
                 <div class="common_form wow fadeIn">
                   <form action="">
                     <table>
@@ -89,16 +89,16 @@
                         <td>
                           <div class="checkbox_wrap">
                             <label for="machine_tools01">
-                              <input type="checkbox" class="form_checkbox" name="parm[machine_tools01]" id="machine_tools01">業務用
+                              <input type="checkbox" class="form_checkbox" name="parm[machine_tools01]" id="machine_tools01"><span>業務用</span>
                             </label>
                             <label for="machine_tools02">
-                              <input type="checkbox" class="form_checkbox" name="parm[machine_tools02]" id="machine_tools02">家庭用
+                              <input type="checkbox" class="form_checkbox" name="parm[machine_tools02]" id="machine_tools02"><span>家庭用</span>
                             </label>
                             <label for="machine_tools03">
-                              <input type="checkbox" class="form_checkbox" name="parm[machine_tools03]" id="machine_tools03">オフィス用
+                              <input type="checkbox" class="form_checkbox" name="parm[machine_tools03]" id="machine_tools03"><span>オフィス用</span>
                             </label>
                             <label for="machine_tools04">
-                              <input type="checkbox" class="form_checkbox" name="parm[machine_tools04]" id="machine_tools04">その他
+                              <input type="checkbox" class="form_checkbox" name="parm[machine_tools04]" id="machine_tools04"><span>その他</span>
                             </label>
                           </div>
                         </td>
@@ -112,7 +112,7 @@
                     </table>
                     <div class="form_privacy op">
                       <label for="privacy">
-                        <input type="checkbox" class="form_checkbox" name="parm[privacy]" id="privacy"><a href="#" target="_blank">個人情報保護方針</a>に同意します
+                        <input type="checkbox" class="form_checkbox" name="parm[privacy]" id="privacy"><span><a href="#" target="_blank">個人情報保護方針</a>に同意します</span>
                       </label>
                     </div>
                     <div class="form_btn">
