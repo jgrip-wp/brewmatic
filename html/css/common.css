@@ -321,9 +321,8 @@ html,  html body {
 }
 #menu {
   background: #fff;
-	width: 70%;
-	max-width: 70%;
-	min-width: 300px;
+	width: 80%;
+	max-width: 80%;
 	position: fixed;
 	top: 0;
 	right: -100%;
@@ -347,6 +346,7 @@ html,  html body {
 .menu_serch {
   padding: 20px 15px;
   background: #005bac;
+  position: relative;
 }
 .menu_serch_inner {
   background: url(../images/common/magnifier_menu.png) 0 bottom no-repeat;
@@ -378,9 +378,11 @@ html,  html body {
   color: #fff;
 }
 .js-navbar-close {
-  float: right;
-  width: 11%;
-  text-align: right;
+  position: absolute;
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 8%;
 }
 .menu_content {
   padding: 20px 15px;
@@ -1038,11 +1040,16 @@ html,  html body {
   line-height: 1.8;
 }
 .column_four .column_box_price {
-  display: block;
   color: #7b7b7b;
   font-size: 26px;
   text-align: center;
   margin-top: 10px;
+}
+.column_four .column_box_price span {
+  font-size: 16px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 5px;
 }
 .column_four .common_btn {
   margin-top: 25px;

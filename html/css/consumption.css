@@ -25,7 +25,6 @@
   vertical-align: middle;
   padding: 25px;
   width: 110px;
-  position: relative;
 }
 .consump_table th {
   background: #f6f6f6;
@@ -34,6 +33,7 @@
 }
 .consump_table td {
   text-align: center;
+  position: relative;
 }
 .consump_table_cont {
   width: 310px !important;

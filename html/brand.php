@@ -39,7 +39,7 @@
             <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">Brand lineup</span>ブランド一覧</h2>
             <p class="page_title_detail wow fadeIn">様々なご要望にお応えできるよう、世界中から厳選した<br class="visiblepc">プレミアムブランドをラインナップしています。</p>
             <div class="contents_main_box">
-              <p class="brand_detail wow fadeIn">マスターブランド「BREWMATIC」をはじめ、ドリップコーヒー、エスプレッソ、全自動コーヒーマシンなど多様なラインナップを展開しています。<br>業態や提供スタイル、店舗の環境、コンセプトに合わせたマシンの選定、トータルなコーディネイトもお任せください。</p>
+              <p class="brand_detail wow fadeIn">ドリップコーヒー、エスプレッソ、全自動コーヒーマシン、セミオートなど多様なラインナップを展開しています。<br>業態や提供スタイル、店舗の環境、コンセプトに合わせたマシンの選定、トータルなコーディネイトもお任せください。</p>
               <ul class="brand_list">
                 <li class="wow fadeIn">
                   <div class="brand_box hlg01">

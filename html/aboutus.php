@@ -129,7 +129,7 @@
                         <td class="whalf"><p class="aboutus_history_hds">日本のコーヒー市場</p></td>
                       </tr>
                       <tr>
-                        <td><p class="aboutus_history_txt">1969年　横浜の商社でコーヒーマシンの輸入を行う新規事業が立ち上がる。<br>最初の取引先は、アメリカ・ロサンゼルスのウエスタンアーン社（後のブルーマチックインターナショナル社。当時はファーマーブラザーズ支社の一部門）。同社製品のブランド名「BREWMATIC（ブルーマチック）」にちなんで、プロジェクトは「ブルーマチックプロジェクト」と呼ばれていた。</p></td>
+                        <td><p class="aboutus_history_txt">1969年　横浜の商社でコーヒーマシンの輸入を行う新規事業が立ち上がる。<br>最初の取引先は、アメリカ・ロスアンゼルスのウエスタンアーン社（後のブルーマチックインターナショナル社。当時はファーマーブラザーズ支社の一部門）。同社製品のブランド名「BREWMATIC（ブルーマチック）」にちなんで、プロジェクトは「ブルーマチックプロジェクト」と呼ばれていた。</p></td>
                         <td class="whalf">
                           <p class="aboutus_history_txt">1960年<br>戦時中に輸入制限が行われていたコーヒーの輸入が全面自由化。</p>
                           <p class="aboutus_history_txt">1970年代<br>高度経済成長期。喫茶店ブーム。</p>
@@ -153,7 +153,7 @@
                       </tr>
                       <tr>
                         <td><p class="aboutus_history_txt">1986年　イタリア・ミラノ発、エスプレッソマシンブランド「CARIMALI（カリマリ）」と取引開始。ドリップコーヒーが主流だった日本の市場にエスプレッソマシンをいち早く紹介。</p></td>
-                        <td class="whalf"><p class="aboutus_history_txt">1986年<br>国鉄民営化。</p></td>
+                        <td class="whalf"><p class="aboutus_history_txt">1980年代後半<br>「イタめし」・ティラミスブーム</p></td>
                       </tr>
                       <tr>
                         <td><p class="aboutus_history_txt">1989年　東京営業所設立。</p></td>
@@ -168,7 +168,7 @@
                         <td class="whalf" rowspan="2"><p class="aboutus_history_txt">2000年代<br>コンビニエンスストアの店頭で淹れたてのコーヒーを提供する新市場「コンビニコーヒー」に各社が参入。コーヒーの品質、価値を見直す動きがファーストフード、ファミリーレストランにも広がる。</p></td>
                       </tr>
                       <tr>
-                        <td><p class="aboutus_history_txt">2010年　アメリカ・ロサンゼルス発、ドリップコーヒーマシンブランド「Curtis（カーチス）」と取引開始。</p></td>
+                        <td><p class="aboutus_history_txt">2010年　アメリカ・ロスアンゼルス発、ドリップコーヒーマシンブランド「Curtis（カーチス）」と取引開始。</p></td>
                       </tr>
                     </table>
                   </div>

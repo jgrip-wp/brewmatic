@@ -56,14 +56,14 @@
        </div>
        <!-- /top_main_img -->
        
-       <div class="top_aboutus">
+<!--       <div class="top_aboutus">
          <div class="inner">
            <h2 class="top_aboutus_tit"><span class="fonten">We Work with World Premium Brands</span>本当に良いものだけを世界から</h2>
            <p class="top_aboutus_txt">世界のプレミアムブランドを厳選して日本へ。<br>ホテル、レストラン、カフェ、商業施設、ご家庭まで、<br>暮らしと街のあらゆるシーンに最適なコーヒーマシンをお届けします。</p>
            <p class="common_btn"><a href="./aboutus.php">Brewmatic Japanについて</a></p>
          </div>
        </div>
-       <!-- /top_aboutus -->
+       <!-- /top_aboutus -->-->
        
        <div class="top_pst">
          <div class="inner">

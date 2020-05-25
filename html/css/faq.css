@@ -46,7 +46,13 @@
   font-size: 13px;
   text-align: center;
   color: #fff;
-  border: none;
+  border: 1px #1c1c1c solid;
+  cursor: pointer;
+}
+.faq_search_btn:hover {
+  background: #fff;
+  color: #1c1c1c;
+  border: 1px #1c1c1c solid;
 }
 .faq_search_cap {
   text-align: center;

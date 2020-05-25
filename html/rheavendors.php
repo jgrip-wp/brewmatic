@@ -57,32 +57,36 @@
                   <li class="wow fadeIn">
                     <div class="column_box">
                       <p class="column_box_img"><span class="hlg01"><img src="./images/rheavendors/img_rheaven01.png" alt="la Rhea GRANDE2 Premium"></span></p>
-                      <p class="column_box_det hlg02">la Rhea GRANDE2 Premium<span class="column_box_price fonten">¥00,000</span></p>
-                      <p class="column_box_txt hlg03">コーヒー・ラテ・モカ・ココア・抹茶ラテまで、多彩なメニューが抽出できる、ハイパフォーマンスエスプレッソマシンです。</p>
+                      <p class="column_box_det hlg02">la Rhea GRANDE2 Premium</p>
+                      <p class="column_box_price fonten hlg03">¥00,000<span>(税込み)</span></p>
+                      <p class="column_box_txt hlg04">コーヒー・ラテ・モカ・ココア・抹茶ラテまで、多彩なメニューが抽出できる、ハイパフォーマンスエスプレッソマシンです。</p>
                       <p class="common_btn"><a href="./rheavendors_detail.php">詳しく見る</a></p>
                     </div>
                   </li>
                   <li class="wow fadeIn">
                     <div class="column_box">
-                      <p class="column_box_img"><span class="hlg01"><img src="./images/rheavendors/img_rheaven02.png" alt="eC +コインメック"></span></p>
-                      <p class="column_box_det hlg02">eC +コインメック<span class="column_box_price fonten">¥00,000</span></p>
-                      <p class="column_box_txt hlg03">会計機能を搭載した全自動コーヒーマシン。<br>場所を選ばず、挽きたて、いれたてのコーヒーを提供できます。</p>
+                      <p class="column_box_img"><span class="hlg01"><img src="./images/rheavendors/img_rheaven03.png" alt="rhea BL eC"></span></p>
+                      <p class="column_box_det hlg02">rhea BL eC</p>
+                      <p class="column_box_price fonten hlg03">¥00,000<span>(税込み)</span></p>
+                      <p class="column_box_txt hlg04">コーヒーからカプチーノ、カフェモカ、ホットチョコレートなど、ワンタッチで抽出可能。100ボルト電源で手軽に豊富なメニューを提供できます。</p>
                       <p class="common_btn"><a href="#">詳しく見る</a></p>
                     </div>
                   </li>
                   <li class="wow fadeIn">
                     <div class="column_box">
-                      <p class="column_box_img"><span class="hlg01"><img src="./images/rheavendors/img_rheaven03.png" alt="rhea BL eC"></span></p>
-                      <p class="column_box_det hlg02">rhea BL eC<span class="column_box_price fonten">¥00,000</span></p>
-                      <p class="column_box_txt hlg03">コーヒーからカプチーノ、カフェモカ、ホットチョコレートなど、ワンタッチで抽出可能。100ボルト電源で手軽に豊富なメニューを提供できます。</p>
+                      <p class="column_box_img"><span class="hlg01"><img src="./images/rheavendors/img_rheaven02.png" alt="eC +コインメック"></span></p>
+                      <p class="column_box_det hlg02">eC +コインメック</p>
+                      <p class="column_box_price fonten hlg03">¥00,000<span>(税込み)</span></p>
+                      <p class="column_box_txt hlg04">会計機能を搭載した全自動コーヒーマシン。<br>場所を選ばず、挽きたて、いれたてのコーヒーを提供できます。</p>
                       <p class="common_btn"><a href="#">詳しく見る</a></p>
                     </div>
                   </li>
                   <li class="wow fadeIn">
                     <div class="column_box">
                       <p class="column_box_img"><span class="hlg01"><img src="./images/rheavendors/img_rheaven04.png" alt="lio 2C"></span></p>
-                      <p class="column_box_det hlg02">lio 2C<span class="column_box_price fonten">¥00,000</span></p>
-                      <p class="column_box_txt hlg03">省スペースで新しいメニューを提供できる、コンパクトパウダーマシン。</p>
+                      <p class="column_box_det hlg02">lio 2C</p>
+                      <p class="column_box_price fonten hlg03">¥00,000<span>(税込み)</span></p>
+                      <p class="column_box_txt hlg04">省スペースで新しいメニューを提供できる、コンパクトパウダーマシン。</p>
                       <p class="common_btn"><a href="#">詳しく見る</a></p>
                     </div>
                   </li>
