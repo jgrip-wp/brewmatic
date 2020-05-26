@@ -34,7 +34,7 @@
     <article>
       <div id="contents">
         <p id="breadcrumb" class="op"><a href="./" class="home fonten">Top</a> > <a href="#">コーヒーマシンの選び方</a> > 消費量から選ぶ</p>
-        <div class="contents_main">
+        <div class="contents_main js-showhead">
           <div class="inner">
             <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">Select Machine</span>コーヒーマシンの選び方</h2>
              <ul class="common_bnr wow fadeIn">

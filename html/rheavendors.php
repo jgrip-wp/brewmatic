@@ -34,7 +34,7 @@
     <article>
       <div id="contents">
         <p id="breadcrumb" class="op"><a href="./" class="home fonten">Top</a> > <a href="#">オンラインショップ</a> > <span class="home fonten">rheavendors</span></p>
-        <div class="contents_main">
+        <div class="contents_main js-showhead">
           <div class="inner">
             <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">Online shop</span>オンラインショップ</h2>
             <p class="page_title_detail wow fadeIn">ブルーマチックジャパンの取り扱いマシン、メンテナンス商品を<br class="visiblepc">お求めいただけるオンラインショップです。</p>

@@ -33,7 +33,7 @@
     <article>
       <div id="contents">
         <p id="breadcrumb" class="op"><a href="./" class="home fonten">Top</a> > <a href="#">コーヒーマシンのある風景</a> > <a href="./carimali.php">CARIMALI</a> > KEY’S CAFÉ</p>
-        <div class="contents_main">
+        <div class="contents_main js-showhead">
           <div class="inner">
             <h2 class="page_title key_page_tit wow fadeIn fonten"><span class="page_title_en">CARIMILI</span>KEY’S CAFÉ -CLASSE-</h2>
             <div class="contents_main_box">

@@ -33,7 +33,7 @@
     <article>
       <div id="contents">
         <p id="breadcrumb" class="op"><a href="./" class="home fonten">Top</a> > プライバシーポリシー</p>
-        <div class="contents_main">
+        <div class="contents_main js-showhead">
           <div class="inner">
             <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">Privacy policy</span>プライバシーポリシー</h2>
             <div class="contents_main_box">

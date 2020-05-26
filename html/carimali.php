@@ -34,7 +34,7 @@
     <article>
       <div id="contents">
         <p id="breadcrumb" class="op"><a href="./" class="home fonten">Top</a> > <a href="#">コーヒーマシンのある風景</a> > <span class="home fonten">CARIMALI</span></p>
-        <div class="contents_main">
+        <div class="contents_main js-showhead">
           <div class="inner">
             <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">Life with Coffee</span>コーヒーマシンのある風景</h2>
             <p class="page_title_detail wow fadeIn">幅広いシーンで活躍するブルーマチックジャパンのコーヒーマシン。<br>導入店舗のほか、コーヒーにまつわる様々な情報をお届けします。</p>

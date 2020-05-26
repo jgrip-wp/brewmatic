@@ -32,7 +32,7 @@
     <article>
       <div id="contents">
         <p id="breadcrumb" class="op"><a href="./" class="home fonten">Top</a> > ショールームのご予約</p>
-        <div class="contents_main">
+        <div class="contents_main js-showhead">
           <div class="inner">
             <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">Showroom</span>ショールームのご予約</h2>
             <p class="page_title_detail wow fadeIn">各種マシンを体感いただけるショールームを展開。<br>業態や提供スタイル、コンセプトに合わせた最適なマシンをご提案します。</p>

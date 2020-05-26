@@ -34,7 +34,7 @@
     <article>
       <div id="contents">
         <p id="breadcrumb" class="op"><a href="./" class="home fonten">Top</a> > <a href="./brand.php">ブランド一覧</a> > OTHERS</p>
-        <div class="contents_main">
+        <div class="contents_main js-showhead">
           <div class="inner">
             <h2 class="page_title wow fadeIn">OTHERS</h2>
             <p class="page_title_detail wow fadeIn">コーヒーシーンをトータルコーディネイトできる<br class="visiblepc">アイテムをご用意しています。</p>

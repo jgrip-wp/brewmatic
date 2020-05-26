@@ -31,7 +31,7 @@
     <article>
       <div id="contents">
         <p id="breadcrumb" class="op"><a href="./" class="home fonten">Top</a> > お問い合わせ</p>
-        <div class="contents_main">
+        <div class="contents_main js-showhead">
           <div class="inner">
             <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">Contact</span>お問い合わせ</h2>
             <p class="page_title_detail wow fadeIn">ブルーマチックジャパン、商品・サービスに対する<br>ご意見、ご質問はお問い合わせフォームに入力ください。</p>

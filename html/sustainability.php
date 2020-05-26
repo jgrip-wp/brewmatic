@@ -31,7 +31,7 @@
     <article>
       <div id="contents">
         <p id="breadcrumb" class="op"><a href="./" class="home fonten">Top</a> >  Sustainability</p>
-        <div class="contents_main">
+        <div class="contents_main js-showhead">
           <div class="inner">
             <h2 class="page_title wow fadeIn"><span class="page_title_en fonten"> Sustainability</span> サステナビリティ</h2>
             <p class="page_title_detail wow fadeIn">地球環境、地域社会、人々の豊かな暮らしが調和する<br>持続可能な社会の実現を目指しています。</p>

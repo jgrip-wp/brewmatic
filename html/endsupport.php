@@ -33,7 +33,7 @@
     <article>
       <div id="contents">
         <p id="breadcrumb" class="op"><a href="./" class="home fonten">Top</a> > サポート終了商品</p>
-        <div class="contents_main">
+        <div class="contents_main js-showhead">
           <div class="inner">
             <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">End Support</span>サポート終了商品</h2>
              <ul class="common_bnr wow fadeIn">

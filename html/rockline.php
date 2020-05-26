@@ -31,7 +31,7 @@
     <article>
       <div id="contents">
         <p id="breadcrumb" class="op"><a href="./" class="home fonten">Top</a> > <a href="./brand.php">ブランド一覧</a> > ROCKLINE</p>
-        <div class="contents_main">
+        <div class="contents_main js-showhead">
           <div class="inner">
             <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">Brand lineup</span>ROCKLINE</h2>
             <p class="page_title_detail wow fadeIn">1976年の創業以来、世界最高品質を目指すロックライン。<br>コーヒーフィルターペーパーのシェアは北米No.1。</p>
