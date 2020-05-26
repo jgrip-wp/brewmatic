@@ -25,12 +25,12 @@
 	z-index: 9998;
 }
 #top_logo div.top_logo_inner div {
-	background: #fff url(../images/common/logo_head_pc.png) no-repeat center center;
+  background: url(../images/common/read_logo.png) center center no-repeat #fff;
 	background-size: 80%;
 	position: static;
 	margin: 0;
-	width: 320px;
-	height: 320px;
+  width: 300px;
+  height: 115px;
 }
 
 .top_inner {

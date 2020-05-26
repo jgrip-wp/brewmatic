@@ -305,7 +305,7 @@ html,  html body {
 
 .fixed_head{
   position: fixed;
-  top: -100px;
+  top: 0;
   left: 0;
   width: 100%;
   box-sizing: border-box;
@@ -314,11 +314,22 @@ html,  html body {
   background: #fff;
   z-index: 99;
   box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  transform: translateY(-100%);
 }
 .fixed_head.show{
-  top: 0;
+  transform: translateY(0);
 }
-
+@media screen and (max-width: 1350px) {
+.fixed_head .head_navi_down a {
+  margin: 0 15px;
+}
+}
+@media screen and (max-width: 1200px) {
+.fixed_head .head_navi_down a {
+  margin: 0 10px;
+  font-size: 13px;
+}
+}
 
 @media screen and (max-width: 1080px) {
 #head {
@@ -807,8 +818,8 @@ html,  html body {
 	border-spacing:0px 40px;
 }
 .common_form th{
-	width: 190px;
-	padding: 0 10px 0 0;
+	width: 200px;
+	padding: 0 20px 0 0;
 	font-size: 16px;
 	line-height: 26px;
   letter-spacing: 0.2em;
@@ -828,6 +839,7 @@ html,  html body {
 }
 .common_form td{
 	height: 50px;
+  padding-left: 20px;
 }
 .common_form .form_input{
 	display: block;
@@ -912,15 +924,15 @@ html,  html body {
 .form_privacy input[type=checkbox]:checked + span:after{
   content: '';
   display: inline-block;
-  border: 1px solid #b7b7b7;
+  border: 1px solid #000;
   border-top-width: 0;
   border-right-width: 0; 
-  width: 16px;
-  height: 8px;
+  width: 12px;
+  height: 6px;
   -webkit-transform: rotate(-50deg);
   position: absolute;
-  top:4px;
-  left:2px;
+  top:5px;
+  left:5px;
 }
 .form_privacy{
 	text-align: center;
@@ -1063,7 +1075,7 @@ html,  html body {
   margin-top: 10px;
 }
 .column_four .column_box_price span {
-  font-size: 16px;
+  font-size: 13px;
   display: inline-block;
   vertical-align: middle;
   margin-left: 5px;

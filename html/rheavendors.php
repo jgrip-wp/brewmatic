@@ -40,6 +40,7 @@
             <p class="page_title_detail wow fadeIn">ブルーマチックジャパンの取り扱いマシン、メンテナンス商品を<br class="visiblepc">お求めいただけるオンラインショップです。</p>
             <div class="contents_main_box rheaven_main">
               <ul class="common_logo">
+                <li><a href="#" class="wow fadeIn"><img src="./images/common/logo01.png" alt=""></a></li>
                 <li><a href="#" class="wow fadeIn"><img src="./images/common/logo02.png" alt=""></a></li>
                 <li><a href="#" class="wow fadeIn"><img src="./images/common/logo03.png" alt=""></a></li>
                 <li><a href="#" class="wow fadeIn"><img src="./images/common/logo04.png" alt=""></a></li>
