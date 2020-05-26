@@ -35,14 +35,14 @@
         <p id="breadcrumb" class="op"><a href="./" class="home fonten">Top</a> > <a href="#">コーヒーマシンのある風景</a> > <a href="./carimali.php">CARIMALI</a> > KEY’S CAFÉ</p>
         <div class="contents_main js-showhead">
           <div class="inner">
-            <h2 class="page_title key_page_tit wow fadeIn fonten"><span class="page_title_en">CARIMILI</span>KEY’S CAFÉ -CLASSE-</h2>
+            <h2 class="page_title key_page_tit fonten"><span class="page_title_en">CARIMILI</span>KEY’S CAFÉ -CLASSE-</h2>
             <div class="contents_main_box">
               <div class="key_box">
-                <div class="key_box_img wow fadeIn">
+                <div class="key_box_img">
                   <p><img src="./images/carimali_key/img_key01.jpg" alt="オフィス街をうるおすセルフカフェ"></p>
                   <p class="key_box_cap">カリマリのマシンはワンタッチで提供できますし、手入れも簡単。抽出もスピーディーなのでお客様をお待たせしないところも魅力です。</p>
                 </div>
-                <div class="ftbox wow fadeIn">
+                <div class="ftbox">
                   <p class="key_box_tit">オフィス街をうるおすセルフカフェ</p>
                   <p class="key_box_txt">オフィス街の真ん中にあるオアシス、キーズカフェクラッセ店。<br>キーコーヒー本社の1Fだけに、コーヒーの味は折り紙付きですが、特に人気なのがカリマリのハーモニーを使ったラテやカフェモカ。<br>豆から挽く本格的なエスプレッソと本物のミルクが描く絶妙のバランスがお客様を憩いの時間へエスコートします。</p>
                   <p class="common_btn"><a href="./carimali.php">CARIMALI</a></p>
@@ -50,7 +50,7 @@
               </div>
               <!-- /key_box -->
               <div class="key_access">
-                <div class="clearfix wow fadeIn">
+                <div class="clearfix">
                   <p class="key_access_tit fonten">Access</p>
                   <div class="ftbox">
                     <div class="key_access_cont">
@@ -60,9 +60,9 @@
                   </div>
                 </div>
                 <ul class="key_access_list">
-                  <li class="wow fadeIn"><img src="./images/carimali_key/img_key02.jpg" alt="Access"></li>
-                  <li class="wow fadeIn"><img src="./images/carimali_key/img_key03.jpg" alt="Access"></li>
-                  <li class="wow fadeIn"><img src="./images/carimali_key/img_key04.jpg" alt="Access"></li>
+                  <li><img src="./images/carimali_key/img_key02.jpg" alt="Access"></li>
+                  <li><img src="./images/carimali_key/img_key03.jpg" alt="Access"></li>
+                  <li><img src="./images/carimali_key/img_key04.jpg" alt="Access"></li>
                 </ul>
               </div>
               <!-- /key_access -->

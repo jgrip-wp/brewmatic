@@ -34,12 +34,12 @@
         <p id="breadcrumb" class="op"><a href="./" class="home fonten">Top</a> > ショールームのご予約</p>
         <div class="contents_main js-showhead">
           <div class="inner">
-            <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">Showroom</span>ショールームのご予約</h2>
-            <p class="page_title_detail wow fadeIn">各種マシンを体感いただけるショールームを展開。<br>業態や提供スタイル、コンセプトに合わせた最適なマシンをご提案します。</p>
+            <h2 class="page_title"><span class="page_title_en fonten">Showroom</span>ショールームのご予約</h2>
+            <p class="page_title_detail">各種マシンを体感いただけるショールームを展開。<br>業態や提供スタイル、コンセプトに合わせた最適なマシンをご提案します。</p>
             <div class="contents_main_box">
               <div class="showroom_content">
-                <p class="showroom_comment op wow fadeIn">ブルーマチックジャパンでは、世界のプレミアムブランドを実際に操作してお試しいただけるショールームをご用意しています。<br>ご検討中のマシンの詳細はもちろん、業態や提供スタイル、店舗の環境、コンセプトに合わせたトータルな提案もいたしますので、ご予約の上ぜひお越しください。</p>
-                <div class="common_brand_list wow fadeIn">
+                <p class="showroom_comment op">ブルーマチックジャパンでは、世界のプレミアムブランドを実際に操作してお試しいただけるショールームをご用意しています。<br>ご検討中のマシンの詳細はもちろん、業態や提供スタイル、店舗の環境、コンセプトに合わせたトータルな提案もいたしますので、ご予約の上ぜひお越しください。</p>
+                <div class="common_brand_list">
                   <img src="./images/common/logo_brand01.jpg" alt="BREW MATIC">
                   <img src="./images/common/logo_brand02.jpg" alt="Curtis">
                   <img src="./images/common/logo_brand03.jpg" alt="Carimali">
@@ -50,7 +50,7 @@
                   <img src="./images/common/logo_brand08.jpg" alt="rockline">
                 </div>
                 <!-- /common_brand_list -->
-                <div class="showroom_gallery clearfix wow fadeIn">
+                <div class="showroom_gallery clearfix">
                   <div class="showroom_gallery_main">
                     <img src="./images/showroom/img_showroom01.jpg" alt="写真" id="js-gallery-main">
                   </div>
@@ -74,9 +74,9 @@
                 </div>
                 <!-- /showroom_gallery -->
                 <div class="showroom_book_box">
-                  <h3 class="page_title_mid wow fadeIn">ショールームのご予約はこちら</h3>
-                  <p class="showroom_book_comment wow fadeIn">ショールームは事前予約制となっています。<br>ご希望のショールームへお電話にてご連絡ください（お電話のかけ間違いにご注意ください）。<br><br>・通常のご利用については無料です（バリスタ講習会や技術講習会の場合は有料となることがあります）。<br>・ご来場はできるだけ公共交通機関をご利用ください（駐車場に限りがあります）。</p>
-                  <dl class="showroom_item clearfix wow fadeIn">
+                  <h3 class="page_title_mid">ショールームのご予約はこちら</h3>
+                  <p class="showroom_book_comment">ショールームは事前予約制となっています。<br>ご希望のショールームへお電話にてご連絡ください（お電話のかけ間違いにご注意ください）。<br><br>・通常のご利用については無料です（バリスタ講習会や技術講習会の場合は有料となることがあります）。<br>・ご来場はできるだけ公共交通機関をご利用ください（駐車場に限りがあります）。</p>
+                  <dl class="showroom_item clearfix">
                     <dt>横浜本社ショールーム</dt>
                     <dd>
                       <p class="showroom_item_tel fonten">045-947-0801</p>
@@ -85,7 +85,7 @@
                       <p class="showroom_item_btn"><a href="https://goo.gl/maps/a4Vq154FJNvVgRgG9" target="_blank" class="fonten">Google Map</a></p>
                     </dd>
                   </dl>
-                  <dl class="showroom_item clearfix wow fadeIn">
+                  <dl class="showroom_item clearfix">
                     <dt>大阪営業所ショールーム</dt>
                     <dd>
                       <p class="showroom_item_tel fonten">06-6531-1336</p>
@@ -94,7 +94,7 @@
                       <p class="showroom_item_btn"><a href="https://goo.gl/maps/82XzRibiPk5tEF5Z8" target="_blank" class="fonten">Google Map</a></p>
                     </dd>
                   </dl>
-                  <dl class="showroom_item clearfix wow fadeIn">
+                  <dl class="showroom_item clearfix">
                     <dt>福岡営業所ショールーム</dt>
                     <dd>
                       <p class="showroom_item_tel fonten">092-483-3245</p>

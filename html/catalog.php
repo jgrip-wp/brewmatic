@@ -33,12 +33,12 @@
         <p id="breadcrumb" class="op"><a href="./" class="home fonten">Top</a> > 総合カタログのご請求</p>
         <div class="contents_main js-showhead">
           <div class="inner">
-            <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">Catalog</span>総合カタログのご請求</h2>
-            <p class="page_title_detail wow fadeIn">取り扱いマシンを紹介した総合カタログをご用意しています。</p>
+            <h2 class="page_title"><span class="page_title_en fonten">Catalog</span>総合カタログのご請求</h2>
+            <p class="page_title_detail">取り扱いマシンを紹介した総合カタログをご用意しています。</p>
             <div class="contents_main_box">
               <div class="catalog_content">
-                <p class="catalog_comment op wow fadeIn">総合カタログのPDFは<a href="#">こちらからダウンロード</a>していただけます。<br>印刷したカタログが必要な方は、下記のお問合せフォームよりご連絡ください。<br>お客様の個人情報は厳重に取扱いお問い合わせに対応させていただくための目的のみに利用致します。<br>ご注意：※は必須項目です。</p>
-                <div class="common_form wow fadeIn">
+                <p class="catalog_comment op">総合カタログのPDFは<a href="#">こちらからダウンロード</a>していただけます。<br>印刷したカタログが必要な方は、下記のお問合せフォームよりご連絡ください。<br>お客様の個人情報は厳重に取扱いお問い合わせに対応させていただくための目的のみに利用致します。<br>ご注意：※は必須項目です。</p>
+                <div class="common_form">
                   <form action="">
                     <table>
                       <tr>

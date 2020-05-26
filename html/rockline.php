@@ -33,15 +33,15 @@
         <p id="breadcrumb" class="op"><a href="./" class="home fonten">Top</a> > <a href="./brand.php">ブランド一覧</a> > ROCKLINE</p>
         <div class="contents_main js-showhead">
           <div class="inner">
-            <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">Brand lineup</span>ROCKLINE</h2>
-            <p class="page_title_detail wow fadeIn">1976年の創業以来、世界最高品質を目指すロックライン。<br>コーヒーフィルターペーパーのシェアは北米No.1。</p>
+            <h2 class="page_title"><span class="page_title_en fonten">Brand lineup</span>ROCKLINE</h2>
+            <p class="page_title_detail">1976年の創業以来、世界最高品質を目指すロックライン。<br>コーヒーフィルターペーパーのシェアは北米No.1。</p>
             <div class="contents_main_box">
               <div class="rockline_content">
-                <div class="rockline_banner wow fadeIn"><img src="./images/rockline/img_rockline01.jpg" alt="rockline"></div>
-                <p class="rockline_comment op wow fadeIn">コーヒーの個性を最大限に引き出すには、高品質なコーヒーフィルターが不可欠です。<br>ロックラインのコーヒーフィルターは、安定した品質に定評があり世界中のレストラン、カフェ、ホテルなどに選ばれ続けています。</p>
+                <div class="rockline_banner"><img src="./images/rockline/img_rockline01.jpg" alt="rockline"></div>
+                <p class="rockline_comment op">コーヒーの個性を最大限に引き出すには、高品質なコーヒーフィルターが不可欠です。<br>ロックラインのコーヒーフィルターは、安定した品質に定評があり世界中のレストラン、カフェ、ホテルなどに選ばれ続けています。</p>
                 <div class="statement_box">
-                  <h3 class="rockline_value_tit wow fadeIn">Value Statement”PRTE”</h3>
-                  <div class="statement_box_inner wow fadeIn">
+                  <h3 class="rockline_value_tit">Value Statement”PRTE”</h3>
+                  <div class="statement_box_inner">
                     <table>
                       <tr>
                         <th>Renew</th>
@@ -68,8 +68,8 @@
                 </div>
                 <!-- /statement_box -->
                 <div class="rockline_product_list">
-                  <h3 class="page_title_mid wow fadeIn">製品一覧</h3>
-                  <div class="rockline_product_wrap clearfix wow fadeIn">
+                  <h3 class="page_title_mid">製品一覧</h3>
+                  <div class="rockline_product_wrap clearfix">
                     <div class="rockline_product_item">
                       <div class="rockline_product_img"><img src="./images/rockline/img_rockline_product01.png" alt="写真"></div>
                       <p class="rockline_product_name">フィルタ―ペーパー</p>

@@ -36,18 +36,18 @@
         <p id="breadcrumb" class="op"><a href="./" class="home fonten">Top</a> > <a href="#">コーヒーマシンの選び方</a> > コーディネイトモデル</p>
         <div class="contents_main js-showhead">
           <div class="inner">
-            <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">Select Machine</span>コーヒーマシンの選び方</h2>
-             <ul class="common_bnr wow fadeIn">
+            <h2 class="page_title"><span class="page_title_en fonten">Select Machine</span>コーヒーマシンの選び方</h2>
+             <ul class="common_bnr">
                <li><a href="select.php">条件から選ぶ</a></li>
                <li><a href="consumption.php">消費量から選ぶ</a></li>
                <li><a href="conditions.php" class="active">コーディネイトモデル</a></li>
              </ul>
             <!-- /common_bnr -->
-            <p class="page_title_detail wow fadeIn">ドリップとエスプレッソ、フルサービス、セルフサービスなど<br class="visiblepc">業態に合わせたマシンの組み合わせ例をご紹介します。</p>
+            <p class="page_title_detail">ドリップとエスプレッソ、フルサービス、セルフサービスなど<br class="visiblepc">業態に合わせたマシンの組み合わせ例をご紹介します。</p>
             <div class="conditions_section">
-              <h3 class="conditions_tit wow fadeIn">フルサービスの場合</h3>
+              <h3 class="conditions_tit">フルサービスの場合</h3>
               <ul class="conditions_column">
-                <li class="wow fadeIn">
+                <li>
                   <div class="hlg01">
                     <h4 class="conditions_column_tit fonten">CASE 1</h4>
                     <p class="conditions_column_txt hlg02">豊富なメニューバリエーションで最高のおもてなしを</p>
@@ -57,7 +57,7 @@
                     </div>
                   </div>
                 </li>
-                <li class="wow fadeIn">
+                <li>
                   <div class="hlg01">
                     <h4 class="conditions_column_tit fonten">CASE 2</h4>
                     <p class="conditions_column_txt hlg02">リーズナブルでハイパフォーマンスなマシン</p>
@@ -67,7 +67,7 @@
                     </div>
                   </div>
                 </li>
-                <li class="wow fadeIn">
+                <li>
                   <div class="hlg01">
                     <h4 class="conditions_column_tit fonten">CASE 3</h4>
                     <p class="conditions_column_txt hlg02">こだわりの一杯で上品な空間を</p>
@@ -81,9 +81,9 @@
             </div>
             <!-- /conditions_section -->
             <div class="conditions_section">
-              <h3 class="conditions_tit wow fadeIn">セルフサービスの場合</h3>
+              <h3 class="conditions_tit">セルフサービスの場合</h3>
               <ul class="conditions_column">
-                <li class="wow fadeIn">
+                <li>
                   <div class="hlg01">
                     <h4 class="conditions_column_tit fonten">CASE 1</h4>
                     <p class="conditions_column_txt hlg02">最新のテクノロジーでコーヒーを美味しく、楽しく提供できるスタイル</p>
@@ -93,7 +93,7 @@
                     </div>
                   </div>
                 </li>
-                <li class="wow fadeIn">
+                <li>
                   <div class="hlg01">
                     <h4 class="conditions_column_tit fonten">CASE 2</h4>
                     <p class="conditions_column_txt hlg02">省スペースで幅広いメニュー提供ができるスタイル</p>
@@ -103,7 +103,7 @@
                     </div>
                   </div>
                 </li>
-                <li class="wow fadeIn">
+                <li>
                   <div class="hlg01">
                     <h4 class="conditions_column_tit fonten">CASE 3</h4>
                     <p class="conditions_column_txt hlg02">用途に合わせて移設ができ、求めるスタンダードの一歩上をいく機能を搭載したスタイル</p>

@@ -36,29 +36,29 @@
         <p id="breadcrumb" class="op"><a href="./" class="home fonten">Top</a> > <a href="#">オンラインショップ</a> > <a href="#" class="home fonten">rheavendors</a> > <span class="home fonten">la-rhea-grande2-premium</span></p>
         <div class="contents_main js-showhead">
           <div class="inner">
-            <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">Online shop</span>オンラインショップ</h2>
-            <p class="page_title_detail wow fadeIn">ブルーマチックジャパンの取り扱いマシン、メンテナンス商品を<br class="visiblepc">お求めいただけるオンラインショップです。</p>
+            <h2 class="page_title"><span class="page_title_en fonten">Online shop</span>オンラインショップ</h2>
+            <p class="page_title_detail">ブルーマチックジャパンの取り扱いマシン、メンテナンス商品を<br class="visiblepc">お求めいただけるオンラインショップです。</p>
             <div class="contents_main_box rheaven_main">
               <ul class="common_logo">
-                <li><a href="#" class="wow fadeIn"><img src="./images/common/logo01.png" alt=""></a></li>
-                <li><a href="#" class="wow fadeIn"><img src="./images/common/logo02.png" alt=""></a></li>
-                <li><a href="#" class="wow fadeIn"><img src="./images/common/logo03.png" alt=""></a></li>
-                <li><a href="#" class="wow fadeIn"><img src="./images/common/logo04.png" alt=""></a></li>
-                <li><a href="#" class="wow fadeIn"><img src="./images/common/logo05.png" alt=""></a></li>
-                <li class="current"><a href="#" class="wow fadeIn"><img src="./images/common/logo06.png" alt=""></a></li>
-                <li><a href="#" class="wow fadeIn"><img src="./images/common/logo07.png" alt=""></a></li>
-                <li><a href="#" class="wow fadeIn"><img src="./images/common/logo08.png" alt=""></a></li>
-                <li><a href="#" class="wow fadeIn"><img src="./images/common/logo09.png" alt=""></a></li>
-                <li><a href="#" class="wow fadeIn"><img src="./images/common/logo10.png" alt=""></a></li>
+                <li><a href="#"><img src="./images/common/logo01.png" alt=""></a></li>
+                <li><a href="#"><img src="./images/common/logo02.png" alt=""></a></li>
+                <li><a href="#"><img src="./images/common/logo03.png" alt=""></a></li>
+                <li><a href="#"><img src="./images/common/logo04.png" alt=""></a></li>
+                <li><a href="#"><img src="./images/common/logo05.png" alt=""></a></li>
+                <li class="current"><a href="#"><img src="./images/common/logo06.png" alt=""></a></li>
+                <li><a href="#"><img src="./images/common/logo07.png" alt=""></a></li>
+                <li><a href="#"><img src="./images/common/logo08.png" alt=""></a></li>
+                <li><a href="#"><img src="./images/common/logo09.png" alt=""></a></li>
+                <li><a href="#"><img src="./images/common/logo10.png" alt=""></a></li>
               </ul>
               <!-- /common_logo -->
               <div class="rheaven_group">
-                <h3 class="rheaven_group_tit wow fadeIn"><img src="./images/rheavendors/logo_rheaven.png" alt="rheavendors"></h3>
+                <h3 class="rheaven_group_tit"><img src="./images/rheavendors/logo_rheaven.png" alt="rheavendors"></h3>
                 <div class="rheaven_det_box">
-                  <div class="rheaven_det_in wow fadeIn">
+                  <div class="rheaven_det_in">
                     <p class="rheaven_det_img"><img src="./images/rheavendors/img_rheaven_det.png" alt="la Rhea GRANDE2 Premium"></p>
                   </div>
-                  <div class="rheaven_det_in wow fadeIn">
+                  <div class="rheaven_det_in">
                     <p class="rheaven_det_intro">全自動コーヒーマシン</p>
                     <h4 class="rheaven_det_tit"><span class="fonten">la Rhea GRANDE2 Premium</span><br>ラ レア グランデ2 プレミアム</h4>
                     <p class="rheaven_det_price">￥<span class="fonten">123,456</span><span class="rheaven_det_tax">（税込み）</span></p>
@@ -77,8 +77,8 @@
                 </div>
                 <!-- /rheaven_det_box -->
                 <div class="rheaven_spec">
-                  <h4 class="page_title_mid wow fadeIn"><span class="page_title_en fonten">Spec</span>製品スペック</h4>
-                  <table class="common_table wow fadeIn">
+                  <h4 class="page_title_mid"><span class="page_title_en fonten">Spec</span>製品スペック</h4>
+                  <table class="common_table">
                     <tr>
                       <th>電源・消費電力・電流</th>
                       <td>単相200V・2700W・13.5A</td>

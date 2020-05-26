@@ -36,12 +36,12 @@
         <p id="breadcrumb" class="op"><a href="./" class="home fonten">Top</a> > <a href="./brand.php">ブランド一覧</a> > OTHERS</p>
         <div class="contents_main js-showhead">
           <div class="inner">
-            <h2 class="page_title wow fadeIn">OTHERS</h2>
-            <p class="page_title_detail wow fadeIn">コーヒーシーンをトータルコーディネイトできる<br class="visiblepc">アイテムをご用意しています。</p>
+            <h2 class="page_title">OTHERS</h2>
+            <p class="page_title_detail">コーヒーシーンをトータルコーディネイトできる<br class="visiblepc">アイテムをご用意しています。</p>
             <div class="contents_main_box">
-              <p class="others_detail wow fadeIn">デキャンタやウォーマーストーブなどのドリップマシン関連製品、Nitroディスペンサー、ミルククーラー、メンテナンスなど、各種アイテムを取り扱っています。</p>
+              <p class="others_detail">デキャンタやウォーマーストーブなどのドリップマシン関連製品、Nitroディスペンサー、ミルククーラー、メンテナンスなど、各種アイテムを取り扱っています。</p>
               <ul class="column_four others_column">
-                <li class="wow fadeIn">
+                <li>
                   <div class="column_box">
                     <p class="column_box_img"><span class="hlg01"><img src="./images/others/img_others01.png" alt="ブルーマチック・デキャンタ（1.8リットル）"></span></p>
                     <p class="column_box_det hlg02">ブルーマチック・デキャンタ<br>（1.8リットル）</p>
@@ -49,7 +49,7 @@
                     <p class="common_btn"><a href="#">詳しく見る</a></p>
                   </div>
                 </li>
-                <li class="wow fadeIn">
+                <li>
                   <div class="column_box">
                     <p class="column_box_img"><span class="hlg01"><img src="./images/others/img_others02.png" alt="ステンレス・デキャンタ（1.9リットル）"></span></p>
                     <p class="column_box_det hlg02">ステンレス・デキャンタ<br>（1.9リットル）</p>
@@ -57,7 +57,7 @@
                     <p class="common_btn"><a href="#">詳しく見る</a></p>
                   </div>
                 </li>
-                <li class="wow fadeIn">
+                <li>
                   <div class="column_box">
                     <p class="column_box_img"><span class="hlg01"><img src="./images/others/img_others03.png" alt="ステンレス・デキャンタ TFT（1.9リットル）"></span></p>
                     <p class="column_box_det hlg02">ステンレス・デキャンタ TFT<br>（1.9リットル）</p>
@@ -65,7 +65,7 @@
                     <p class="common_btn"><a href="#">詳しく見る</a></p>
                   </div>
                 </li>
-                <li class="wow fadeIn">
+                <li>
                   <div class="column_box">
                     <p class="column_box_img"><span class="hlg01"><img src="./images/others/img_others04.png" alt="ステンレス・デキャンタTHERMOS THX-700 (0.7リットル)"></span></p>
                     <p class="column_box_det hlg02">ステンレス・デキャンタ<br>THERMOS THX-700 (0.7リットル)</p>
@@ -73,7 +73,7 @@
                     <p class="common_btn"><a href="#">詳しく見る</a></p>
                   </div>
                 </li>
-                <li class="wow fadeIn">
+                <li>
                   <div class="column_box">
                     <p class="column_box_img"><span class="hlg01"><img src="./images/others/img_others05.png" alt="Thermal FreshTrac"></span></p>
                     <p class="column_box_det hlg02">Thermal FreshTrac</p>
@@ -81,7 +81,7 @@
                     <p class="common_btn"><a href="#">詳しく見る</a></p>
                   </div>
                 </li>
-                <li class="wow fadeIn">
+                <li>
                   <div class="column_box">
                     <p class="column_box_img"><span class="hlg01"><img src="./images/others/img_others06.png" alt="AW-2"></span></p>
                     <p class="column_box_det hlg02">AW-2</p>
@@ -89,7 +89,7 @@
                     <p class="common_btn"><a href="#">詳しく見る</a></p>
                   </div>
                 </li>
-                <li class="wow fadeIn">
+                <li>
                   <div class="column_box">
                     <p class="column_box_img"><span class="hlg01"><img src="./images/others/img_others07.png" alt="Nitro コーヒーディスペンサー"></span></p>
                     <p class="column_box_det hlg02">Nitro コーヒーディスペンサー</p>
@@ -97,7 +97,7 @@
                     <p class="common_btn"><a href="#">詳しく見る</a></p>
                   </div>
                 </li>
-                <li class="wow fadeIn">
+                <li>
                   <div class="column_box">
                     <p class="column_box_img"><span class="hlg01"><img src="./images/others/img_others08.png" alt="3M 1101S-J"></span></p>
                     <p class="column_box_det hlg02">3M 1101S-J</p>
@@ -105,7 +105,7 @@
                     <p class="common_btn"><a href="#">詳しく見る</a></p>
                   </div>
                 </li>
-                <li class="wow fadeIn">
+                <li>
                   <div class="column_box">
                     <p class="column_box_img"><span class="hlg01"><img src="./images/others/img_others09.png" alt="フィルターパウチクリーナー"></span></p>
                     <p class="column_box_det hlg02">フィルターパウチクリーナー</p>
@@ -113,7 +113,7 @@
                     <p class="common_btn"><a href="#">詳しく見る</a></p>
                   </div>
                 </li>
-                <li class="wow fadeIn">
+                <li>
                   <div class="column_box">
                     <p class="column_box_img"><span class="hlg01"><img src="./images/others/img_others10.png" alt="ミルクチューブクリーナー"></span></p>
                     <p class="column_box_det hlg02">ミルクチューブクリーナー</p>
@@ -121,7 +121,7 @@
                     <p class="common_btn"><a href="#">詳しく見る</a></p>
                   </div>
                 </li>
-                <li class="wow fadeIn">
+                <li>
                   <div class="column_box">
                     <p class="column_box_img"><span class="hlg01"><img src="./images/others/img_others11.png" alt="コーヒーマシンクリーナー"></span></p>
                     <p class="column_box_det hlg02">コーヒーマシンクリーナー</p>
@@ -129,7 +129,7 @@
                     <p class="common_btn"><a href="#">詳しく見る</a></p>
                   </div>
                 </li>
-                <li class="wow fadeIn">
+                <li>
                   <div class="column_box">
                     <p class="column_box_img"><span class="hlg01"><img src="./images/others/img_others12.png" alt="3M P165-J"></span></p>
                     <p class="column_box_det hlg02">3M P165-J</p>
@@ -137,7 +137,7 @@
                     <p class="common_btn"><a href="#">詳しく見る</a></p>
                   </div>
                 </li>
-                <li class="wow fadeIn">
+                <li>
                   <div class="column_box">
                     <p class="column_box_img"><span class="hlg01"><img src="./images/others/img_others13.png" alt="MC-265"></span></p>
                     <p class="column_box_det hlg02">MC-265</p>

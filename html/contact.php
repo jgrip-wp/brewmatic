@@ -33,10 +33,10 @@
         <p id="breadcrumb" class="op"><a href="./" class="home fonten">Top</a> > お問い合わせ</p>
         <div class="contents_main js-showhead">
           <div class="inner">
-            <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">Contact</span>お問い合わせ</h2>
-            <p class="page_title_detail wow fadeIn">ブルーマチックジャパン、商品・サービスに対する<br>ご意見、ご質問はお問い合わせフォームに入力ください。</p>
+            <h2 class="page_title"><span class="page_title_en fonten">Contact</span>お問い合わせ</h2>
+            <p class="page_title_detail">ブルーマチックジャパン、商品・サービスに対する<br>ご意見、ご質問はお問い合わせフォームに入力ください。</p>
             <div class="contents_main_box">
-              <div class="common_brand_list wow fadeIn">
+              <div class="common_brand_list">
                 <img src="./images/common/logo_brand01.jpg" alt="BREW MATIC">
                 <img src="./images/common/logo_brand02.jpg" alt="Curtis">
                 <img src="./images/common/logo_brand03.jpg" alt="Carimali">
@@ -48,8 +48,8 @@
               </div>
               <!-- /common_brand_list -->
               <div class="contact_content">
-                <p class="contact_comment op wow fadeIn">よくお問い合わせいただく内容をまとめた「<a href="#">よくあるご質問</a>」もご用意しています。<br>お客様の個人情報、お寄せいただいた相談内容は厳重に取扱いお問い合わせに対応させていただくための目的のみに利用いたします。<br>ご注意：※は必須項目です。</p>
-                <div class="common_form wow fadeIn">
+                <p class="contact_comment op">よくお問い合わせいただく内容をまとめた「<a href="#">よくあるご質問</a>」もご用意しています。<br>お客様の個人情報、お寄せいただいた相談内容は厳重に取扱いお問い合わせに対応させていただくための目的のみに利用いたします。<br>ご注意：※は必須項目です。</p>
+                <div class="common_form">
                   <form action="">
                     <table>
                       <tr>

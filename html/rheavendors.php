@@ -36,26 +36,26 @@
         <p id="breadcrumb" class="op"><a href="./" class="home fonten">Top</a> > <a href="#">オンラインショップ</a> > <span class="home fonten">rheavendors</span></p>
         <div class="contents_main js-showhead">
           <div class="inner">
-            <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">Online shop</span>オンラインショップ</h2>
-            <p class="page_title_detail wow fadeIn">ブルーマチックジャパンの取り扱いマシン、メンテナンス商品を<br class="visiblepc">お求めいただけるオンラインショップです。</p>
+            <h2 class="page_title"><span class="page_title_en fonten">Online shop</span>オンラインショップ</h2>
+            <p class="page_title_detail">ブルーマチックジャパンの取り扱いマシン、メンテナンス商品を<br class="visiblepc">お求めいただけるオンラインショップです。</p>
             <div class="contents_main_box rheaven_main">
               <ul class="common_logo">
-                <li><a href="#" class="wow fadeIn"><img src="./images/common/logo01.png" alt=""></a></li>
-                <li><a href="#" class="wow fadeIn"><img src="./images/common/logo02.png" alt=""></a></li>
-                <li><a href="#" class="wow fadeIn"><img src="./images/common/logo03.png" alt=""></a></li>
-                <li><a href="#" class="wow fadeIn"><img src="./images/common/logo04.png" alt=""></a></li>
-                <li><a href="#" class="wow fadeIn"><img src="./images/common/logo05.png" alt=""></a></li>
-                <li class="current"><a href="#" class="wow fadeIn"><img src="./images/common/logo06.png" alt=""></a></li>
-                <li><a href="#" class="wow fadeIn"><img src="./images/common/logo07.png" alt=""></a></li>
-                <li><a href="#" class="wow fadeIn"><img src="./images/common/logo08.png" alt=""></a></li>
-                <li><a href="#" class="wow fadeIn"><img src="./images/common/logo09.png" alt=""></a></li>
-                <li><a href="#" class="wow fadeIn"><img src="./images/common/logo10.png" alt=""></a></li>
+                <li><a href="#"><img src="./images/common/logo01.png" alt=""></a></li>
+                <li><a href="#"><img src="./images/common/logo02.png" alt=""></a></li>
+                <li><a href="#"><img src="./images/common/logo03.png" alt=""></a></li>
+                <li><a href="#"><img src="./images/common/logo04.png" alt=""></a></li>
+                <li><a href="#"><img src="./images/common/logo05.png" alt=""></a></li>
+                <li class="current"><a href="#"><img src="./images/common/logo06.png" alt=""></a></li>
+                <li><a href="#"><img src="./images/common/logo07.png" alt=""></a></li>
+                <li><a href="#"><img src="./images/common/logo08.png" alt=""></a></li>
+                <li><a href="#"><img src="./images/common/logo09.png" alt=""></a></li>
+                <li><a href="#"><img src="./images/common/logo10.png" alt=""></a></li>
               </ul>
               <!-- /common_logo -->
               <div class="rheaven_group">
-               <h3 class="rheaven_group_tit wow fadeIn"><img src="./images/rheavendors/logo_rheaven.png" alt="rheavendors"></h3>
+               <h3 class="rheaven_group_tit"><img src="./images/rheavendors/logo_rheaven.png" alt="rheavendors"></h3>
                 <ul class="column_four rheaven_column">
-                  <li class="wow fadeIn">
+                  <li>
                     <div class="column_box">
                       <p class="column_box_img"><span class="hlg01"><img src="./images/rheavendors/img_rheaven01.png" alt="la Rhea GRANDE2 Premium"></span></p>
                       <p class="column_box_det hlg02">la Rhea GRANDE2 Premium</p>
@@ -64,7 +64,7 @@
                       <p class="common_btn"><a href="./rheavendors_detail.php">詳しく見る</a></p>
                     </div>
                   </li>
-                  <li class="wow fadeIn">
+                  <li>
                     <div class="column_box">
                       <p class="column_box_img"><span class="hlg01"><img src="./images/rheavendors/img_rheaven03.png" alt="rhea BL eC"></span></p>
                       <p class="column_box_det hlg02">rhea BL eC</p>
@@ -73,7 +73,7 @@
                       <p class="common_btn"><a href="#">詳しく見る</a></p>
                     </div>
                   </li>
-                  <li class="wow fadeIn">
+                  <li>
                     <div class="column_box">
                       <p class="column_box_img"><span class="hlg01"><img src="./images/rheavendors/img_rheaven02.png" alt="eC +コインメック"></span></p>
                       <p class="column_box_det hlg02">eC +コインメック</p>
@@ -82,7 +82,7 @@
                       <p class="common_btn"><a href="#">詳しく見る</a></p>
                     </div>
                   </li>
-                  <li class="wow fadeIn">
+                  <li>
                     <div class="column_box">
                       <p class="column_box_img"><span class="hlg01"><img src="./images/rheavendors/img_rheaven04.png" alt="lio 2C"></span></p>
                       <p class="column_box_det hlg02">lio 2C</p>

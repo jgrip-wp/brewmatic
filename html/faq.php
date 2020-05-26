@@ -58,40 +58,40 @@
           </div>
           <div class="inner">
             <ul class="common_logo">
-              <li><a href="#" class="wow fadeIn"><img src="./images/common/logo01.png" alt=""></a></li>
-              <li><a href="#" class="wow fadeIn"><img src="./images/common/logo02.png" alt=""></a></li>
-              <li><a href="#" class="wow fadeIn"><img src="./images/common/logo03.png" alt=""></a></li>
-              <li><a href="#" class="wow fadeIn"><img src="./images/common/logo04.png" alt=""></a></li>
-              <li><a href="#" class="wow fadeIn"><img src="./images/common/logo05.png" alt=""></a></li>
-              <li class="current"><a href="#" class="wow fadeIn"><img src="./images/common/logo06.png" alt=""></a></li>
-              <li><a href="#" class="wow fadeIn"><img src="./images/common/logo07.png" alt=""></a></li>
-              <li><a href="#" class="wow fadeIn"><img src="./images/common/logo08.png" alt=""></a></li>
-              <li><a href="#" class="wow fadeIn"><img src="./images/common/logo09.png" alt=""></a></li>
-              <li><a href="#" class="wow fadeIn"><img src="./images/common/logo10.png" alt=""></a></li>
+              <li><a href="#"><img src="./images/common/logo01.png" alt=""></a></li>
+              <li><a href="#"><img src="./images/common/logo02.png" alt=""></a></li>
+              <li><a href="#"><img src="./images/common/logo03.png" alt=""></a></li>
+              <li><a href="#"><img src="./images/common/logo04.png" alt=""></a></li>
+              <li><a href="#"><img src="./images/common/logo05.png" alt=""></a></li>
+              <li class="current"><a href="#"><img src="./images/common/logo06.png" alt=""></a></li>
+              <li><a href="#"><img src="./images/common/logo07.png" alt=""></a></li>
+              <li><a href="#"><img src="./images/common/logo08.png" alt=""></a></li>
+              <li><a href="#"><img src="./images/common/logo09.png" alt=""></a></li>
+              <li><a href="#"><img src="./images/common/logo10.png" alt=""></a></li>
             </ul>
             <!-- /common_logo -->
             <div class="faq_cont">
-              <p class="faq_cont_logo wow fadeIn"><img src="./images/faq/logo_faq.png" alt=""></p>
+              <p class="faq_cont_logo"><img src="./images/faq/logo_faq.png" alt=""></p>
               <div class="faq_section">
-                <p class="faq_cont_tit wow fadeIn">CLARISフィルターについて</p>
+                <p class="faq_cont_tit">CLARISフィルターについて</p>
                 <div class="js-qa">
-                  <dl class="wow fadeIn">
+                  <dl>
                     <dt><span class="qa_q fonten">Q</span>CLARISフィルターの使用開始時には、何をすれば良いですか？</dt>
                     <dd><span class="qa_a fonten">A</span>CLARISフィルターの使用開始前に、個装袋から取り出したCLARISフィルターの外側を流水で軽く洗い流して下さい。CLARISフィルターにろ過材を詰める際にろ過材の材料同士が擦れて発生した微小な破片や、温度や湿度の変化で結露した水滴・水が付着している場合があります。<br>コーヒーマシンの給水タンクに使用開始するCLARISフィルターを正しくセットし、給水タンクに水を満たして下さい。<br>コーヒーマシンを操作し、使用開始するCLARISフィルターに最初に十分な量のすすぎ水を流すことで、内部の微小な活性炭の粒などを流し去って下さい。</dd>
                   </dl>
-                  <dl class="wow fadeIn">
+                  <dl>
                     <dt><span class="qa_q fonten">Q</span>CLARISフィルターの個装袋の中に水滴・水があります。どうすれば良いですか？</dt>
                     <dd><span class="qa_a fonten">A</span>テキストテキストテキストテキスト</dd>
                   </dl>
-                  <dl class="wow fadeIn">
+                  <dl>
                     <dt><span class="qa_q fonten">Q</span>CLARISフイルターでろ過した水に黒い粒が混じっていますが、これは何ですか？</dt>
                     <dd><span class="qa_a fonten">A</span>テキストテキストテキストテキスト</dd>
                   </dl>
-                  <dl class="wow fadeIn">
+                  <dl>
                     <dt><span class="qa_q fonten">Q</span>CLARISフィルターの使用開始時には、何をすれば良いですか？</dt>
                     <dd><span class="qa_a fonten">A</span>テキストテキストテキストテキスト</dd>
                   </dl>
-                  <dl class="wow fadeIn">
+                  <dl>
                     <dt><span class="qa_q fonten">Q</span>CLARISフィルターに使用期限はありますか？</dt>
                     <dd><span class="qa_a fonten">A</span>テキストテキストテキストテキスト</dd>
                   </dl>
@@ -99,9 +99,9 @@
               </div>
               <!-- /faq_section -->
               <div class="faq_section">
-                <p class="faq_cont_tit wow fadeIn">XXXXについて</p>
+                <p class="faq_cont_tit">XXXXについて</p>
                 <div class="js-qa">
-                  <dl class="wow fadeIn">
+                  <dl>
                     <dt><span class="qa_q fonten">Q</span>テキストテキストテキストテキスト</dt>
                     <dd><span class="qa_a fonten">A</span>テキストテキストテキストテキスト</dd>
                   </dl>

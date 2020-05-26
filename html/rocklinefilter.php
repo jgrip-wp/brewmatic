@@ -33,11 +33,11 @@
         <p id="breadcrumb" class="op"><a href="./" class="home fonten">Top</a> > <a href="./brand.php">ブランド一覧</a> > フィルターペーパー</p>
         <div class="contents_main js-showhead">
           <div class="inner">
-            <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">Brand lineup</span>ROCKLINE</h2>
-            <p class="page_title_detail wow fadeIn">1976年の創業以来、世界最高品質を目指すロックライン。<br>コーヒーフィルターペーパーのシェアは北米No.1。</p>
+            <h2 class="page_title"><span class="page_title_en fonten">Brand lineup</span>ROCKLINE</h2>
+            <p class="page_title_detail">1976年の創業以来、世界最高品質を目指すロックライン。<br>コーヒーフィルターペーパーのシェアは北米No.1。</p>
             <div class="contents_main_box">
               <div class="rocklinefilter_content">
-                <div class="rocklinefilter_box wow fadeIn">
+                <div class="rocklinefilter_box">
                   <div class="rocklinefilter_box_img"><img src="./images/rocklinefilter/img_rocklinefilter01.png" alt="写真"></div>
                   <div class="rocklinefilter_box_content">
                     <h4 class="rocklinefilter_box_title">フィルターペーパー</h4>
@@ -45,8 +45,8 @@
                   </div>
                 </div>
                 <!-- /rocklinefilter_box -->
-                <h3 class="page_title_mid wow fadeIn">製品の特徴</h3>
-                <div class="box_yellow wow fadeIn">
+                <h3 class="page_title_mid">製品の特徴</h3>
+                <div class="box_yellow">
                   <ul class="rocklinefilter_list">
                     <li><span class="fonten">・</span> 長年の研究結果からおいしいコーヒー抽出に必要な安定した透過性と丈夫さを持ち合わせたフィルターペーパー</li>
                     <li><span class="fonten">・</span> フィルターは安全性が認められている酸素漂白方式</li>
@@ -56,8 +56,8 @@
                   </ul>
                 </div>
                 <!-- /box_yellow -->
-                <h3 class="page_title_mid wow fadeIn">製品スペック</h3>
-                <div class="product_spec wow fadeIn">
+                <h3 class="page_title_mid">製品スペック</h3>
+                <div class="product_spec">
                   <table>
                     <tr>
                       <th>フィルター 250</th>

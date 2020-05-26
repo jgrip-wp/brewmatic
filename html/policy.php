@@ -35,24 +35,24 @@
         <p id="breadcrumb" class="op"><a href="./" class="home fonten">Top</a> > <a href="./aboutus.php">About us</a> > 経営理念</p>
         <div class="contents_main js-showhead">
           <div class="inner">
-            <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">About us</span>ブルーマチックジャパンについて</h2>
-             <ul class="common_bnr wow fadeIn">
+            <h2 class="page_title"><span class="page_title_en fonten">About us</span>ブルーマチックジャパンについて</h2>
+             <ul class="common_bnr">
                <li><a href="./aboutus.php">ブルーマチックジャパンについて</a></li>
                <li><a href="./policy.php" class="active">経営理念</a></li>
                <li><a href="./ceo.php">トップメッセージ</a></li>
              </ul>
             <!-- /common_bnr -->
             <div class="policy_section">
-              <h3 class="page_title_mid wow fadeIn">経営理念</h3>
-              <div class="box_yellow wow fadeIn">
+              <h3 class="page_title_mid">経営理念</h3>
+              <div class="box_yellow">
                 <p>本格的なコーヒーの味を追求し、優れたコーヒーマシンを提供して、人々のゆとりある生活に貢献します。</p>
               </div>
               <!-- /box_yellow -->
             </div>
             <!-- /policy_section -->
             <div class="policy_section">
-              <h3 class="page_title_mid wow fadeIn">経営方針</h3>
-              <div class="box_yellow wow fadeIn">
+              <h3 class="page_title_mid">経営方針</h3>
+              <div class="box_yellow">
                 <ul class="policy_list">
                   <li><span class="fonten">1.</span>　世界に誇るプレミアムコーヒーマシンを当社の最高の技術力により、日本仕様で提供します。</li>
                   <li><span class="fonten">2.</span>　あらゆる場所と時間にコーヒーマシンのある社会をつくります。</li>
@@ -67,8 +67,8 @@
             </div>
             <!-- /policy_section -->
             <div class="policy_section">
-              <h3 class="page_title_mid wow fadeIn">行動規範</h3>
-              <div class="box_yellow wow fadeIn">
+              <h3 class="page_title_mid">行動規範</h3>
+              <div class="box_yellow">
                 <ul class="policy_list">
                   <li><span class="fonten">1.</span>　すべての個人を尊重します。人種、宗教、性別、社会的身分、身体的・精神的障害などを理由とする差別や不当な扱いを決して行いません。</li>
                   <li><span class="fonten">2.</span>　業務遂行に当り、法令及び社内規程を遵守します。国内外の法令や社内規程を遵守はもとより、社会規範を尊重し、良識ある企業活動を行います。</li>
