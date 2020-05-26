@@ -1,5 +1,4 @@
 $(function () {
-  $("body").fadeTo(800, 1);
   $("#wrapper").hide();
   $(document).ready(function () {
     $("#top_logo").delay(1400).fadeOut(800, "", function () {

@@ -109,7 +109,7 @@ var pageScroll = function(){
 
 /* !common --------------------------------------------------- */
 var common = (function(){
-
+	$("body").fadeTo(800,1);
     new WOW().init();
   
     var isMobile = false;
