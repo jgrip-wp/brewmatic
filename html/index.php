@@ -62,10 +62,10 @@
            <p class="top_aboutus_txt">世界のプレミアムブランドを厳選して日本へ。<br>ホテル、レストラン、カフェ、商業施設、ご家庭まで、<br>暮らしと街のあらゆるシーンに最適なコーヒーマシンをお届けします。</p>
            <p class="common_btn"><a href="./aboutus.php">Brewmatic Japanについて</a></p>
          </div>
-       </div>
-       <!-- /top_aboutus -->-->
+       </div>-->
+       <!-- /top_aboutus -->
        
-       <div class="top_pst">
+       <div class="top_pst js-showhead">
          <div class="inner">
            <ul class="top_pst_list op">
              <li class="wow fadeIn" data-wow-delay="0.2s">

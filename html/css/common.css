@@ -303,6 +303,23 @@ html,  html body {
   color: #b7b7b7;
 }
 
+.fixed_head{
+  position: fixed;
+  top: -100px;
+  left: 0;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0 100px;
+  transition: all .5s ease;
+  background: #fff;
+  z-index: 99;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+.fixed_head.show{
+  top: 0;
+}
+
+
 @media screen and (max-width: 1080px) {
 #head {
   border-bottom: none;
@@ -605,7 +622,7 @@ html,  html body {
   position: fixed;
   right: 0;
   top: 0;
-  z-index: 3;
+  z-index: 100;
 }
 .page_fixed a {
   width: 100px;

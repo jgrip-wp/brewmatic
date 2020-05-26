@@ -112,6 +112,32 @@ var common = (function(){
 
     new WOW().init();
   
+    var isMobile = false;
+	var breakpoint = 1080;
+	updateIsMobile();
+
+	$(window).on('resize load', function () {
+	    updateIsMobile();
+	});
+
+	function updateIsMobile() {
+	    isMobile = $(window).width() < breakpoint;
+	}
+	$(window).on('load scroll', function () {
+	    var ws = $(this).scrollTop();
+	    var showlinetop = $('.js-showhead').offset().top;
+	    if(!isMobile && showlinetop > 0){
+		    if(ws >= showlinetop){
+				$('.fixed_head').addClass('show')
+		    }else{
+		    	$('.fixed_head').removeClass('show')
+		    }
+		}else{
+			$('.fixed_head').removeClass('show')
+		}
+	});
+
+
 	$(function(){
 		var hdmenu = $('.js-navbar');
 		var menuclose = $('.js-navbar-close');
