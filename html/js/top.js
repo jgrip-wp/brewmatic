@@ -30,7 +30,9 @@ $(function () {
         });
       },410)
       $("#wrapper").delay(400).fadeIn(800, "", function () {
+        $('.top_pst_list').addClass('wow fadeInLeft')
         new WOW().init();
+
       });
     });
 

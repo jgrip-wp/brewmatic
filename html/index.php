@@ -67,7 +67,7 @@
        
        <div class="top_pst js-showhead">
          <div class="inner">
-           <ul class="top_pst_list op wow fadeInLeft">
+           <ul class="top_pst_list op ">
              <li>
               <a href="#">
                  <p class="top_pst_tit fonten hlg01">Premium Machines</p>
