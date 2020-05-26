@@ -64,21 +64,27 @@
            <ul class="top_pst_list op ">
              <li>
               <a href="#">
-                 <p class="top_pst_tit fonten hlg01">Premium Machines</p>
+                 <div class="top_pst_tit_box">
+                   <p class="top_pst_tit fonten hlg01">Premium Machines</p>
+                 </div>
                  <p class="top_pst_txt hlg02">世界の多彩なプレミアムマシンをラインナップ</p>
                  <p class="top_pst_img"><img src="./images/top/img_mach_top.jpg" alt="Premium Machines"></p>
               </a>
              </li>
              <li>
               <a href="#">
-                 <p class="top_pst_tit fonten hlg01">Showroom</p>
+                 <div class="top_pst_tit_box">
+                   <p class="top_pst_tit fonten hlg01">Showroom</p>
+                 </div>
                  <p class="top_pst_txt hlg02">各種マシンを体感いただけるショールーム</p>
                  <p class="top_pst_img"><img src="./images/top/img_show_top.jpg" alt="Showroom"></p>
               </a>
              </li>
              <li>
               <a href="#">
-                 <p class="top_pst_tit fonten hlg01">Technical Service</p>
+                 <div class="top_pst_tit_box">
+                   <p class="top_pst_tit fonten hlg01">Technical Service</p>
+                 </div>
                  <p class="top_pst_txt hlg02">導入から保守・管理までトータルにサポート</p>
                  <p class="top_pst_img"><img src="./images/top/img_service_top.jpg" alt="Technical Service"></p>
               </a>
@@ -108,47 +114,49 @@
        
        <div class="top_life">
           <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">Life with Coffee</span>コーヒーマシンのある風景</h2>
-          <div class="top_life_slider wow fadeIn">
-            <div>
-              <div class="top_life_box">
-                <p class="top_life_tit"><span class="fonten">CARIMALI100</span>周年記念イベント</p>
-                <p class="top_life_det fonten">News／CARIMILI</p>
-                <p><a href="#"><img src="./images/top/img_life01.jpg" alt="CARIMALI100周年記念イベント"></a></p>
+          <div class="top_life_slider_box">
+            <div class="top_life_slider wow fadeIn">
+              <div>
+                <div class="top_life_box">
+                  <p class="top_life_tit"><span class="fonten">CARIMALI100</span>周年記念イベント</p>
+                  <p class="top_life_det fonten">News／CARIMILI</p>
+                  <p><a href="#"><img src="./images/top/img_life01.jpg" alt="CARIMALI100周年記念イベント"></a></p>
+                </div>
               </div>
-            </div>
-            <div>
-              <div class="top_life_box">
-                <p class="top_life_tit"><span class="fonten">Eggs’n Things Coffee</span> 高崎OPA店</p>
-                <p class="top_life_det fonten">店舗紹介／BARATZA</p>
-                <p><a href="#"><img src="./images/top/img_life02.jpg" alt="Eggs’n Things Coffee 高崎OPA店"></a></p>
+              <div>
+                <div class="top_life_box">
+                  <p class="top_life_tit"><span class="fonten">Eggs’n Things Coffee</span> 高崎OPA店</p>
+                  <p class="top_life_det fonten">店舗紹介／BARATZA</p>
+                  <p><a href="#"><img src="./images/top/img_life02.jpg" alt="Eggs’n Things Coffee 高崎OPA店"></a></p>
+                </div>
               </div>
-            </div>
-            <div>
-              <div class="top_life_box">
-                <p class="top_life_tit"><span class="fonten">KEY’S CAFÉ -CLASSE-</span></p>
-                <p class="top_life_det fonten">店舗紹介／CARIMALI</p>
-                <p><a href="#"><img src="./images/top/img_life03.jpg" alt="KEY’S CAFÉ -CLASSE-"></a></p>
+              <div>
+                <div class="top_life_box">
+                  <p class="top_life_tit"><span class="fonten">KEY’S CAFÉ -CLASSE-</span></p>
+                  <p class="top_life_det fonten">店舗紹介／CARIMALI</p>
+                  <p><a href="#"><img src="./images/top/img_life03.jpg" alt="KEY’S CAFÉ -CLASSE-"></a></p>
+                </div>
               </div>
-            </div>
-            <div>
-              <div class="top_life_box">
-                <p class="top_life_tit"><span class="fonten">CARIMALI100</span>周年記念イベント</p>
-                <p class="top_life_det fonten">News／CARIMILI</p>
-                <p><a href="#"><img src="./images/top/img_life01.jpg" alt="CARIMALI100周年記念イベント"></a></p>
+              <div>
+                <div class="top_life_box">
+                  <p class="top_life_tit"><span class="fonten">CARIMALI100</span>周年記念イベント</p>
+                  <p class="top_life_det fonten">News／CARIMILI</p>
+                  <p><a href="#"><img src="./images/top/img_life01.jpg" alt="CARIMALI100周年記念イベント"></a></p>
+                </div>
               </div>
-            </div>
-            <div>
-              <div class="top_life_box">
-                <p class="top_life_tit"><span class="fonten">Eggs’n Things Coffee</span> 高崎OPA店</p>
-                <p class="top_life_det fonten">店舗紹介／BARATZA</p>
-                <p><a href="#"><img src="./images/top/img_life02.jpg" alt="Eggs’n Things Coffee 高崎OPA店"></a></p>
+              <div>
+                <div class="top_life_box">
+                  <p class="top_life_tit"><span class="fonten">Eggs’n Things Coffee</span> 高崎OPA店</p>
+                  <p class="top_life_det fonten">店舗紹介／BARATZA</p>
+                  <p><a href="#"><img src="./images/top/img_life02.jpg" alt="Eggs’n Things Coffee 高崎OPA店"></a></p>
+                </div>
               </div>
-            </div>
-            <div>
-              <div class="top_life_box">
-                <p class="top_life_tit"><span class="fonten">KEY’S CAFÉ -CLASSE-</span></p>
-                <p class="top_life_det fonten">店舗紹介／CARIMALI</p>
-                <p><a href="#"><img src="./images/top/img_life03.jpg" alt="KEY’S CAFÉ -CLASSE-"></a></p>
+              <div>
+                <div class="top_life_box">
+                  <p class="top_life_tit"><span class="fonten">KEY’S CAFÉ -CLASSE-</span></p>
+                  <p class="top_life_det fonten">店舗紹介／CARIMALI</p>
+                  <p><a href="#"><img src="./images/top/img_life03.jpg" alt="KEY’S CAFÉ -CLASSE-"></a></p>
+                </div>
               </div>
             </div>
           </div>

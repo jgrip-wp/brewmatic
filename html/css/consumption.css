@@ -24,7 +24,7 @@
   border-bottom: 1px #c4c4c4 solid;
   vertical-align: middle;
   padding: 25px;
-  width: 110px;
+  width: 10%;
 }
 .consump_table th {
   background: #f6f6f6;
@@ -36,7 +36,7 @@
   position: relative;
 }
 .consump_table_cont {
-  width: 310px !important;
+  width: 28% !important;
   border-right: 1px #c4c4c4 solid;
 }
 .consump_table .consump_table_head td {
@@ -50,7 +50,7 @@
   font-size: 18px;
 }
 .consump_table_tit {
-  width: 150px !important;
+  width: 12% !important;
 }
 .consump_cell_blue {
   position: absolute;
@@ -93,22 +93,22 @@
   z-index: 2;
 }
 .consump_cell_one {
-  width: 98px;
+  width: 91%;
 }
 .consump_cell_two {
-  width: 208px;
+  width: 191%;
 }
 .consump_cell_three {
-  width: 318px;
+  width: 291%;
 }
 .consump_cell_four {
-  width: 428px;
+  width: 391%;
 }
 .consump_cell_five {
-  width: 538px;
+  width: 491%;
 }
 .consump_cell_six {
-  width: 648px;
+  width: 591%;
 }
 
 @media screen and (max-width: 1080px) {
