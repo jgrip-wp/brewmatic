@@ -653,6 +653,7 @@ html,  html body {
 }
 .page_fixed .page_fixed_brown {
   background: #005bac;
+  border-top: 1px #fff solid;
 }
 .page_fixed .page_fixed_blue {
   background: #005bac;

@@ -67,22 +67,22 @@
        
        <div class="top_pst js-showhead">
          <div class="inner">
-           <ul class="top_pst_list op">
-             <li class="wow fadeIn" data-wow-delay="0.2s">
+           <ul class="top_pst_list op wow fadeInLeft">
+             <li>
               <a href="#">
                  <p class="top_pst_tit fonten hlg01">Premium Machines</p>
                  <p class="top_pst_txt hlg02">世界の多彩なプレミアムマシンをラインナップ</p>
                  <p class="top_pst_img"><img src="./images/top/img_mach_top.jpg" alt="Premium Machines"></p>
               </a>
              </li>
-             <li class="wow fadeIn" data-wow-delay="0.4s">
+             <li>
               <a href="#">
                  <p class="top_pst_tit fonten hlg01">Showroom</p>
                  <p class="top_pst_txt hlg02">各種マシンを体感いただけるショールーム</p>
                  <p class="top_pst_img"><img src="./images/top/img_show_top.jpg" alt="Showroom"></p>
               </a>
              </li>
-             <li class="wow fadeIn" data-wow-delay="0.6s">
+             <li>
               <a href="#">
                  <p class="top_pst_tit fonten hlg01">Technical Service</p>
                  <p class="top_pst_txt hlg02">導入から保守・管理までトータルにサポート</p>
