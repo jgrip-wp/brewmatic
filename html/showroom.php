@@ -67,6 +67,9 @@
                     <div class="gallery_img_item" data-src="./images/showroom/img_showroom04_l.jpg">
                       <img src="./images/showroom/img_showroom04.jpg" alt="写真">
                     </div>
+                    <div class="gallery_img_item" data-src="./images/showroom/img_showroom05_l.jpg">
+                      <img src="./images/showroom/img_showroom05.jpg" alt="写真">
+                    </div>
                   </div>
                 </div>
                 <!-- /showroom_gallery -->

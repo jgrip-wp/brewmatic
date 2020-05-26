@@ -51,24 +51,30 @@
                   <div class="hlg01">
                     <h4 class="conditions_column_tit fonten">CASE 1</h4>
                     <p class="conditions_column_txt hlg02">豊富なメニューバリエーションで最高のおもてなしを</p>
-                    <p class="conditions_column_img"><img src="./images/conditions/img_conditions01.png" alt="C-22 HARMONY SOFT"></p>
-                    <p class="conditions_column_name fonten"><span>C-22</span><span>HARMONY SOFT</span></p>
+                    <div class="conditions_column_img hlg03">
+                      <p class="op"><a href="./ec/brewmatic/c22/"><img src="./images/conditions/img_condi01.jpg" alt="C-22"><span class="fonten">C-22</span></a></p>
+                      <p class="op"><a href="./ec/carimali/harmony-soft/"><img src="./images/conditions/img_condi02.jpg" alt="HARMONY SOFT"><span class="fonten">HARMONY SOFT</span></a></p>
+                    </div>
                   </div>
                 </li>
                 <li class="wow fadeIn">
                   <div class="hlg01">
                     <h4 class="conditions_column_tit fonten">CASE 2</h4>
                     <p class="conditions_column_txt hlg02">リーズナブルでハイパフォーマンスなマシン</p>
-                    <p class="conditions_column_img"><img src="./images/conditions/img_conditions02.png" alt="B3 Decanter GIGA X8c"></p>
-                    <p class="conditions_column_name fonten"><span>B3 Decanter</span><span>GIGA X8c</span></p>
+                    <div class="conditions_column_img hlg03">
+                      <p class="op"><a href="./ec/brewmatic/b3-decanter/"><img src="./images/conditions/img_condi03.jpg" alt="B3 Decanter"><span class="fonten">B3 Decanter</span></a></p>
+                      <p class="op"><a href="./ec/jura/giga-x8c-professional/"><img src="./images/conditions/img_condi04.jpg" alt="GIGA X8c"><span class="fonten">GIGA X8c</span></a></p>
+                    </div>
                   </div>
                 </li>
                 <li class="wow fadeIn">
                   <div class="hlg01">
                     <h4 class="conditions_column_tit fonten">CASE 3</h4>
                     <p class="conditions_column_txt hlg02">こだわりの一杯で上品な空間を</p>
-                    <p class="conditions_column_img"><img src="./images/conditions/img_conditions03.png" alt="CGC"></p>
-                    <p class="conditions_column_name fonten"><span>CGC</span><span>Cento50 G1</span></p>
+                    <div class="conditions_column_img hlg03">
+                      <p class="op"><a href="./ec/curtis/seraphim/"><img src="./images/conditions/img_condi05.jpg" alt="Seraphim"><span class="fonten">Seraphim</span></a></p>
+                      <p class="op"><a href="./ec/sanremo/cafe-racer/"><img src="./images/conditions/img_condi06.jpg" alt="Café Racer White & Wood"><span class="fonten">Café Racer White &amp; Wood</span></a></p>
+                    </div>
                   </div>
                 </li>
               </ul>
@@ -81,24 +87,30 @@
                   <div class="hlg01">
                     <h4 class="conditions_column_tit fonten">CASE 1</h4>
                     <p class="conditions_column_txt hlg02">最新のテクノロジーでコーヒーを美味しく、楽しく提供できるスタイル</p>
-                    <p class="conditions_column_img"><img src="./images/conditions/img_conditions04.png" alt="C-22 Thermo Brewer OPTIMA"></p>
-                    <p class="conditions_column_name fonten"><span>C-22 Thermo Brewer</span><span>OPTIMA</span></p>
+                    <div class="conditions_column_img hlg03">
+                      <p class="op"><a href="./ec/curtis/g4-gemini-single-1-5g-brewer/"><img src="./images/conditions/img_condi07.jpg" alt="G4 Thermo Pro Single 1G Brewer"><span class="fonten">G4 Thermo Pro Single 1G Brewer</span></a></p>
+                      <p class="op"><a href="./ec/carimali/harmony-ultra/"><img src="./images/conditions/img_condi08.jpg" alt="HARMONY ULTRA"><span class="fonten">HARMONY ULTRA</span></a></p>
+                    </div>
                   </div>
                 </li>
                 <li class="wow fadeIn">
                   <div class="hlg01">
                     <h4 class="conditions_column_tit fonten">CASE 2</h4>
                     <p class="conditions_column_txt hlg02">省スペースで幅広いメニュー提供ができるスタイル</p>
-                    <p class="conditions_column_img"><img src="./images/conditions/img_conditions05.png" alt="B3 Thermo Brewer HARMONY SOFT"></p>
-                    <p class="conditions_column_name fonten"><span>B3 Thermo Brewer</span><span>HARMONY SOFT</span></p>
+                    <div class="conditions_column_img hlg03">
+                      <p class="op"><a href="./ec/brewmatic/c-22-thermo-brewer/"><img src="./images/conditions/img_condi09.jpg" alt="C-22 Thermo Brewer"><span class="fonten">C-22 Thermo Brewer</span></a></p>
+                      <p class="op"><a href="./ec/rheavendors/la-rhea-grande2-premium/"><img src="./images/conditions/img_condi10.jpg" alt="la Rhea GRANDE2 Premium"><span class="fonten">la Rhea GRANDE2 Premium</span></a></p>
+                    </div>
                   </div>
                 </li>
                 <li class="wow fadeIn">
                   <div class="hlg01">
                     <h4 class="conditions_column_tit fonten">CASE 3</h4>
                     <p class="conditions_column_txt hlg02">用途に合わせて移設ができ、求めるスタンダードの一歩上をいく機能を搭載したスタイル</p>
-                    <p class="conditions_column_img"><img src="./images/conditions/img_conditions06.png" alt="EZ Thermo Brewer GIGA X8c"></p>
-                    <p class="conditions_column_name fonten"><span>EZ Thermo Brewer</span><span>GIGA X8c</span></p>
+                    <div class="conditions_column_img hlg03">
+                      <p class="op"><a href="./ec/brewmatic/ez-thermo-brewer/"><img src="./images/conditions/img_condi11.jpg" alt="EZ Thermo Brewer"><span class="fonten">EZ Thermo Brewer</span></a></p>
+                      <p class="op"><a href="./ec/jura/x8/"><img src="./images/conditions/img_condi12.jpg" alt="X8"><span class="fonten">X8</span></a></p>
+                    </div>
                   </div>
                 </li>
               </ul>

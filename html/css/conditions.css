@@ -30,19 +30,37 @@
   margin-bottom: 45px;
   line-height: 1.8;
 }
-.conditions_column_img img {
+.conditions_column_img {
+  overflow: hidden;
+  position: relative;
+}
+.conditions_column_img:before {
+  position: absolute;
+  content: "";
+  background: url("../images/conditions/plus_condi.png") center 0 no-repeat;
+  width: 20px;
+  height: 20px;
+  left: 50%;
+  top: 30%;
+  margin-left: -10px;
+  z-index: 2;
+}
+.conditions_column_img p {
+  float: left;
+  width: 50%;
+}
+.conditions_column_img p a {
+  display: block;
+  text-align: center;
+}
+.conditions_column_img p img {
   width: 100%;
 }
-.conditions_column_name {
+.conditions_column_img p span {
+  display: block;
   margin-top: 20px;
   font-size: 20px;
 }
-.conditions_column_name span {
-  display: inline-block;
-  width: 50%;
-  text-align: center;
-}
-
 @media screen and (max-width: 1080px) {
 .conditions_column {
   margin: -30px 0 0 -30px;
