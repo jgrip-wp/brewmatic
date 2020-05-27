@@ -34,7 +34,7 @@
         <div class="contents_main js-showhead">
           <div class="inner">
             <h2 class="page_title wow fadeIn"><span class="page_title_en fonten"> Sustainability</span> サステナビリティ</h2>
-            <p class="page_title_detail wow fadeIn">地球環境、地域社会、<br class="visiblets">人々の豊かな暮らしが調和する<br>持続可能な社会の実現を目指しています。</p>
+            <p class="page_title_detail wow fadeIn">地球環境、地域社会、人々の豊かな暮らしが調和する<br class="visiblepc">持続可能な社会の実現を目指しています。</p>
             <div class="contents_main_box">
               <div class="sustain_content">
                 <p class="sustain_txt sustain_cont_up wow fadeIn">コーヒービジネスのバリューチェーンは、コーヒ豆の生産から流通、焙煎、販売、飲食店、そしてコーヒーマシンをはじめとする関連機器など多岐にわたり、多くの人や会社が関わっています。そして、気候変動や地球環境にも負荷を与えています。<br>ブルーマチックジャパンは、世界をつなぐコーヒービジネスの一翼を担う企業として、私たちの日々のビジネス活動が世界つながっていることを認識し、気候変動による環境問題や、コーヒーマシンの製造から輸入、販売にいたるまであらゆる工程の労働環境など、コーヒービジネスの背景にある社会課題にも向き合っていく責任があると考えています。私たちは、コーヒーマシンの品質はもちろん、ともにサステナブルな社会を目指す取引先とともに、環境負荷低減、従業員の働きやすさ向上など、地球と地域社会、人々と調和する事業活動に努めています。</p>
