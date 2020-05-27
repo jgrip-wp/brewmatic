@@ -35,7 +35,7 @@
         <div class="contents_main js-showhead">
           <div class="inner">
             <h2 class="page_title"><span class="page_title_en fonten">Showroom</span>ショールームのご予約</h2>
-            <p class="page_title_detail">各種マシンを体感いただけるショールームを展開。<br>業態や提供スタイル、コンセプトに合わせた最適なマシンをご提案します。</p>
+            <p class="page_title_detail">各種マシンを体感いただける<br class="visiblets">ショールームを展開。<br>業態や提供スタイル、コンセプトに合わせた最適なマシンをご提案します。</p>
             <div class="contents_main_box">
               <div class="showroom_content">
                 <p class="showroom_comment op">ブルーマチックジャパンでは、世界のプレミアムブランドを実際に操作してお試しいただけるショールームをご用意しています。<br>ご検討中のマシンの詳細はもちろん、業態や提供スタイル、店舗の環境、コンセプトに合わせたトータルな提案もいたしますので、ご予約の上ぜひお越しください。</p>
@@ -79,8 +79,8 @@
                   <dl class="showroom_item clearfix">
                     <dt>横浜本社ショールーム</dt>
                     <dd>
-                      <p class="showroom_item_tel fonten">045-947-0801</p>
-                      <p class="showroom_item_txt">10:00～17:00（土日祝日除く）<br>〒224-0041</p>
+                      <p class="showroom_item_tel fonten">045-947-0801<span>10:00～17:00（土日祝日除く）</span></p>
+                      <p class="showroom_item_txt">〒224-0041</p>
                       <p class="showroom_item_address">横浜市都筑区仲町台5-4-22</p>
                       <p class="showroom_item_btn"><a href="https://goo.gl/maps/a4Vq154FJNvVgRgG9" target="_blank" class="fonten">Google Map</a></p>
                     </dd>
@@ -88,18 +88,18 @@
                   <dl class="showroom_item clearfix">
                     <dt>大阪営業所ショールーム</dt>
                     <dd>
-                      <p class="showroom_item_tel fonten">06-6531-1336</p>
-                      <p class="showroom_item_txt">10:00～17:00（土日祝日除く）<br>〒550-0011</p>
-                      <p class="showroom_item_address">大阪府大阪市西区阿波座1-9-9　阿波座パークビル5階</p>
+                      <p class="showroom_item_tel fonten">06-6531-1336<span>10:00～17:00（土日祝日除く）</span></p>
+                      <p class="showroom_item_txt">〒550-0011</p>
+                      <p class="showroom_item_address">大阪府大阪市西区阿波座1-9-9　<br class="visiblets">阿波座パークビル5階</p>
                       <p class="showroom_item_btn"><a href="https://goo.gl/maps/82XzRibiPk5tEF5Z8" target="_blank" class="fonten">Google Map</a></p>
                     </dd>
                   </dl>
                   <dl class="showroom_item clearfix">
                     <dt>福岡営業所ショールーム</dt>
                     <dd>
-                      <p class="showroom_item_tel fonten">092-483-3245</p>
-                      <p class="showroom_item_txt">10:00～17:00（土日祝日除く）<br>〒812-0042</p>
-                      <p class="showroom_item_address">福岡県福岡市博多区豊1-5-24　丸信ビル108</p>
+                      <p class="showroom_item_tel fonten">092-483-3245<span>10:00～17:00（土日祝日除く）</span></p>
+                      <p class="showroom_item_txt">〒812-0042</p>
+                      <p class="showroom_item_address">福岡県福岡市博多区豊1-5-24　<br class="visiblets">丸信ビル108</p>
                       <p class="showroom_item_btn"><a href="https://goo.gl/maps/dxhHEKv52k2NidDK8" target="_blank" class="fonten">Google Map</a></p>
                     </dd>
                   </dl>

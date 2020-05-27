@@ -82,17 +82,23 @@
 }
 .showroom_item_tel{
 	font-size: 32px;
-	line-height: 1;
+	line-height: 1.2;
+}
+.showroom_item_tel span{
+	display: block;
+	font-size: 13px;
+	font-weight: 500;
+    font-family: 'Noto Sans JP', sans-serif;
 }
 .showroom_item_txt{
 	font-size: 14px;
 	line-height: 31px;
 	font-weight: 500;
-	margin: 4px 0 0;
+	margin: 20px 0 0;
 }
 .showroom_item_address{
 	font-size: 14px;
-	line-height: 26px;
+	line-height: 30px;
 	font-weight: 500;
 }
 .showroom_item_btn{
@@ -102,7 +108,7 @@
 .showroom_item_btn a{
 	display: inline-block;
 	width: 110px;
-	font-size: 18px;
+	font-size: 16px;
 	line-height: 23px;
 	border: 1px solid #dcdcdc;
 	border-radius: 13px;
@@ -132,19 +138,18 @@
 }
 .showroom_book_box{
 	margin: 60px 0 0;
-	padding: 30px 20px;
+	padding: 40px 20px;
 }
 .showroom_book_comment{
-	margin: 20px 0 30px;
+	margin: 20px 0 50px;
 }
 .showroom_item + .showroom_item{
-	margin: 30px 0 0;
+	margin: 50px 0 0;
 }
 .showroom_item dt{
 	width: 100%;
 	float: none;
 	padding: 0;
-	text-align: center;
 }
 .showroom_item dd{
 	border-left: none;
@@ -153,22 +158,22 @@
 	margin: 10px 0 0;
 }
 .showroom_item_tel{
-	font-size: 32px;
+	font-size: 36px;
 	line-height: 1;
 }
 .showroom_item_txt{
 	font-size: 14px;
-	line-height: 31px;
-	font-weight: 500;
-	margin: 4px 0 0;
+    line-height: 20px;
+    font-weight: 500;
+    margin: 20px 0 0px;
 }
 .showroom_item_address{
 	font-size: 14px;
 	line-height: 26px;
-	font-weight: 500;
+	font-weight: 400;
 }
 .showroom_item_btn{
-	margin: 8px 0 0;
+	margin: 10px 0 0;
 	line-height: 1;
 }
 .showroom_item_btn a{
