@@ -1177,12 +1177,15 @@ html,  html body {
 }
 @media screen and (max-width: 768px) {
 .common_bnr {
-  margin: -15px 0 50px;
+  margin: -15px 0 80px;
 }
 .common_bnr li {
   float: none;
   width: auto;
   padding-left: 0;
+}
+.common_bnr li a {
+  font-size: 14px;
 }
 }
 
