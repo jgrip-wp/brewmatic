@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+.temp_teaser {
+  background: url("../images/about/teaser_about.jpg") center center no-repeat;
+  background-size: cover;
+}
+
+
+@media screen and (max-width: 1080px) {
+
+}
+@media screen and (max-width: 768px) {
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
