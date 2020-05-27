@@ -29,7 +29,8 @@ $(function () {
         });
       },410)
       $("#wrapper").delay(400).fadeIn(400, "", function () {
-        $('.top_pst_list li').addClass('wow fadeIn')
+        /*$('.top_pst_list').addClass('wow fadeInLeft')*/
+        
         new WOW().init();
 
       });

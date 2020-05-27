@@ -129,6 +129,7 @@
   float: left;
   width: 33.3333%;
   padding-left: 20px;
+  visibility: hidden;
 }
 .top_pst_list li a {
   display: block;
@@ -427,3 +428,4 @@
 @media screen and (max-width: 768px) {
   
 }
+

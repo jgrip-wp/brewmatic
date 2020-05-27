@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html class="top">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
@@ -62,7 +62,7 @@
        <div class="top_pst js-showhead">
          <div class="inner">
            <ul class="top_pst_list op">
-             <li>
+             <li class="wow fadeIn">
               <a href="#">
                  <div class="top_pst_tit_box">
                    <p class="top_pst_tit fonten hlg01">Premium Machines</p>
@@ -71,7 +71,7 @@
                  <p class="top_pst_img"><img src="./images/top/img_mach_top.jpg" alt="Premium Machines"></p>
               </a>
              </li>
-             <li>
+             <li class="wow fadeIn">
               <a href="#">
                  <div class="top_pst_tit_box">
                    <p class="top_pst_tit fonten hlg01">Showroom</p>
@@ -80,7 +80,7 @@
                  <p class="top_pst_img"><img src="./images/top/img_show_top.jpg" alt="Showroom"></p>
               </a>
              </li>
-             <li>
+             <li class="wow fadeIn">
               <a href="#">
                  <div class="top_pst_tit_box">
                    <p class="top_pst_tit fonten hlg01">Technical Service</p>
