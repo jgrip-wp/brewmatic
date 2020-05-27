@@ -486,6 +486,7 @@ html,  html body {
 @media screen and (max-width: 1080px) {
 #breadcrumb {
   margin: 0 auto;
+  padding: 0 15px;
 }
 }
 
