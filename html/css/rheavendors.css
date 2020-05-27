@@ -20,16 +20,16 @@
 
 @media screen and (max-width: 768px) {
 .rheaven_group {
-  margin-top: 50px;
+  margin-top: 80px;
 }
 .rheaven_group_tit {
-  margin-bottom: 30px;
+  margin-bottom: 60px;
 }
 .rheaven_column {
   margin-top: -50px;
 }
 .rheaven_column li {
-  margin-top: 50px;
+  margin-top: 80px;
 }
 }
 
@@ -165,6 +165,9 @@
   text-align: center;
   padding: 0 20px;
 }
+.rheaven_det_img img {
+  width: 60%;
+}
 .rheaven_det_tit .fonten {
   font-size: 24px;
 }
@@ -200,7 +203,7 @@
 }
 @media screen and (max-width: 768px) {
 .rheaven_spec {
-  margin-top: 50px;
+  margin-top: 80px;
 }
 .rheaven_spec .page_title_mid {
   margin-bottom: 30px;
