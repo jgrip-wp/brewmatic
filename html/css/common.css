@@ -721,6 +721,7 @@ html,  html body {
 .page_title_detail {
   font-size: 15px;
   margin-bottom: 30px;
+  text-align: left;
 }
 }
 
@@ -832,7 +833,7 @@ html,  html body {
 .common_form th{
 	width: 200px;
 	padding: 0 20px 0 0;
-	font-size: 16px;
+	font-size: 14px;
 	line-height: 26px;
   letter-spacing: 0.2em;
 	font-weight: 500;
@@ -860,13 +861,13 @@ html,  html body {
 	height: 50px;
 	padding: 5px 8px;
 	box-sizing: border-box;
-	font-size: 16px;
+	font-size: 14px;
 }
 .common_form .form_textarea{
 	display: block;
 	width: 100%;
 	font-family: 'Noto Sans JP', sans-serif;
-	font-size: 16px;
+	font-size: 14px;
 	height: 150px;
 	padding: 5px;
 	box-sizing: border-box;
@@ -885,7 +886,7 @@ html,  html body {
 	height: 50px;
 	padding: 5px 8px 5px 100px;
 	box-sizing: border-box;
-	font-size: 16px;
+	font-size: 14px;
 }
 .form_telmail_box .telmail_text{
 	position: absolute;
@@ -899,7 +900,7 @@ html,  html body {
 	line-height: 26px;
 }
 .checkbox_wrap{
-	font-size: 16px;
+	font-size: 14px;
 	line-height: 22px;
 }
 .checkbox_wrap label{
@@ -969,7 +970,7 @@ html,  html body {
 	height: 66px;
 	text-align: center;
 	font-family: 'Noto Sans JP', sans-serif;
-	font-size: 16px;
+	font-size: 14px;
 	line-height: 64px;
 	color: #fff;
 	letter-spacing: 3px;
@@ -1023,7 +1024,7 @@ html,  html body {
 	line-height: 24px;
 }
 .checkbox_wrap{
-	font-size: 16px;
+	font-size: 14px;
 	line-height: 22px;
 }
 .checkbox_wrap label{

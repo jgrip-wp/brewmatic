@@ -35,7 +35,7 @@
         <div class="contents_main js-showhead">
           <div class="inner">
             <h2 class="page_title"><span class="page_title_en fonten">Showroom</span>ショールームのご予約</h2>
-            <p class="page_title_detail">各種マシンを体感いただける<br class="visiblets">ショールームを展開。<br>業態や提供スタイル、コンセプトに合わせた最適なマシンをご提案します。</p>
+            <p class="page_title_detail">各種マシンを体感いただけるショールームを展開。<br>業態や提供スタイル、コンセプトに合わせた最適なマシンをご提案します。</p>
             <div class="contents_main_box">
               <div class="showroom_content">
                 <p class="showroom_comment op">ブルーマチックジャパンでは、世界のプレミアムブランドを実際に操作してお試しいただけるショールームをご用意しています。<br>ご検討中のマシンの詳細はもちろん、業態や提供スタイル、店舗の環境、コンセプトに合わせたトータルな提案もいたしますので、ご予約の上ぜひお越しください。</p>
