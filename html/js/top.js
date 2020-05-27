@@ -19,7 +19,7 @@ $(function () {
           slidesToShow: 3,
           slidesToScroll: 1,
           pauseOnHover: false,
-          speed: 3000,
+          speed: 2000,
             responsive: [{
               breakpoint:1080,
               settings:{
@@ -28,8 +28,8 @@ $(function () {
             }]
         });
       },410)
-      $("#wrapper").delay(400).fadeIn(800, "", function () {
-        $('.top_pst_list').addClass('wow fadeInLeft')
+      $("#wrapper").delay(400).fadeIn(400, "", function () {
+        $('.top_pst_list li').addClass('wow fadeIn')
         new WOW().init();
 
       });

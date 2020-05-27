@@ -46,7 +46,7 @@
             <p class="page_title_detail">ドリップとエスプレッソ、フルサービス、セルフサービスなど<br class="visiblepc">業態に合わせたマシンの組み合わせ例をご紹介します。</p>
             <div class="conditions_section">
               <h3 class="conditions_tit">フルサービスの場合</h3>
-              <ul class="conditions_column">
+              <ul class="conditions_column clearfix">
                 <li>
                   <div class="hlg01">
                     <h4 class="conditions_column_tit fonten">CASE 1</h4>
@@ -82,7 +82,7 @@
             <!-- /conditions_section -->
             <div class="conditions_section">
               <h3 class="conditions_tit">セルフサービスの場合</h3>
-              <ul class="conditions_column">
+              <ul class="conditions_column clearfix">
                 <li>
                   <div class="hlg01">
                     <h4 class="conditions_column_tit fonten">CASE 1</h4>

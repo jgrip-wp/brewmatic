@@ -61,7 +61,7 @@
        
        <div class="top_pst js-showhead">
          <div class="inner">
-           <ul class="top_pst_list op ">
+           <ul class="top_pst_list op">
              <li>
               <a href="#">
                  <div class="top_pst_tit_box">
