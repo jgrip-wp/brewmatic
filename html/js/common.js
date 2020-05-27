@@ -110,8 +110,9 @@ var pageScroll = function(){
 /* !common --------------------------------------------------- */
 var common = (function(){
 	$("body").fadeTo(800,1);
-    new WOW().init();
-  
+	if(!$('html').hasClass('top')){
+		new WOW().init();
+	}
     var isMobile = false;
 	var breakpoint = 1080;
 	updateIsMobile();
