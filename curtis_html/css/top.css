@@ -25,7 +25,8 @@
 }
 .top_main_navi a {
   display: inline-block;
-  font-size: 16px;
+  font-size: 20px;
+  letter-spacing: 0.04em;
   color: #fff;
   margin: 0 2%;
   position: relative;

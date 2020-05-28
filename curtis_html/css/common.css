@@ -267,6 +267,9 @@ html,  html body {
 .fixed_head.show{
   transform: translateY(0);
 }
+.fixed_head .head_logo {
+  align-self: center;
+}
 @media screen and (max-width: 1080px) {
 #head {
   position: fixed;
@@ -473,12 +476,12 @@ html,  html body {
   margin-bottom: 40px;
   font-size: 18px;
   line-height: 1.6;
+  font-weight: bold;
   position: relative;
 }
 .page_tit span {
   display: block;
   font-size: 30px;
-  font-weight: bold;
   line-height: 1.2;
 }
 .page_tit span.fontimpact {
