@@ -35,23 +35,23 @@
         </div>
       </div>
       <!-- /teaser -->
-      <div id="contents" class="js-showhead">
-        <div class="about_pride">
-          <div class="inner">
-            <div class="linewrap">
-              <h3 class="about_tit line wow fadeIn"><span class="fontimpact">THE PRIDE OF THE FRONTIER</span>業務用コーヒーマシンのフロンティア</h3>
-            </div>
-            <div class="about_pride_cont wow fadeIn">
-              <p class="about_pride_det">品質の安定したコーヒーを大量に、スピーディーに抽出し、<br>淹れたての美味しさをそのままキープ</p>
-              <p>「もっとたくさん、さらに美味しく」。<br>そのニーズに応えるパワフルな抽出力を備えた業務用コーヒーマシンをラインナップするCurtis（カーチス）。<br>1941年の創業以来、業務用コーヒーマシンのフロンティアとして世界中にシェアを広げています。<br>必要な時間に合わせて十分な量を抽出し、淹れたての味わいとフレッシュな香りを長時間キープ。<br>Curtisのマシンは、ホテルのバンケットやレストランなど、供給量の多いシーンでパワフルなパフォーマンスを発揮します。<br>さらに、バリスタのハンドドリップをお客様の目の前で再現する革新的なマシンを展開。<br>人々の好みも業態も多様化するコーヒー業界に、新たなスタイルを提案しています。</p>
-              <p class="common_btn fontimpact"><a href="./history.php">HISTORY &amp; MILESTONES</a></p>
-            </div>
+      <div class="about_pride js-showhead">
+        <div class="inner">
+          <div class="linewrap">
+            <h3 class="page_tit line wow fadeIn"><span class="fontimpact">THE PRIDE OF THE FRONTIER</span>業務用コーヒーマシンのフロンティア</h3>
+          </div>
+          <div class="about_pride_cont wow fadeIn">
+            <p class="about_pride_det">品質の安定したコーヒーを大量に、スピーディーに抽出し、<br>淹れたての美味しさをそのままキープ</p>
+            <p>「もっとたくさん、さらに美味しく」。<br>そのニーズに応えるパワフルな抽出力を備えた業務用コーヒーマシンをラインナップするCurtis（カーチス）。<br>1941年の創業以来、業務用コーヒーマシンのフロンティアとして世界中にシェアを広げています。<br>必要な時間に合わせて十分な量を抽出し、淹れたての味わいとフレッシュな香りを長時間キープ。<br>Curtisのマシンは、ホテルのバンケットやレストランなど、供給量の多いシーンでパワフルなパフォーマンスを発揮します。<br>さらに、バリスタのハンドドリップをお客様の目の前で再現する革新的なマシンを展開。<br>人々の好みも業態も多様化するコーヒー業界に、新たなスタイルを提案しています。</p>
+            <p class="common_btn fontimpact"><a href="./history.php">HISTORY &amp; MILESTONES</a></p>
           </div>
         </div>
-        <!-- /about_pride -->
+      </div>
+      <!-- /about_pride -->
+      <div id="contents">
         <div class="about_quality">
           <div class="inner">
-             <h3 class="about_tit line wow fadeIn"><span class="fontimpact">Commitment to the Quality</span>いつでも美味しいコーヒーを。<br>Curtisの技術力・品質へのこだわり</h3>
+             <h3 class="page_tit line wow fadeIn"><span class="fontimpact">Commitment to the Quality</span>いつでも美味しいコーヒーを。<br>Curtisの技術力・品質へのこだわり</h3>
              <div class="about_quality_box">
                <p class="frimg wow fadeIn" data-wow-delay="0.6s"><img src="./images/about/img_about01.jpg" alt="抽出を正確にコントロール G4テクノロジー"></p>
                <div class="ftbox wow fadeIn" data-wow-delay="0.2s">

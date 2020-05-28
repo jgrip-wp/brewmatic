@@ -11,22 +11,10 @@
   padding: 80px 0;
   color: #fff;
 }
-.about_tit {
-  padding-bottom: 20px;
-  margin-bottom: 40px;
-  font-size: 18px;
-  line-height: 1.6;
-  position: relative;
-}
-.about_tit span {
-  display: block;
-  font-size: 48px;
-}
-.about_tit.line:before {
+.about_pride .page_tit.line:before {
   background: #fff;
 }
-.about_pride_cont {
-}
+
 .about_pride_det {
   font-size: 30px;
   margin-bottom: 30px;
@@ -44,14 +32,6 @@
   padding: 40px 0;
   color: #fff;
 }
-.about_tit {
-  padding-bottom: 20px;
-  margin-bottom: 20px;
-  font-size: 16px;
-}
-.about_tit span {
-  font-size: 28px;
-}
 .about_pride_det {
   font-size: 20px;
   margin-bottom: 20px;
@@ -61,13 +41,8 @@
 }
 }
 
-.about_quality {
-  padding-top: 100px;
-}
-.about_quality .about_tit.line:before {
-  background: #333;
-}
-.about_quality .about_tit {
+
+.about_quality .page_tit {
   margin-bottom: 60px;
 }
 .about_quality_box+.about_quality_box {
@@ -98,10 +73,7 @@
   vertical-align: middle;
 }
 @media screen and (max-width: 768px) {
-.about_quality {
-  padding-top: 50px;
-}
-.about_quality .about_tit {
+.about_quality .page_tit {
   margin-bottom: 30px;
 }
 .about_quality_box+.about_quality_box {

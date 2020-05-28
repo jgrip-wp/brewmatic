@@ -12,7 +12,7 @@
 <link rel="stylesheet" type="text/css" href="./css/animate.css"/>
 <link rel="stylesheet" type="text/css" href="./css/slick.css"/>
 
-<link rel="stylesheet" type="text/css" href="./css/temp.css"/>
+<link rel="stylesheet" type="text/css" href="./css/product.css"/>
 
 <script type="text/javascript" src="./js/jquery.min.js"></script>
 <script type="text/javascript" src="./js/common.js"></script>
@@ -28,18 +28,22 @@
     <?php include './include/head.php'; ?>
 
     <article>
-      <div class="teaser temp_teaser">
-        <h2 class="teaser_tit fontimpact">BRBRBRBRBRBR</h2>
+      <div class="teaser product_teaser">
+        <h2 class="teaser_tit teaser_tit_en">販売終了商品</h2>
         <div id="breadcrumb" class="op">
-          <p class="breadcrumb_in"><a href="./">TOP</a> > ABOUT</p>
+          <p class="breadcrumb_in"><a href="./">TOP</a> > 販売終了商品</p>
         </div>
       </div>
       <!-- /teaser -->
       <div id="contents" class="js-showhead">
         <div class="inner">
-          <p class="common_btn fontimpact"><a href="#">CDDDDD</a></p>
-          
-          ddd<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+          <ul class="product_col_four clearfix">
+            <li class="wow fadeIn">
+              <p class="product_one_img hlg01"><img src="./images/product/img_old01.png" alt="G4 Gemini IF"></p>
+              <p class="common_btn fontimpact"><a href="#">G4 Gemini IF</a></p>
+            </li>
+          </ul>
+          <!-- /product_col_four -->
         </div>
         
       </div>
