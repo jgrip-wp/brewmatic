@@ -44,7 +44,7 @@
                   <div class="products_block_cont">
                     <p class="products_block_tit">La Rhea Grande2 Premium</p>
                     <p class="lineheight_lar">多機能、高性能で多彩なメニューを提供するハイクラスモデル</p>
-                    <p class="common_btn"><a href="#">Detail</a></p>
+                    <p class="common_btn"><a href="./la-rhea-grande2-premium/">Detail</a></p>
                   </div>
                 </div>
               </div>
@@ -59,22 +59,22 @@
             <div class="products_box_in">
               <div class="products_block wow fadeInUp">
                 <div class="products_block_in">
-                  <p class="products_block_img"><img src="./images/products/img_products02.png" alt="eC +コインメック"></p>
+                  <p class="products_block_img"><img src="./images/products/img_products03.png" alt="rhea BL eC"></p>
                   <div class="products_block_cont">
-                    <p class="products_block_tit">eC +コインメック</p>
-                    <p class="lineheight_lar">会計機能を搭載した<br>全自動コーヒーマシン</p>
-                    <p class="common_btn"><a href="#">Detail</a></p>
+                    <p class="products_block_tit">rhea BL eC</p>
+                    <p class="lineheight_lar">コーヒーからホットチョコレートまで100ボルト電流で手軽に豊富なメニューを提供</p>
+                    <p class="common_btn"><a href="./la-rhea-bl-ec/">Detail</a></p>
                   </div>
                 </div>
               </div>
               <!-- /products_block -->
               <div class="products_block wow fadeInUp">
                 <div class="products_block_in">
-                  <p class="products_block_img"><img src="./images/products/img_products03.png" alt="rhea BL eC"></p>
+                  <p class="products_block_img"><img src="./images/products/img_products02.png" alt="eC +コインメック"></p>
                   <div class="products_block_cont">
-                    <p class="products_block_tit">rhea BL eC</p>
-                    <p class="lineheight_lar">コーヒーからホットチョコレートまで100ボルト電流で手軽に豊富なメニューを提供</p>
-                    <p class="common_btn"><a href="#">Detail</a></p>
+                    <p class="products_block_tit">eC +コインメック</p>
+                    <p class="lineheight_lar">会計機能を搭載した<br>全自動コーヒーマシン</p>
+                    <p class="common_btn"><a href="./cino-ec/">Detail</a></p>
                   </div>
                 </div>
               </div>
@@ -93,7 +93,7 @@
                   <div class="products_block_cont">
                     <p class="products_block_tit">lio 2C</p>
                     <p class="lineheight_lar">省スペースでもメニューが広がる<br>コンパクトパウダーマシン</p>
-                    <p class="common_btn"><a href="#">Detail</a></p>
+                    <p class="common_btn"><a href="./lio-2c-2/">Detail</a></p>
                   </div>
                 </div>
               </div>

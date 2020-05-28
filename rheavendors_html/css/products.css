@@ -30,7 +30,7 @@
   align-items: flex-end;
 }
 .products_block_img {
-  width: 55%;
+  width: 50%;
   padding: 0 10px;
   text-align: center;
 }
@@ -40,7 +40,7 @@
   margin-bottom: 60px;
 }
 .products_block_cont {
-  width: 45%;
+  width: 50%;
 }
 .products_block .common_btn {
   margin-top: 25px;
@@ -55,9 +55,9 @@
 }
 .products_link a {
   display: inline-block;
-  color: #f49a19;
+  color: #944d03;
   font-weight: 500;
-  border-bottom: 1px #f49a19 solid;
+  border-bottom: 1px #944d03 solid;
   padding-bottom: 3px;
   position: relative;
 }
@@ -68,7 +68,7 @@
   height: 1px;
   top: 50%;
   left: -20px;
-  background: #f49a19;
+  background: #944d03;
   z-index: 2;
 }
 
@@ -187,8 +187,8 @@
   display: inline-block;
   font-weight: 500;
   position: relative;
-  color: #f49a19;
-  border-bottom: 1px #f49a19 solid;
+  color: #944d03;
+  border-bottom: 1px #944d03 solid;
   padding-bottom: 3px;
 }
 .detail_main_link .ico_down:before {
@@ -262,7 +262,7 @@
 }
 .detail_box_bg {
   background: #fbfbfb;
-  padding: 80px 0;
+  padding: 80px 0 100px;
 }
 .detail_box_list {
   display: flex;
@@ -365,11 +365,23 @@
 .detail_table th {
   width: 42%;
   font-weight: 700;
-  border-top: 2px #f49a19 solid;
-  border-right: 40px #fff solid;
+  border-top: 2px #944d03 solid;
+  padding-right: 40px;
+  position: relative;
+}
+.detail_table th:before {
+  position: absolute;
+  content: "";
+  background: #fff;
+  width: 40px;
+  height: 2px;
+  right: 0;
+  top: 0;
+  transform: translateY(-100%);
+  z-index: 2;
 }
 .detail_table td {
-  border-top: 2px #666 solid;
+  border-top: 2px #adadad solid;
 }
 .detail_table_link {
   padding-left: 20px;
@@ -377,15 +389,15 @@
 }
 .detail_table_link a {
   display: inline-block;
-  color: #f49a19;
+  color: #944d03;
   font-weight: 500;
   padding-bottom: 3px;
-  border-bottom: 1px #f49a19 solid;
+  border-bottom: 1px #944d03 solid;
 }
 .detail_table_link:before {
   position: absolute;
   content: "";
-  background: #f49a19;
+  background: #944d03;
   width: 10px;
   height: 1px;
   left: 4px;
@@ -397,7 +409,10 @@
   padding: 20px 0;
 }
 .detail_table th {
-  border-right: 10px #fff solid;
+  padding-right: 10px;
+}
+.detail_table th:before {
+  width: 10px;
 }
 }
 

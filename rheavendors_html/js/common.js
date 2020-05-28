@@ -121,7 +121,7 @@ var common = (function(){
     new WOW().init();
 
   	var isMobile = false;
-	var breakpoint = 999;
+	var breakpoint = 1080;
 	updateIsMobile();
 
 	$(window).on('resize load', function () {
@@ -134,12 +134,15 @@ var common = (function(){
 	$(window).on('load scroll', function () {
 	    var ws = $(this).scrollTop();
 	    var showlinetop = $('.js-showhead').offset().top;
-	    
+	    if(!isMobile){
 		    if(ws >= showlinetop){
-				$('#head').addClass('show')
+				$('.fixed_head').addClass('show')
 		    }else{
-		    	$('#head').removeClass('show')
+		    	$('.fixed_head').removeClass('show')
 		    }
+		}else{
+			$('.fixed_head').removeClass('show')
+		}
 	});
 
 	var $hdmenu = $('.js-navbar');

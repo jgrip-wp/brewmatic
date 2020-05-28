@@ -66,7 +66,7 @@
         </div>
       </div>
       <div id="contents" class="js-showhead">
-        <div class="top_box">
+        <div class="top_box wow fadeInUp">
           <p class="top_box_img"><img src="./images/top/large_top01.jpg" alt="ABOUT"></p>
           <p class="top_box_img_sp"><img src="./images/top/large_top01_ts.jpg" alt="ABOUT"></p>
           <div class="top_box_cont top_box_right">
@@ -77,7 +77,7 @@
           </div>
         </div>
          <!-- /top_box -->
-        <div class="top_box">
+        <div class="top_box wow fadeInUp">
           <p class="top_box_img"><img src="./images/top/large_top02.jpg" alt="PRODUCTS"></p>
           <p class="top_box_img_sp"><img src="./images/top/large_top02_ts.jpg" alt="PRODUCTS"></p>
           <div class="top_box_cont top_box_left">
@@ -88,18 +88,18 @@
           </div>
         </div>
          <!-- /top_box -->
-        <div class="top_box">
+        <div class="top_box wow fadeInUp">
           <p class="top_box_img"><img src="./images/top/large_top03.jpg" alt="ALL IN THE FAMILY"></p>
           <p class="top_box_img_sp"><img src="./images/top/large_top03_ts.jpg" alt="ALL IN THE FAMILY"></p>
           <div class="top_box_cont top_box_right">
-            <p class="top_box_tit fontlato"><span>ALL IN THE FAMILY</span></p>
+            <p class="top_box_tit top_box_tit_half fontlato"><span>ALL IN THE<br class="visiblets"> FAMILY</span></p>
             <p class="top_box_cap">リアベンドーズ・ストーリー</p>
             <p class="lineheight_lar">始まりはガムボールマシン。<br>1960年代、コーヒーの夢はドルチェ・ビータとともに。</p>
             <p class="common_btn"><a href="./history.php">Brand's History</a></p>
           </div>
         </div>
          <!-- /top_box -->
-         <div class="top_life">
+         <div class="top_life wow fadeInUp">
            <div class="top_life_tit">
              <h3 class="top_life_tit_in"><span class="fontlato">LIFE WITH COFFEE</span>導入店舗紹介</h3>
            </div>
@@ -132,7 +132,7 @@
              </ul>
              <p class="common_btn"><a href="#">View More</a></p>
              
-             <!--<p class="comimgsoon"><img src="./images/top/comingsoon.jpg" alt="COMING SOON"></p>-->
+             <!--<p class="comimgsoon wow fadeInUp"><img src="./images/top/comingsoon.jpg" alt="COMING SOON"></p>-->
            </div>
          </div>
          <!-- /top_life -->

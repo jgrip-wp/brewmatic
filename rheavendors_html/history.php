@@ -106,7 +106,7 @@
                <p class="history_step_tit_txt">ハイエンドクラス「la Rhea」を発表</p>
              </div>
              <p class="history_step_txt">多機能、高性能、細やかなカスタマイズが可能なハイエンドブランド「la Rhea」シリーズを発表。</p>
-             <p class="common_btn"><a href="#">la Rheaの最新モデル</a></p>
+             <p class="common_btn"><a href="./products/la-rhea-grande2-premium/">la Rheaの最新モデル</a></p>
            </div>
          </div>
          <!-- /history_step -->
@@ -118,7 +118,6 @@
                <p class="history_step_tit_txt">ブルーマチックジャパンと取引を開始</p>
              </div>
              <p class="history_step_txt">日本市場への進出を本格化。<br>ホテルの朝食会場、空港のラウンジ、ショッピングモールなど、幅広い業態で活用されている。</p>
-             <p class="common_btn"><a href="#">ブルーマチックジャパンについて</a></p>
            </div>
          </div>
          <!-- /history_step -->

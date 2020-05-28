@@ -36,7 +36,7 @@
     <article>
      <h2 id="teaser" class="teaser_products"><span class="teaser_tit fontlato">Products</span></h2>
       <p id="breadcrumb" class="fontlato op"><a href="./" class="home">Home</a> > <a href="./products.php">Products</a> > la Rhea GRANDE2 Premium</p>
-      <div id="contents" class="js-showhead">
+      <div id="contents" class="js-showhead padd_bottom_zero">
          <div class="inner">
           <div class="detail_main wow fadeInUp">
             <div class="detail_main_img">
@@ -55,7 +55,7 @@
               <p class="detail_main_txt lineheight_lar">コーヒーからカプチーノ、カフェモカ、ホットチョコレートなど、<br>100ボルト電源で手軽に豊富なメニューを提供。<br>専用キャビネットなど、幅広いオプションアイテムもご用意しています。</p>
               <ul class="detail_main_link">
                 <li><a href="#anchor_features" class="ico_down">製品オプション</a></li>
-                <li><a href="#" class="ico_blank" target="_blank">Online Shop</a></li>
+                <li><a href="https://www.brewmatic.co.jp/ec/" class="ico_blank" target="_blank">Online Shop</a></li>
               </ul>
             </div>
           </div>

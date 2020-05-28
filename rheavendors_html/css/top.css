@@ -112,7 +112,7 @@
 }
 
 .top_box+.top_box {
-  margin-top: 170px;
+  margin-top: 160px;
 }
 .top_box {
   padding: 0 5%;
@@ -178,16 +178,19 @@
 }
 @media screen and (max-width: 768px) {
 .top_box+.top_box {
-  margin-top: 50px;
+  margin-top: 80px;
 }
 .top_box .top_box_cont {
   padding: 0;
 }
 .top_box .top_box_tit {
-  font-size: 30px;
+  font-size: 40px;
   transform: translateY(-100%);
   margin-bottom: 0;
 }
+  .top_box .top_box_tit.top_box_tit_half {
+    transform: translateY(-50%);
+  }
 .top_box .top_box_tit span {
   display: inline-block;
   background: #fff;
@@ -221,7 +224,7 @@
   margin-top: 130px;
 }
 .top_life_tit {
-  background: #666;
+  background: #944d03;
   padding: 100px 20px 120px;
 }
 .top_life_tit_in {
@@ -279,7 +282,7 @@
   display: inline-block;
   background: url(../images/top/blank_top.png) right center no-repeat;
   padding-right: 20px;
-  color: #f49a19;
+  color: #944d03;
   text-decoration: underline;
   font-weight: 700;
 }

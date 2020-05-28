@@ -15,6 +15,11 @@ body {
   color: #333;
   font-weight: 400;
 }
+@media screen and (max-width: 768px) {
+body {
+  font-size: 14px;
+}
+}
 body, div, pre, p, blockquote, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, form, fieldset, th, td, a,input {
   margin: 0;
   padding: 0;
@@ -187,7 +192,6 @@ html,  html body {
 /* !wrapper
 ---------------------------------------------------------- */
 #wrapper {
-  min-width: 1400px;
   padding-top: 60px;
   position: relative;
 }
@@ -196,12 +200,11 @@ html,  html body {
   margin: 0 auto;
   padding: 0 20px;
 }
-@media screen and (max-width: 1080px) {
-#wrapper {
-  min-width: inherit;
-}
-}
 @media screen and (max-width: 768px) {
+#wrapper {
+  padding-top: 30px;
+  position: relative;
+}
 #wrapper .inner {
   padding: 0 15px;
 }
@@ -230,34 +233,50 @@ html,  html body {
   padding: 40px 20px;
 }
 .head_inner .head_link {
-  overflow: hidden;
   width: 70%;
-  padding: 0 10%;
+  text-align: center;
 }
-.head_inner .head_link li {
-  float: left;
-}
-.head_inner .head_link li+li {
-  margin-left: 40px;
-}
-.head_inner .head_link li a {
+.head_inner .head_link a {
   display: inline-block;
   font-size: 20px;
+  margin: 0 2%;
   font-weight: 700;
+  position: relative;
 }
-.head_inner .head_link li a:hover {
-  color: #b4b4b4;
+.head_inner .head_link a:before {
+	position:absolute;
+	background: #944d03;
+	width: 0;
+	height: 3px;
+	content:"";
+	z-index:2;
+  top: 100%;
+	left: 0;
+	transition: all 0.5s !important;
+	-moz-transition: all 0.5s !important; /* Firefox */
+	-webkit-transition: all 0.5s !important; /* Chrome&Safari */
 }
-.head_inner .head_link li a.current {
-  color: #b4b4b4;
+.head_inner .head_link a:hover:before {
+	width: 100%;
+	transition: all 0.5s !important;
+	-moz-transition: all 0.5s !important; /* Firefox */
+	-webkit-transition: all 0.5s !important; /* Chrome&Safari */
 }
 
-#head.show{
+.fixed_head {
   position: fixed;
-  left: 0;
   top: 0;
-  z-index: 3;
+  left: 0;
+  transform: translateY(-100%);
+  width: 100%;
+  transition: all .5s ease;
+  z-index: 8;
+  background: #fff;
 }
+.fixed_head.show{
+  transform: translateY(0);
+}
+
 @media screen and (max-width: 1080px) {
 .head_inner .head_logo {
   width: 55%;
@@ -334,7 +353,7 @@ html,  html body {
   color: #fff;
   font-weight: 700;
   padding: 25px 0;
-  background: #f49a19;
+  background: #944d03;
 }
 .menu_btn li+li a {
   background: #666;
@@ -382,7 +401,7 @@ html,  html body {
   padding-right: 60px;
   font-size: 100px;
   right: 0;
-  bottom: 0;
+  bottom: -1px;
   z-index: 3;
 }
 @media screen and (max-width: 1080px) {
@@ -406,12 +425,12 @@ html,  html body {
 /* !main-contents
 ---------------------------------------------------------- */
 #contents {
-  padding: 110px 0 150px;
+  padding: 160px 0 150px;
 }
 
 @media screen and (max-width: 768px) {
 #contents {
-  padding: 50px 0;
+  padding: 80px 0;
 }
 }
 
@@ -427,14 +446,11 @@ html,  html body {
   background: url(../images/common/img_footer.png) right center no-repeat;
   padding: 70px 0;
 }
-#footer .footer_link {
-  overflow: hidden;
-  padding-left: 40px;
+
+#footer .footer_link a {
+  display: inline-block;
 }
-#footer .footer_link li {
-  float: left;
-}
-#footer .footer_link li+li {
+#footer .footer_link a+a {
   margin-left: 30px;
 }
 #footer a {
@@ -444,7 +460,7 @@ html,  html body {
 
 .copyright {
   position: fixed;
-  top: 30%;
+  top: 50%;
   right: -150px;
   font-size: 12px;
   font-weight: 700;
@@ -460,12 +476,12 @@ html,  html body {
   position: inherit;
   top: inherit;
   right: inherit;
-  font-size: 12px;
+  font-size: 10px;
   font-weight: 700;
   z-index: 3;
   text-align: center;
-  background: #e9e9e9;
-  padding:20px 15px;
+  background: none;
+  padding:0;
 -webkit-transform: rotate(0);
 -moz-transform: rotate(0);
 -ms-transform: rotate(0);
@@ -477,18 +493,19 @@ html,  html body {
 #footer .footer_inner {
   max-width: 1280px;
   margin: 0 auto;
-  background: url(../images/common/img_footer.png) right 15px bottom no-repeat;
-  padding: 30px 15px 0;
+  background: url(../images/common/img_footer.png) right bottom 5px no-repeat;
+  padding: 60px 10% 15px;
 }
 #footer .footer_link {
-  overflow: hidden;
-  padding-left: 0;
+  text-align: center;
+  margin-bottom: 40px;
 }
-#footer .footer_link li {
-  float: none;
+#footer .footer_link a+a {
+  margin-left: 0;
 }
-#footer .footer_link li+li {
-  margin: 10px 0 0;
+#footer .footer_link a {
+  display: inline-block;
+  padding: 5px 10px;
 }
 #footer a {
   font-size: 14px;
@@ -515,10 +532,10 @@ html,  html body {
   color: #fff;
   font-weight: 700;
   font-size: 12px;
-  background: #f49a19;
+  background: #944d03;
 }
 .page_fixed li+li a {
-  background: #666;
+  background: #adadad;
 }
 
 @media screen and (max-width: 1080px) {
@@ -534,7 +551,7 @@ html,  html body {
 ---------------------------------------------------------- */
 .page_title {
   font-size: 20px;
-  color: #808080;
+  color: #adadad;
   font-weight: 500;
   padding-left: 85px;
   position: relative;
@@ -542,7 +559,7 @@ html,  html body {
 .page_title:before {
   position: absolute;
   content: "";
-  background: #999;
+  background: #adadad;
   width: 60px;
   height: 2px;
   left: 0;
@@ -565,8 +582,8 @@ html,  html body {
 /* !btn
 ---------------------------------------------------------- */
 .common_btn a {
-  border: 2px #f49a19 solid;
-  background: #f49a19;
+  border: 2px #944d03 solid;
+  background: #944d03;
   padding: 15px 40px 15px 20px;
   color: #fff;
   font-size: 16px;
@@ -603,13 +620,11 @@ html,  html body {
 	transition-timing-function: ease-out;
 }
 .common_btn a:hover, .common_btn a:focus, .common_btn a:active {
-	color: #f49a19;
+	color: #944d03;
 }
 .common_btn a:hover:before, .common_btn a:focus:before, .common_btn a:active:before {
 	-webkit-transform: scaleX(1);
 	transform: scaleX(1);
-	-webkit-transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
-	transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
 }
 .common_btn a:after {
   position: absolute;
@@ -627,15 +642,17 @@ html,  html body {
 }
 @media screen and (max-width: 768px) {
 .common_btn a {
-  border: 2px #f49a19 solid;
-  background: #f49a19;
+  border: 2px #944d03 solid;
+  background: #944d03;
   padding: 10px 30px 10px 10px;
   color: #fff;
   font-size: 14px;
 }
 }
 
-
+.padd_bottom_zero {
+  padding-bottom: 0 !important;
+}
 
 
 @media screen and (max-width: 1080px) {
