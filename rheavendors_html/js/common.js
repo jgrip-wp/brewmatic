@@ -121,7 +121,7 @@ var common = (function(){
     new WOW().init();
 
   	var isMobile = false;
-	var breakpoint = 1080;
+	var breakpoint = 1;
 	updateIsMobile();
 
 	$(window).on('resize load', function () {
