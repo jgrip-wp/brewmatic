@@ -43,7 +43,7 @@
                <li><a href="conditions.php">コーディネイトモデル</a></li>
              </ul>
             <!-- /common_bnr -->
-            <p class="page_title_detail wow fadeIn">ドリップコーヒーマシンとエスプレッソマシン、<br>各消費量からぴったりのコーヒーマシンを選ぶことができます。</p>
+            <p class="page_title_detail wow fadeIn">ドリップコーヒーマシンとエスプレッソマシン、<br class="visiblepc">各消費量からぴったりのコーヒーマシンを選ぶことができます。</p>
             <div class="consump_seciton">
               <div class="consump_overflow">
                 <ul class="consump_overflow_det">

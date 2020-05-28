@@ -34,11 +34,11 @@
         <div class="contents_main js-showhead">
           <div class="inner">
             <h2 class="page_title wow fadeIn"><span class="page_title_en fonten"> Sustainability</span> サステナビリティ</h2>
-            <p class="page_title_detail wow fadeIn">地球環境、地域社会、人々の豊かな暮らしが調和する<br>持続可能な社会の実現を目指しています。</p>
+            <p class="page_title_detail wow fadeIn">地球環境、地域社会、人々の豊かな暮らしが調和する<br class="visiblepc">持続可能な社会の実現を目指しています。</p>
             <div class="contents_main_box">
               <div class="sustain_content">
                 <p class="sustain_txt sustain_cont_up wow fadeIn">コーヒービジネスのバリューチェーンは、コーヒ豆の生産から流通、焙煎、販売、飲食店、そしてコーヒーマシンをはじめとする関連機器など多岐にわたり、多くの人や会社が関わっています。そして、気候変動や地球環境にも負荷を与えています。<br>ブルーマチックジャパンは、世界をつなぐコーヒービジネスの一翼を担う企業として、私たちの日々のビジネス活動が世界つながっていることを認識し、気候変動による環境問題や、コーヒーマシンの製造から輸入、販売にいたるまであらゆる工程の労働環境など、コーヒービジネスの背景にある社会課題にも向き合っていく責任があると考えています。私たちは、コーヒーマシンの品質はもちろん、ともにサステナブルな社会を目指す取引先とともに、環境負荷低減、従業員の働きやすさ向上など、地球と地域社会、人々と調和する事業活動に努めています。</p>
-                <h3 class="page_title_mid wow fadeIn">持続可能な調達<br>サステナビリティに配慮した一流メーカーによる製造</h3>
+                <h3 class="page_title_mid wow fadeIn">持続可能な調達<br>サステナビリティに配慮した<br class="visiblets">一流メーカーによる製造</h3>
                 <p class="sustain_comment wow fadeIn">ブルーマチックの取り扱うコーヒーマシンのほとんどが、サステナビリティ先進国である欧州、アメリカの一流メーカーによる製造であり、サステナビリティにおいても、高いレベルでの取り組みを実施しています。設計から、部品の調達、出荷にいたるまであらゆるプロセスで環境負荷削減や働く人の安全に配慮し、一部工場では、地域に開かれた保育所を用意するなど、地域社会との共生においても、積極的に取り組んでいます。<br>また、年に数回はブルーマチックジャパン社員が現地工場を訪問し、現場でのインタビュー、および視察を実施し、問題がないか確認しています。</p>
                 <div class="box_yellow wow fadeIn">
                   <div class="sustain_purchase">

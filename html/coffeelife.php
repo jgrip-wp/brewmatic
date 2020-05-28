@@ -67,10 +67,10 @@
                     <div class="carimali_list_box">
                       <p class="carimali_list_tit hlg01"><span class="fonten">KFC</span> ケンタッキーフライドチキン</p>
                       <p class="carimali_list_txt hlg02">チキンはもちろんコーヒーも本格派。ブッフェスタイルの店舗ではカリマリのハーモニーをお使いいただいています。</p>
-                      <p class="carimali_list_img hlg03"><a href="#"><img src="./images/carimali/img_carimali.jpg" alt="KFC ケンタッキーフライドチキン"></a></p>
+                      <p class="carimali_list_img hlg03"><a href="#"><img src="./images/carimali/img_carimali2.jpg" alt="KFC ケンタッキーフライドチキン"></a></p>
                     </div>
                   </li>
-                  <li class="wow fadeIn">
+                  <!-- <li class="wow fadeIn">
                     <div class="carimali_list_box">
                       <p class="carimali_list_tit hlg01"><span class="fonten">KEY’S CAFÉ -CLASSE-</span></p>
                       <p class="carimali_list_txt hlg02">キーコーヒー厳選の豆をカリマリのハーモニーで抽出。オフィスを行き交う人々に美味しいひと時をお届けしています。</p>
@@ -97,9 +97,9 @@
                       <p class="carimali_list_txt hlg02">キーコーヒー厳選の豆をカリマリのハーモニーで抽出。オフィスを行き交う人々に美味しいひと時をお届けしています。</p>
                       <p class="carimali_list_img hlg03"><a href="#"><img src="./images/carimali/img_carimali.jpg" alt="KEY’S CAFÉ -CLASSE-"></a></p>
                     </div>
-                  </li>
+                  </li> -->
                 </ul>
-                <p class="carimali_nextpage wow fadeIn"><a href="#"><span>次のページ</span></a></p>
+                <!-- <p class="carimali_nextpage wow fadeIn"><a href="#"><span>次のページ</span></a></p> -->
               </div>
               <!-- /carimali_cont -->
             </div>

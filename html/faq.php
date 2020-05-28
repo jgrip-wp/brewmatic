@@ -37,7 +37,7 @@
         <div class="contents_main js-showhead">
           <div class="inner">
             <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">FAQ</span>よくあるご質問</h2>
-            <p class="page_title_detail wow fadeIn">製品のメンテナンス方法など、<br>よくお問い合わせいただく内容を掲載しています。</p>
+            <p class="page_title_detail wow fadeIn">製品のメンテナンス方法など、<br class="visiblepc">よくお問い合わせいただく内容を掲載しています。</p>
           </div>
           <div class="faq_search">
             <div class="inner">

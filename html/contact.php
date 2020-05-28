@@ -34,7 +34,7 @@
         <div class="contents_main js-showhead">
           <div class="inner">
             <h2 class="page_title"><span class="page_title_en fonten">Contact</span>お問い合わせ</h2>
-            <p class="page_title_detail">ブルーマチックジャパン、商品・サービスに対する<br>ご意見、ご質問はお問い合わせフォームに入力ください。</p>
+            <p class="page_title_detail">ブルーマチックジャパン、商品・サービスに対する<br class="visiblepc">ご意見、ご質問はお問い合わせフォームに入力ください。</p>
             <div class="contents_main_box">
               <div class="common_brand_list">
                 <img src="./images/common/logo_brand01.jpg" alt="BREW MATIC">

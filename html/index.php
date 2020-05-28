@@ -160,7 +160,7 @@
               </div>
             </div>
           </div>
-          <p class="top_links"><a href="#">記事一覧へ</a></p>
+          <p class="top_links op"><a href="#">記事一覧へ</a></p>
        </div>
        <!-- /top_brand -->
        

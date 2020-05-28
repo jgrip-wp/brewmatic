@@ -38,7 +38,7 @@
           <div class="inner">
             <h2 class="page_title wow fadeIn"><span class="page_title_en fonten">About us</span>ブルーマチックジャパンについて</h2>
              <ul class="common_bnr wow fadeIn">
-               <li><a href="./aboutus.php" class="active">ブルーマチックジャパンについて</a></li>
+               <li><a href="./about.php" class="active">ブルーマチックジャパンについて</a></li>
                <li><a href="./policy.php">経営理念</a></li>
                <li><a href="./ceo.php">トップメッセージ</a></li>
              </ul>
