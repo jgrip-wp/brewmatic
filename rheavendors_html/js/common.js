@@ -184,6 +184,14 @@ var common = (function(){
 				
 			}
 		}
+    
+			for (var idx = 0; idx < ides.length; idx++) {
+				var id = '.' + ides[idx];
+				
+				if ($(id).length == 1)
+					$(id).addClass('current');
+				
+			}
 			
 	}
 

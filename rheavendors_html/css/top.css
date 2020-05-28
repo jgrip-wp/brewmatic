@@ -186,7 +186,7 @@
 .top_box .top_box_tit {
   font-size: 40px;
   transform: translateY(-100%);
-  margin-bottom: 0;
+  margin: 0 -2px -2px 0;
 }
   .top_box .top_box_tit.top_box_tit_half {
     transform: translateY(-50%);
@@ -280,7 +280,7 @@
 }
 .top_life_link a {
   display: inline-block;
-  background: url(../images/top/blank_top.png) right center no-repeat;
+  background: url(../images/top/blank_top.png) right 1px center no-repeat;
   padding-right: 20px;
   color: #944d03;
   text-decoration: underline;
