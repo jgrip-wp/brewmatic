@@ -62,7 +62,7 @@
                       <div class="rheaven_consult">
                         <div class="rheaven_consult_in hlg03">
                           <p class="column_box_price fonten"><span>参考上代：</span><b class="remove">¥00,000<span>(税込み)</span></b></p>
-                          <p class="rheaven_consult_txt">テキストテキストテキスト</p>
+                          <p class="rheaven_consult_txt"> ※販売価格はお問い合わせください</p>
                         </div>
                       </div>
                       <p class="column_box_txt hlg04">コーヒー・ラテ・モカ・ココア・抹茶ラテまで、多彩なメニューが抽出できる、ハイパフォーマンスエスプレッソマシンです。</p>
