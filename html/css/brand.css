@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 .brand_detail {
-  padding: 10px 0 80px;
+  padding: 0 0 80px;
 }
 
 .brand_intro {
@@ -45,7 +45,7 @@
 
 @media screen and (max-width: 768px) {
 .brand_detail {
-  padding: 10px 0 30px;
+  padding: 0 0 30px;
 }
 
 .brand_intro {

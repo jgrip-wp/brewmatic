@@ -85,7 +85,7 @@
                     </tr>
                     <tr>
                       <th>フィルター 330</th>
-                      <td>φ33cm</td>
+                      <td>φ32.4cm</td>
                       <td>500枚/箱</td>
                       <td>BREAMATIC：C-22、C-22 Thermo Brewer<br>Curtis: G4 Gemini IF、G4 Thermo Pro 1G</td>
                     </tr>

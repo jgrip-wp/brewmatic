@@ -107,6 +107,22 @@
                 </li>
                 <li>
                   <div class="column_box">
+                    <p class="column_box_img"><span class="hlg01"><img src="./images/others/img_others12.png" alt="3M P165-J"></span></p>
+                    <p class="column_box_det hlg02">3M P165-J</p>
+                    <p class="column_box_txt hlg03">エスプレッソの味を引き立てる軟水フィルター。</p>
+                    <p class="common_btn"><a href="#">詳しく見る</a></p>
+                  </div>
+                </li>
+                <li>
+                  <div class="column_box">
+                    <p class="column_box_img"><span class="hlg01"><img src="./images/others/img_others13.png" alt="MC-265"></span></p>
+                    <p class="column_box_det hlg02">MC-265</p>
+                    <p class="column_box_txt hlg03">スタイリッシュなデザインのミルククーラー。</p>
+                    <p class="common_btn"><a href="#">詳しく見る</a></p>
+                  </div>
+                </li>
+                <li>
+                  <div class="column_box">
                     <p class="column_box_img"><span class="hlg01"><img src="./images/others/img_others09.png" alt="フィルターパウチクリーナー"></span></p>
                     <p class="column_box_det hlg02">フィルターパウチクリーナー</p>
                     <p class="column_box_txt hlg03">コーヒーを最高のクオリティにするために。</p>
@@ -126,22 +142,6 @@
                     <p class="column_box_img"><span class="hlg01"><img src="./images/others/img_others11.png" alt="コーヒーマシンクリーナー"></span></p>
                     <p class="column_box_det hlg02">コーヒーマシンクリーナー</p>
                     <p class="column_box_txt hlg03">全自動エスプレッソマシンの専用洗剤。</p>
-                    <p class="common_btn"><a href="#">詳しく見る</a></p>
-                  </div>
-                </li>
-                <li>
-                  <div class="column_box">
-                    <p class="column_box_img"><span class="hlg01"><img src="./images/others/img_others12.png" alt="3M P165-J"></span></p>
-                    <p class="column_box_det hlg02">3M P165-J</p>
-                    <p class="column_box_txt hlg03">エスプレッソの味を引き立てる軟水フィルター。</p>
-                    <p class="common_btn"><a href="#">詳しく見る</a></p>
-                  </div>
-                </li>
-                <li>
-                  <div class="column_box">
-                    <p class="column_box_img"><span class="hlg01"><img src="./images/others/img_others13.png" alt="MC-265"></span></p>
-                    <p class="column_box_det hlg02">MC-265</p>
-                    <p class="column_box_txt hlg03">スタイリッシュなデザインのミルククーラー。</p>
                     <p class="common_btn"><a href="#">詳しく見る</a></p>
                   </div>
                 </li>
