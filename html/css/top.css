@@ -313,6 +313,7 @@
 }
 .top_facebook {
   float: right;
+  max-width: 330px;
   margin-left: 35px;
 }
 .top_news_tit {
@@ -337,7 +338,7 @@
 }
 .top_facebook {
   float: none;
-  margin: 0 0 30px;
+	margin: 0 auto 30px;
 }
 .top_news_tit {
   font-size: 18px;

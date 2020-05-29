@@ -151,7 +151,7 @@
   margin-top: 15px;
 }
 .rheaven_det_bnr img {
-	max-width: 70%;
+	max-width: 60%;
 }
 
 @media screen and (max-width: 768px) {
@@ -251,6 +251,39 @@
   text-align: center;
 	color: #7b7b7b;
 	line-height: 1.2;
+}
+
+.trader_note {
+	border-bottom: 1px #8d8d8d solid;
+	padding-bottom: 3px;margin-left: 10px;
+}
+.trader_box {
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 1.2;
+}
+.trader_box .trader_box_remove {
+	font-size: 12px;
+	position: relative;
+}
+.trader_box .trader_box_remove:before {
+	position: absolute;
+	content: "";
+	background: #1c1c1c;
+	height: 1px;
+	width: 100%;
+	left: 0;
+	top: 50%;
+	z-index: 2;
+}
+.trader_box .trader_box_remove b {
+	font-weight: 400;
+	font-size: 25px;
+	line-height: 1;
+}
+.trader_box .trader_character {
+	font-size: 18px;
+	font-weight: 400;
 }
 
 
