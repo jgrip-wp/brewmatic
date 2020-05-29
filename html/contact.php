@@ -71,7 +71,7 @@
                         </td>
                       </tr>
                       <tr>
-                        <th>お役職</th>
+                        <th>役職</th>
                         <td>
                           <input type="text" class="form_input" name="parm[position]">
                         </td>

@@ -31,10 +31,10 @@
 
     <article>
       <div id="contents">
-        <p id="breadcrumb" class="op"><a href="./" class="home fonten">Top</a> > ショールームのご予約</p>
+        <p id="breadcrumb" class="op"><a href="./" class="home fonten">Top</a> > ショールームのご案内</p>
         <div class="contents_main js-showhead">
           <div class="inner">
-            <h2 class="page_title"><span class="page_title_en fonten">Showroom</span>ショールームのご予約</h2>
+            <h2 class="page_title"><span class="page_title_en fonten">Showroom</span>ショールームのご案内</h2>
             <p class="page_title_detail">各種マシンを体感いただけるショールームを展開。<br>業態や提供スタイル、コンセプトに合わせた最適なマシンをご提案します。</p>
             <div class="contents_main_box">
               <div class="showroom_content">
@@ -81,7 +81,7 @@
                     <dd>
                       <p class="showroom_item_tel fonten">045-947-0801<span>10:00～17:00（土日祝日除く）</span></p>
                       <p class="showroom_item_txt">〒224-0041</p>
-                      <p class="showroom_item_address">横浜市都筑区仲町台5-4-22</p>
+                      <p class="showroom_item_address">神奈川県横浜市都筑区仲町台5-4-22</p>
                       <p class="showroom_item_btn"><a href="https://goo.gl/maps/a4Vq154FJNvVgRgG9" target="_blank" class="fonten">Google Map</a></p>
                     </dd>
                   </dl>

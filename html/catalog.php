@@ -37,7 +37,7 @@
             <p class="page_title_detail">取り扱いマシンを紹介した総合カタログをご用意しています。</p>
             <div class="contents_main_box">
               <div class="catalog_content">
-                <p class="catalog_comment op">総合カタログのPDFは<a href="#">こちらからダウンロード</a>していただけます。<br>印刷したカタログが必要な方は、下記のお問合せフォームよりご連絡ください。<br>お客様の個人情報は厳重に取扱いお問い合わせに対応させていただくための目的のみに利用致します。<br>ご注意：※は必須項目です。</p>
+                <p class="catalog_comment op">総合カタログのPDFは<a href="#">こちらからダウンロード</a>していただけます。<br>印刷したカタログが必要な方は、下記のお問合せフォームよりご連絡ください。<br>お客様の個人情報は厳重に取り扱いお問い合わせに対応させていただく目的のみに利用致します。<br>ご注意：<span>※</span>は必須項目です。</p>
                 <div class="common_form">
                   <form action="">
                     <table>
@@ -60,7 +60,7 @@
                         </td>
                       </tr>
                       <tr>
-                        <th>お役職</th>
+                        <th>役職</th>
                         <td>
                           <input type="text" class="form_input" name="parm[position]">
                         </td>
