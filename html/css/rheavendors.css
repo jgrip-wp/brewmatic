@@ -150,6 +150,9 @@
 .rheaven_det_bnr {
   margin-top: 15px;
 }
+.rheaven_det_bnr img {
+	max-width: 70%;
+}
 
 @media screen and (max-width: 768px) {
 .rheaven_det_box {
@@ -212,6 +215,42 @@
   width: 40%;
   padding-right: 20px;
 }
+}
+
+.rheaven_consult {
+  display: table;
+  width: 100%;
+	margin-top: 10px;
+}
+.rheaven_consult .column_box_price {
+	margin-top: 0;
+}
+.rheaven_consult_in {
+  display: table-cell;
+  vertical-align: middle;
+  width: 100%;
+  text-align: center;
+}
+.rheaven_consult b {
+  position: relative;
+  font-weight: normal;
+  display: inline-block;
+}
+.rheaven_consult b.remove:before {
+  position: absolute;
+  content: "";
+  background: #7b7b7b;
+  width: 100%;
+  height: 1px;
+  left: 0;
+  top: 45%;
+  z-index: 2;
+}
+.rheaven_consult_txt {
+  font-size: 12px;
+  text-align: center;
+	color: #7b7b7b;
+	line-height: 1.2;
 }
 
 

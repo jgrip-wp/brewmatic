@@ -52,7 +52,7 @@
                 <!-- /common_brand_list -->
                 <div class="showroom_gallery clearfix">
                   <div class="showroom_gallery_main">
-                    <img src="./images/showroom/img_showroom01.jpg" alt="写真" id="js-gallery-main">
+                    <img src="./images/showroom/img_showroom01_l.jpg" alt="写真" id="js-gallery-main">
                   </div>
                   <div class="showroom_gallery_group">
                     <div class="gallery_img_item current" data-src="./images/showroom/img_showroom01_l.jpg">
@@ -69,6 +69,9 @@
                     </div>
                     <div class="gallery_img_item" data-src="./images/showroom/img_showroom05_l.jpg">
                       <img src="./images/showroom/img_showroom05.jpg" alt="写真">
+                    </div>
+                    <div class="gallery_img_item" data-src="./images/showroom/img_showroom06_l.jpg">
+                      <img src="./images/showroom/img_showroom06.jpg" alt="写真">
                     </div>
                   </div>
                 </div>
