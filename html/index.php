@@ -167,7 +167,9 @@
        <div class="top_news">
          <div class="inner">
            <div class="clearfix">
-             <p class="top_facebook wow fadeIn"><img src="./images/top/dummy_facebook.png" alt=""></p>
+             <div class="top_facebook wow fadeIn">
+               <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FBrewmatic.japan&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="100%" height="360" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+             </div>
              <div class="ftbox wow fadeIn">
                <p class="top_news_tit fonten">What’s New</p>
                <ul class="top_news_list op">

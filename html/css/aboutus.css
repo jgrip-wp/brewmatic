@@ -267,3 +267,9 @@
 
 }
 
+
+.link_pdf {
+	background: url(../images/aboutus/ico_pdf.png) right center no-repeat;
+	padding-right: 25px;
+}
+

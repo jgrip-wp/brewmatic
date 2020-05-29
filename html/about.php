@@ -55,7 +55,7 @@
                   <ul class="aboutus_place_link">
                     <li><p class="aboutus_place_btn"><a href="#history" class="scroll"><span>沿革を詳しく見る</span></a></p></li>
                     <li><p class="aboutus_link_right op"><a href="#">動画を見る</a></p></li>
-                    <li><p class="aboutus_link_right op"><a href="#">ブランドストーリー</a></p></li>
+                    <li><p class="aboutus_link_right op"><a href="#" class="link_pdf">ブランドストーリー</a></p></li>
                   </ul>
                 </div>
               </div>
@@ -72,7 +72,10 @@
                     </tr>
                     <tr>
                       <th>住所</th>
-                      <td>〒224-0041 神奈川県横浜市都筑区仲町台5-4-22<br>TEL：045-947-0800（代表）　FAX：045-947-0803</td>
+                      <td>
+                        <p>〒224-0041 神奈川県横浜市都筑区仲町台5-4-22<br>TEL：045-947-0800（代表）　FAX：045-947-0803</p>
+                        <p class="aboutus_company_map fonten"><a href="https://goo.gl/maps/w91wD35Kir6RRtaa7" target="_blank">Google Map</a></p>
+                      </td>
                     </tr>
                     <tr>
                       <th>代表取締役社長</th>
