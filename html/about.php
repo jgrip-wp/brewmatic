@@ -156,7 +156,7 @@
                       </tr>
                       <tr>
                         <td><p class="aboutus_history_txt">1986年　イタリア・ミラノ発、エスプレッソマシンブランド「CARIMALI（カリマリ）」と取引開始。ドリップコーヒーが主流だった日本の市場にエスプレッソマシンをいち早く紹介。</p></td>
-                        <td class="whalf"><p class="aboutus_history_txt">1980年代後半<br>「イタめし」・ティラミスブーム</p></td>
+                        <td class="whalf"><p class="aboutus_history_txt">1980年代後半<br>「イタめし」・ティラミスブーム。</p></td>
                       </tr>
                       <tr>
                         <td><p class="aboutus_history_txt">1989年　東京営業所設立。</p></td>
@@ -168,7 +168,7 @@
                       </tr>
                       <tr>
                         <td><p class="aboutus_history_txt">2006年　スイス発、全自動コーヒーマシンブランド「JURA（ユーラ）」と取引開始。</p></td>
-                        <td class="whalf" rowspan="2"><p class="aboutus_history_txt">2000年代<br>コンビニエンスストアの店頭で淹れたてのコーヒーを提供する新市場「コンビニコーヒー」に各社が参入。コーヒーの品質、価値を見直す動きがファーストフード、ファミリーレストランにも広がる。</p></td>
+                        <td class="whalf"><p class="aboutus_history_txt">2010年頃<br>サードウェーブが本格化。スペシャルティコーヒーがブームに。</p></td>
                       </tr>
                       <tr>
                         <td><p class="aboutus_history_txt">2010年　アメリカ・ロスアンゼルス発、ドリップコーヒーマシンブランド「Curtis（カーチス）」と取引開始。</p></td>
@@ -187,7 +187,7 @@
                       </tr>
                       <tr>
                         <td><p class="aboutus_history_txt">大手コンビニエンスストアにCARIMALIのマシンを導入。<br>24時間365日、品質の安定したコーヒーをシンプルなオペレーションで提供するビジネスモデルの構築に貢献。</p></td>
-                        <td class="whalf"><p class="aboutus_history_txt">2010年代<br>サードウェーブが本格化。スペシャルティコーヒーがブームに。</p></td>
+                        <td class="whalf" rowspan="2"><p class="aboutus_history_txt">2011年〜<br>コンビニエンスストアの店頭で淹れたてのコーヒーを提供する新市場「コンビニコーヒー」に各社が参入。コーヒーの品質、価値を見直す動きがファーストフード、ファミリーレストランにも広がる。</p></td>
                       </tr>
                     </table>
                   </div>
@@ -204,7 +204,7 @@
                       <tr>
                         <td>
                           <p class="aboutus_history_txt">2013年　アメリカ・シアトル発、グラインダーブランド「BARATZA（バラッツァ）」と取引開始。</p>
-                          <p class="aboutus_history_txt">2014年　イタリア発、ベンディングマシンブランド「rheavendors（リアベンドーズ）と取引開始。<br>ファーマーブラザーズ社より「BREWMATIC」の日本国内における商標を譲渡。<br>福岡営業所設立</p>
+                          <p class="aboutus_history_txt">2014年　イタリア発、ベンディングマシンブランド「rheavendors（リアベンドーズ）と取引開始。<br>ファーマーブラザーズ社より「BREWMATIC」の日本国内における商標を譲渡。<br><br>福岡営業所設立。</p>
                           <p class="aboutus_history_txt">2019年　イタリア発、ハイエンドのエスプレッソマシンブランド「SANREMO（サンレモ）」と取引開始。</p>
                         </td>
                         <td class="whalf">&nbsp;</td>
