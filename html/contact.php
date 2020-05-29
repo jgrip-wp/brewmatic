@@ -34,7 +34,7 @@
         <div class="contents_main js-showhead">
           <div class="inner">
             <h2 class="page_title"><span class="page_title_en fonten">Contact</span>お問い合わせ</h2>
-            <p class="page_title_detail">ブルーマチックジャパン、商品・サービスに対する<br class="visiblepc">ご意見、ご質問はお問い合わせフォームに入力ください。</p>
+            <p class="page_title_detail">ブルーマチックジャパン、商品・サービスに関する<br class="visiblepc">ご意見、ご質問はお問い合わせフォームに入力ください。</p>
             <div class="contents_main_box">
               <div class="common_brand_list">
                 <img src="./images/common/logo_brand01.jpg" alt="BREW MATIC">
@@ -48,7 +48,7 @@
               </div>
               <!-- /common_brand_list -->
               <div class="contact_content">
-                <p class="contact_comment op">よくお問い合わせいただく内容をまとめた「<a href="#">よくあるご質問</a>」もご用意しています。<br>お客様の個人情報、お寄せいただいた相談内容は厳重に取扱いお問い合わせに対応させていただくための目的のみに利用いたします。<br>ご注意：※は必須項目です。</p>
+                <p class="contact_comment op">よくお問い合わせいただく内容をまとめた「<a href="#">よくあるご質問</a>」もご用意しています。<br>お客様の個人情報、お寄せいただいた相談内容は厳重に取り扱いお問い合わせに対応させていただく目的のみに利用いたします。<br>ご注意：<span>※</span>は必須項目です。</p>
                 <div class="common_form">
                   <form action="">
                     <table>
