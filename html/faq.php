@@ -97,17 +97,6 @@
                   </dl>
                 </div>
               </div>
-              <!-- /faq_section -->
-              <div class="faq_section">
-                <p class="faq_cont_tit">XXXXについて</p>
-                <div class="js-qa">
-                  <dl>
-                    <dt><span class="qa_q fonten">Q</span>テキストテキストテキストテキスト</dt>
-                    <dd><span class="qa_a fonten">A</span>テキストテキストテキストテキスト</dd>
-                  </dl>
-                </div>
-              </div>
-              <!-- /faq_section -->
             </div>
           </div>
         </div>
