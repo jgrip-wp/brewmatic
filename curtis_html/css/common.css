@@ -17,12 +17,12 @@ header, footer, nav, section, aside, article {
 /* !Reseting
 ---------------------------------------------------------- */
 body {
-  font-family: "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN W3", "Hiragino Sans", "ヒラギノ角ゴシック", sans-serif;
+  font-family: 'Noto Sans JP', sans-serif;
   font-size: 15px;
   -webkit-text-size-adjust: none;
   line-height: 1.8;
   color: #333;
-  font-weight: 500;
+  font-weight: 400;
 }
 body, div, pre, p, blockquote, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, form, fieldset, th, td, a,input {
   margin: 0;

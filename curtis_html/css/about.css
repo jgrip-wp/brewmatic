@@ -66,12 +66,14 @@
 }
 .about_quality_tit .about_quality_cap {
   font-size: 14px;
+  font-weight: 500;
   display: block;
 }
 .about_quality_tit .about_quality_fllow {
   font-size: 14px;
   display: inline-block;
   vertical-align: middle;
+  font-weight: 500;
 }
 @media screen and (max-width: 768px) {
 .about_quality .page_tit {
