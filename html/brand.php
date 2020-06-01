@@ -42,66 +42,66 @@
               <p class="brand_detail">ドリップコーヒー、エスプレッソ、全自動コーヒーマシン、セミオートなど多様なラインナップを展開しています。<br>業態や提供スタイル、店舗の環境、コンセプトに合わせたマシンの選定、トータルなコーディネイトもお任せください。</p>
               <ul class="brand_list">
                 <li>
-                  <div class="brand_box hlg01">
-                    <p class="brand_box_img hlg02"><img src="./images/brand/img_brand01.jpg" alt="ブルーマチック"></p>
-                    <p class="brand_box_tit">ブルーマチック</p>
-                    <p class="brand_box_txt">米国ファーマーブラザーズから譲渡を受け、ブルーマチックジャパンが日本国内の商標を取得。90年の歴史が証明する永遠のスタンダード。</p>
+                  <div class="brand_box">
+                    <p class="brand_box_img"><img src="./images/brand/img_brand01.jpg" alt="ブルーマチック"></p>
+                    <p class="brand_box_tit hlg01">ブルーマチック</p>
+                    <p class="brand_box_txt hlg02">米国ファーマーブラザーズから譲渡を受け、ブルーマチックジャパンが日本国内の商標を取得。90年の歴史が証明する永遠のスタンダード。</p>
                   </div>
                 </li>
                 <li>
-                  <div class="brand_box hlg01">
-                    <p class="brand_box_img hlg02"><img src="./images/brand/img_brand02.jpg" alt="カーチス"></p>
-                    <p class="brand_box_tit">カーチス</p>
-                    <p class="brand_box_txt">一度に大量抽出できるパワフルなパフォーマンスで、ダイナー、ホテル、レストランなど、アメリカのコーヒー文化を支えてきた名門ブランド。</p>
+                  <div class="brand_box">
+                    <p class="brand_box_img"><img src="./images/brand/img_brand02.jpg" alt="カーチス"></p>
+                    <p class="brand_box_tit hlg01">カーチス</p>
+                    <p class="brand_box_txt hlg02">一度に大量抽出できるパワフルなパフォーマンスで、ダイナー、ホテル、レストランなど、アメリカのコーヒー文化を支えてきた名門ブランド。</p>
                   </div>
                 </li>
                 <li>
-                  <div class="brand_box hlg01">
-                    <p class="brand_box_img hlg02"><img src="./images/brand/img_brand03.jpg" alt="カリマリ"></p>
-                    <p class="brand_box_tit">カリマリ</p>
-                    <p class="brand_box_txt">イタリアが誇るコーヒー文化のアンバサダーとして、全自動コーヒーマシンのパイオニアとして、コーヒーとともにある幸福な時間を世界中へ。</p>
+                  <div class="brand_box">
+                    <p class="brand_box_img"><img src="./images/brand/img_brand03.jpg" alt="カリマリ"></p>
+                    <p class="brand_box_tit hlg01">カリマリ</p>
+                    <p class="brand_box_txt hlg02">イタリアが誇るコーヒー文化のアンバサダーとして、全自動コーヒーマシンのパイオニアとして、コーヒーとともにある幸福な時間を世界中へ。</p>
                   </div>
                 </li>
                 <li>
-                  <div class="brand_box hlg01">
-                    <p class="brand_box_img hlg02"><img src="./images/brand/img_brand04.jpg" alt="ユーラ"></p>
-                    <p class="brand_box_tit">ユーラ</p>
-                    <p class="brand_box_txt">メイド・イン・スイスの美学。卓越した技術と細やかな感性、普遍的な美しさを極めた全自動コーヒーマシン。</p>
+                  <div class="brand_box">
+                    <p class="brand_box_img"><img src="./images/brand/img_brand04.jpg" alt="ユーラ"></p>
+                    <p class="brand_box_tit hlg01">ユーラ</p>
+                    <p class="brand_box_txt hlg02">メイド・イン・スイスの美学。卓越した技術と細やかな感性、普遍的な美しさを極めた全自動コーヒーマシン。</p>
                   </div>
                 </li>
                 <li>
-                  <div class="brand_box hlg01">
-                    <p class="brand_box_img hlg02"><img src="./images/brand/img_brand05.jpg" alt="リアベンドーズ"></p>
-                    <p class="brand_box_tit">リアベンドーズ</p>
-                    <p class="brand_box_txt">あらゆる空間と時間に、もっと自由なコーヒースタイルを。豊富な専用オプションを展開し、キャッシュレスにも対応。</p>
+                  <div class="brand_box">
+                    <p class="brand_box_img"><img src="./images/brand/img_brand05.jpg" alt="リアベンドーズ"></p>
+                    <p class="brand_box_tit hlg01">リアベンドーズ</p>
+                    <p class="brand_box_txt hlg02">あらゆる空間と時間に、もっと自由なコーヒースタイルを。豊富な専用オプションを展開し、キャッシュレスにも対応。</p>
                   </div>
                 </li>
                 <li>
-                  <div class="brand_box hlg01">
-                    <p class="brand_box_img hlg02"><img src="./images/brand/img_brand06.jpg" alt="サンレモ"></p>
-                    <p class="brand_box_tit">サンレモ</p>
-                    <p class="brand_box_txt">イタリア発エスプレッソマシンの革新者。伝統と最新技術がボーダレスに融合したハイエンドモデルをラインナップ。</p>
+                  <div class="brand_box">
+                    <p class="brand_box_img"><img src="./images/brand/img_brand06.jpg" alt="サンレモ"></p>
+                    <p class="brand_box_tit hlg01">サンレモ</p>
+                    <p class="brand_box_txt hlg02">イタリア発エスプレッソマシンの革新者。伝統と最新技術がボーダレスに融合したハイエンドモデルをラインナップ。</p>
                   </div>
                 </li>
                 <li>
-                  <div class="brand_box hlg01">
-                    <p class="brand_box_img hlg02"><img src="./images/brand/img_brand07.jpg" alt="バラッツア"></p>
-                    <p class="brand_box_tit">バラッツア</p>
-                    <p class="brand_box_txt">パーフェクトなコーヒーは、パーフェクトなグラインドから。アメリカ・シアトル発、グラインダーのプロフェッショナルブランド。</p>
+                  <div class="brand_box">
+                    <p class="brand_box_img"><img src="./images/brand/img_brand07.jpg" alt="バラッツア"></p>
+                    <p class="brand_box_tit hlg01">バラッツア</p>
+                    <p class="brand_box_txt hlg02">パーフェクトなコーヒーは、パーフェクトなグラインドから。アメリカ・シアトル発、グラインダーのプロフェッショナルブランド。</p>
                   </div>
                 </li>
                 <li>
-                  <div class="brand_box hlg01">
-                    <p class="brand_box_img hlg02"><img src="./images/brand/img_brand08.jpg" alt="ロックライン"></p>
-                    <p class="brand_box_tit">ロックライン</p>
-                    <p class="brand_box_txt">北米で最大のシェアを誇るコーヒーフィルターペーパー。</p>
+                  <div class="brand_box">
+                    <p class="brand_box_img"><img src="./images/brand/img_brand08.jpg" alt="ロックライン"></p>
+                    <p class="brand_box_tit hlg01">ロックライン</p>
+                    <p class="brand_box_txt hlg02">北米で最大のシェアを誇るコーヒーフィルターペーパー。</p>
                   </div>
                 </li>
                 <li>
-                  <div class="brand_box hlg01">
-                    <p class="brand_box_img hlg02"><img src="./images/brand/img_brand09.jpg" alt="その他の製品"></p>
-                    <p class="brand_box_tit">その他の製品</p>
-                    <p class="brand_box_txt">Nitroディスペンサー、デキャンタ、メンテナンス用品など、空間をトータルにコーディネイトする関連アイテム。</p>
+                  <div class="brand_box">
+                    <p class="brand_box_img"><img src="./images/brand/img_brand09.jpg" alt="その他の製品"></p>
+                    <p class="brand_box_tit hlg01">その他の製品</p>
+                    <p class="brand_box_txt hlg02">Nitroディスペンサー、デキャンタ、メンテナンス用品など、空間をトータルにコーディネイトする関連アイテム。</p>
                   </div>
                 </li>
               </ul>
