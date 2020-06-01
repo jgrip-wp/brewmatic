@@ -10,7 +10,7 @@
             </ul>
           </div>
 
-          <p class="js-navbar visiblets"></p>
+          <p class="js-navbar visiblets"><img src="./images/common/menu.png" alt=""></p>
         </div>
         <nav class="js-menu visiblets">
           <p class="js-close"></p>
