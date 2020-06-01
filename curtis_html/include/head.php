@@ -1,4 +1,5 @@
       <header>
+        <p class="head_logo_sp"><a href="./"><img src="./images/common/logo_header.png" alt="curtis"></a></p>
         <div id="head">
           <div class="head_box">
             <h1 class="head_logo op"><a href="./"><img src="./images/common/logo_header.png" alt="curtis"></a></h1>

@@ -272,6 +272,9 @@ html,  html body {
 .fixed_head .head_logo {
   align-self: center;
 }
+.head_logo_sp {
+	display: none;
+}
 @media screen and (max-width: 1080px) {
 #head {
   position: fixed;
@@ -289,7 +292,7 @@ html,  html body {
 }
 
 .head_box {
-  display: block;
+  display: none;
 }
 .head_navi {
   display: none;
@@ -297,9 +300,16 @@ html,  html body {
 .head_btn {
   display: none;
 }
-.head_logo {
-  width: 30%;
-  padding: 0 20px;
+.head_logo_sp {
+	display: block;
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  max-width: 20%;
+  z-index: 2;
+}
+.top_wrapper .head_logo_sp {
+  display: none;
 }
 }
 /* !js-navbar js-menu
@@ -378,8 +388,8 @@ html,  html body {
   position: absolute;
   width: 40px;
   height: 40px;
-  right: 15px;
-  top: -5px;
+  right: 0;
+  top: -20px;
   background: url(../images/common/menu.png) center no-repeat #000;
   background-size: 30px 30px;
   cursor: pointer;
@@ -503,7 +513,7 @@ html,  html body {
   margin-bottom: 40px;
   font-size: 18px;
   line-height: 1.6;
-  font-weight: 800;
+  font-weight: 900;
   position: relative;
 }
 .page_tit span {

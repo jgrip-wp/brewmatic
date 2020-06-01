@@ -62,32 +62,32 @@
           <div class="inner">
             <h3 class="page_tit line wow fadeIn"><span class="mb05">製品の特徴</span></h3>
             <div class="product_features wow fadeIn">
-              <p class="frimg"><img src="./images/product/img_product02.jpg" alt="対話するブルーワー"></p>
-              <div class="ftbox">
+              <div class="product_features_cont">
                 <h4 class="product_features_tit">対話するブルーワー</h4>
                 <p>Seraphim（セラフィム）は、最先端の技術を使用したブルーワーであることはもちろん、今までにないすばらしい魅せ方が可能なコーヒーマシン。<br>コーヒーマシンのウォーターヒーティングユニットはカウンター下に配置し、カウンター上で抽出されるコーヒーにスポットを当てています。お客さまにできるだけ近い位置で抽出シーンをアピールし、最高品質のコーヒーの魅力をお届けします。</p>
               </div>
+              <p class="product_features_img"><img src="./images/product/img_product02.jpg" alt="対話するブルーワー"></p>
             </div>
-            <div class="product_features wow fadeIn">
-              <p class="flimg"><img src="./images/product/img_product03.jpg" alt="スタンダードパッケージ"></p>
-              <div class="ftbox">
+            <div class="product_features product_reverse wow fadeIn">
+              <div class="product_features_cont">
                 <h4 class="product_features_tit">スタンダードパッケージ</h4>
                 <p>2つのブルーイングヘッド、ウォーターヒーティングユニット、G4 TFTタッチスクリーンコントローラー、ドリップトレイなど、抽出方法を選ぶことができ、組み合わせも自由自在。</p>
               </div>
+              <p class="product_features_img"><img src="./images/product/img_product03.jpg" alt="スタンダードパッケージ"></p>
             </div>
             <div class="product_features wow fadeIn">
-              <p class="frimg"><img src="./images/product/img_product04.png" alt="G4テクノロジー"></p>
-              <div class="ftbox">
+              <div class="product_features_cont">
                 <h4 class="product_features_tit">G4テクノロジー</h4>
                 <p>正確な温度と湯量のコントロールができ、特許取得しているシャワーヘッドからコーヒー粉へ均一に湯がけを行うから、理想的なコーヒーが抽出可能。おいしいコーヒーを、誰でも簡単に安定して何度もいれることができます。</p>
               </div>
+              <p class="product_features_img"><img src="./images/product/img_product04.png" alt="G4テクノロジー"></p>
             </div>
-            <div class="product_features wow fadeIn">
-              <p class="flimg"><img src="./images/product/img_product05.jpg" alt="感動の一杯"></p>
-              <div class="ftbox">
+            <div class="product_features product_reverse wow fadeIn">
+              <div class="product_features_cont">
                 <h4 class="product_features_tit">感動の一杯</h4>
                 <p>カフェのカウンターで、丁寧にコーヒーをいれる凛々しい姿。それを見ながらコーヒーを待つ幸福感。お客さまと対話しながら、抽出したての最高の香りと味を引き出す一杯を提供できます</p>
               </div>
+              <p class="product_features_img"><img src="./images/product/img_product05.jpg" alt="感動の一杯"></p>
             </div>
           </div>
         </div>
