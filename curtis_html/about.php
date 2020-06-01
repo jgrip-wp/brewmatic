@@ -53,18 +53,18 @@
           <div class="inner">
              <h3 class="page_tit line wow fadeIn"><span class="fontimpact">Commitment to the Quality</span>いつでも美味しいコーヒーを。<br>Curtisの技術力・品質へのこだわり</h3>
              <div class="about_quality_box">
-               <p class="frimg wow fadeIn" data-wow-delay="0.6s"><img src="./images/about/img_about01.jpg" alt="抽出を正確にコントロール G4テクノロジー"></p>
                <div class="ftbox wow fadeIn" data-wow-delay="0.2s">
                  <p class="about_quality_tit"><span class="about_quality_cap">抽出を正確にコントロール</span>G4テクノロジー</p>
                  <p>Curtisが誇るデジタルコントロールブルーイングシステムの第4世代。温度と湯量を設定通り管理し抽出を正確にコントロールします。<br>ワイドで操作しやすいタッチパネル式液晶画面から、抽出量、蒸らし時間、インターバル時間をそれぞれ設定可能。<br>コーヒーメニューによる使い分けなど、用途に合わせてクオリティの高いコーヒーが抽出できます。</p>
                </div>
+               <p class="frimg wow fadeIn" data-wow-delay="0.6s"><img src="./images/about/img_about01.jpg" alt="抽出を正確にコントロール G4テクノロジー"></p>
              </div>
              <div class="about_quality_box">
-               <p class="frimg wow fadeIn" data-wow-delay="0.6s"><img src="./images/about/img_about02.jpg" alt="美味しさを膨らませる シャワーヘッド（アメリカ特許取得）"></p>
                <div class="ftbox wow fadeIn" data-wow-delay="0.2s">
                  <p class="about_quality_tit"><span class="about_quality_cap">美味しさを膨らませる</span>シャワーヘッド<span class="about_quality_fllow">（アメリカ特許取得）</span></p>
                  <p>Curtisの特許技術であるシャワーヘッドは、21個の穴からシャワーのように全体にまんべんなく湯をかけることで、コーヒーの粉一粒一粒が回転。繊維を広げコーヒーの美味しさを引き出します。</p>
                </div>
+               <p class="frimg wow fadeIn" data-wow-delay="0.6s"><img src="./images/about/img_about02.jpg" alt="美味しさを膨らませる シャワーヘッド（アメリカ特許取得）"></p>
              </div>
              <div class="about_quality_box">
                <p class="about_quality_tit wow fadeIn"><span class="about_quality_cap">淹れたての温かさ、品質を守る</span>大型コンテナ</p>

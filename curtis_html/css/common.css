@@ -17,12 +17,12 @@ header, footer, nav, section, aside, article {
 /* !Reseting
 ---------------------------------------------------------- */
 body {
-  font-family: 'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro',"メイリオ",Meiryo,'ＭＳ Ｐゴシック',Verdana,Arial,Helvetica,sans-serif;
+  font-family: "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN W3", "Hiragino Sans", "ヒラギノ角ゴシック", sans-serif;
   font-size: 15px;
   -webkit-text-size-adjust: none;
-  line-height: 2;
+  line-height: 1.8;
   color: #333;
-  font-weight: 400;
+  font-weight: 500;
 }
 body, div, pre, p, blockquote, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, form, fieldset, th, td, a,input {
   margin: 0;
@@ -80,6 +80,7 @@ abbr, acronym {
 
 .fontimpact {
   font-family: 'Impact', sans-serif;
+  letter-spacing: .03em;
 }
 
 /* !Base Fonts
@@ -220,9 +221,10 @@ html,  html body {
 }
 .head_navi a {
   display: inline-block;
-  font-size: 16px;
+  font-size: 18px;
   color: #fff;
-  margin: 0 3%;
+  margin: 0 2%;
+  letter-spacing: .04em;
   position: relative;
 }
 .head_navi a:before {
@@ -276,17 +278,28 @@ html,  html body {
   left: 0;
   top: 20px;
   width: 100%;
-  height: 30px;
   z-index: 8;
 }
-.head_box {
-  display: none;
-}
+
 .head_top{
   display: none;
 }
 .fixed_head{
   display: none;
+}
+
+.head_box {
+  display: block;
+}
+.head_navi {
+  display: none;
+}
+.head_btn {
+  display: none;
+}
+.head_logo {
+  width: 30%;
+  padding: 0 20px;
 }
 }
 /* !js-navbar js-menu
@@ -307,6 +320,7 @@ html,  html body {
   right: -100%;
   top: 0;
   width: 100%;
+  height: 100vh;
   padding: 20px;
   box-sizing: border-box;
   background: #000;
@@ -359,6 +373,19 @@ html,  html body {
   margin: 10px 0 0;
   background: url(../images/common/ico_header02.png) 15px center no-repeat #3a3a3a;
 }
+
+.js-navbar.menu_bg {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  right: 15px;
+  top: -5px;
+  background: url(../images/common/menu.png) center no-repeat #000;
+  background-size: 30px 30px;
+  cursor: pointer;
+  z-index: 999;
+}
+
 /* !breadcrumb
 ---------------------------------------------------------- */
 #breadcrumb {
@@ -404,7 +431,7 @@ html,  html body {
 }
 .teaser .teaser_tit_en {
   font-size: 42px;
-  font-weight: bold;
+  font-weight: 800;
 } 
 @media screen and (max-width: 768px) {
 .teaser {
@@ -476,12 +503,13 @@ html,  html body {
   margin-bottom: 40px;
   font-size: 18px;
   line-height: 1.6;
-  font-weight: bold;
+  font-weight: 800;
   position: relative;
 }
 .page_tit span {
   display: block;
   font-size: 30px;
+  margin-bottom: 15px;
   line-height: 1.2;
 }
 .page_tit span.fontimpact {
@@ -512,7 +540,7 @@ html,  html body {
 	width: 0;
 	height: 1px;
 	background: #333;
-	transition: width 2s ease;
+	transition: width 1.5s ease;
 }
 .line.bottom_line:before{
 	width: 100%;
@@ -528,7 +556,7 @@ html,  html body {
   padding: 10px;
   color: #fff;
   font-size: 16px;
-  font-weight: bold;
+  font-weight: 800;
   text-align: center;
 }
 .common_btn.fontimpact a {
@@ -576,6 +604,33 @@ html,  html body {
 .padd_bottom_zero {
   padding-bottom: 0;
 }
+
+
+/* !text-align
+---------------------------------------------------------- */
+.tac {
+  text-align: center;
+}
+.font_weight_bold {
+  font-weight: 800;
+}
+
+
+/* !margin
+---------------------------------------------------------- */
+.mb0 {
+  margin-bottom: 0 !important;
+}
+.mb05 {
+  margin-bottom: 5px !important;
+}
+.mb10 {
+  margin-bottom: 10px !important;
+}
+.mb15 {
+  margin-bottom: 15px !important;
+}
+
 
 
 @media screen and (max-width: 1080px) {

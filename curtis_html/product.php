@@ -60,7 +60,7 @@
         <!-- /product_anchor -->
         <div class="common_bg" id="anchor01">
           <div class="inner">
-            <h3 class="page_tit line wow fadeIn"><span>製品の特徴</span></h3>
+            <h3 class="page_tit line wow fadeIn"><span class="mb05">製品の特徴</span></h3>
             <div class="product_features wow fadeIn">
               <p class="frimg"><img src="./images/product/img_product02.jpg" alt="対話するブルーワー"></p>
               <div class="ftbox">
@@ -94,12 +94,12 @@
         <!-- /common_bg -->
         <div class="common_bg_white" id="anchor02">
           <div class="inner">
-            <h3 class="page_tit line wow fadeIn"><span>製品スペック</span></h3>
+            <h3 class="page_tit line wow fadeIn"><span class="mb05">製品スペック</span></h3>
             <div class="product_spec wow fadeIn">
               <h4 class="product_spec_tit">ウォーターヒーティングユニット</h4>
               <table class="product_spec_table">
                 <tr>
-                  <th>電源・消費電力・電流c</th>
+                  <th>電源・消費電力・電流</th>
                   <td>単相200V・3400W・17A</td>
                 </tr>
                 <tr>
@@ -151,11 +151,12 @@
         <!-- /common_bg -->
         <div class="common_bg" id="anchor03">
           <div class="inner">
-            <h3 class="page_tit line wow fadeIn"><span>オプション製品</span></h3>
+            <h3 class="page_tit line wow fadeIn"><span class="mb05">オプション製品</span></h3>
             <ul class="product_col_four clearfix">
               <li class="wow fadeIn">
-                <p class="product_one_img hlg01"><img src="./images/product/img_product06.png" alt="ワゴン"></p>
-                <p class="common_btn"><a href="#">ワゴン</a></p>
+                <p class="product_two_img hlg01"><img src="./images/product/img_product06.png" alt="ワゴン"></p>
+                <p class="tac font_weight_bold hlg03">ワゴン</p>
+                <p class="product_two_btn"><a href="#">詳しく見る<span>&gt;</span></a></p>
               </li>
             </ul>
             <!-- /product_col_four -->
@@ -164,11 +165,22 @@
         <!-- /common_bg -->
         <div class="common_bg_white padd_bottom_zero" id="anchor04">
           <div class="inner">
-            <h3 class="page_tit line wow fadeIn"><span>関連製品</span></h3>
+            <h3 class="page_tit line wow fadeIn"><span class="mb05">関連製品</span></h3>
             <ul class="product_col_four clearfix">
               <li class="wow fadeIn">
-                <p class="product_one_img hlg01"><img src="./images/product/img_product07.png" alt="Forté-BG"></p>
-                <p class="common_btn fontimpact"><a href="#">Forté-BG</a></p>
+                <p class="product_two_img hlg01"><img src="./images/product/img_product07.jpg" alt="Forté-BG"></p>
+                <p class="tac font_weight_bold hlg03">Forté-BG</p>
+                <p class="product_two_btn"><a href="#">詳しく見る<span>&gt;</span></a></p>
+              </li>
+              <li class="wow fadeIn">
+                <p class="product_two_img hlg01"><img src="./images/product/img_product08.jpg" alt="Sette270Wi"></p>
+                <p class="tac font_weight_bold hlg03">Sette270Wi</p>
+                <p class="product_two_btn"><a href="#">詳しく見る<span>&gt;</span></a></p>
+              </li>
+              <li class="wow fadeIn">
+                <p class="product_two_img hlg01"><img src="./images/product/img_product09.jpg" alt="Sette30"></p>
+                <p class="tac font_weight_bold hlg03">Sette30</p>
+                <p class="product_two_btn"><a href="#">詳しく見る<span>&gt;</span></a></p>
               </li>
             </ul>
             <!-- /product_col_four -->

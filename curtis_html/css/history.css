@@ -44,31 +44,35 @@
   border-top: 1px #333 solid;
 }
 .history_box_tit {
-  font-size: 24px;
-  font-weight: bold;
-  line-height: 1.2;
+  font-size: 18px;
+  font-weight: 800;
+  line-height: 1.4;
   margin-bottom: 30px;
   display: flex;
   align-items: flex-end;
 }
 .history_box_tit .history_box_date {
-  font-size: 65px;
+  font-size: 56px;
   line-height: 1;
-  padding-right: 30px;
+  padding-right: 25px;
 }
 .history_box_tit .history_box_cont {
   flex: 1;
 }
 .history_box_in .frimg {
   width: 32%;
-  margin-left: 8%;
   text-align: center;
+}
+.history_box_in .ftbox {
+  width: 60%;
+  float: left;
 }
 .history_box_in .common_btn {
   margin-top: 40px;
 }
 .history_box_in .common_btn a {
   min-width: 200px;
+  font-size: 14px;
 }
 .history_box_in .frimg .common_btn {
   margin-top: 25px;
@@ -79,11 +83,11 @@
 
 @media screen and (max-width: 768px) {
 .history_box {
-  padding: 30px 0;
+  padding: 40px 0;
 }
 .history_box_in+.history_box_in {
-  margin-top: 30px;
-  padding-top: 30px;
+  margin-top: 40px;
+  padding-top: 40px;
 }
 .history_box_tit {
   font-size: 18px;
@@ -93,28 +97,61 @@
 .history_box_tit .history_box_date {
   font-size: 40px;
   padding-right: 20px;
+  align-self: flex-start;
 }
 .history_box_in .frimg {
   float: none;
   width: auto;
-  margin: 0 0 30px;
+  margin: 30px 0 0;
+}
+.history_box_in .ftbox {
+  float: none;
+  width: auto;
 }
 .history_box_in .common_btn {
   margin-top: 20px;
+  text-align: center;
 }
 }
+
+.history_box_img {
+  display: none;
+}
+
+@media screen and (max-width: 768px) {
+.history_img_large img {
+  display: none;
+}
+.history_img_large {
+  height: 180px;
+}
+.history_img_large01 {
+  background: url("../images/history/bg_history02.jpg") center center no-repeat;
+  background-size: cover;
+}
+.history_img_large02 {
+  background: url("../images/history/bg_history03.jpg") center center no-repeat;
+  background-size: cover;
+}
+.history_img_large03 {
+  background: url("../images/history/bg_history04.jpg") right center no-repeat;
+  background-size: cover;
+}
+.history_box_img {
+  display: block;
+  text-align: center;
+  margin-top: 30px;
+}
+.frimg_none {
+  display: none;
+}
+}
+
 
 
 @media screen and (max-width: 1080px) {
 
 }
-@media screen and (max-width: 768px) {
-
-}
-
-
-
-
 
 
 

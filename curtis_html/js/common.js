@@ -134,6 +134,19 @@ var common = (function(){
 			$('.fixed_head').removeClass('show')
 		}
 	});
+	$(window).on('load scroll', function () {
+	    var ws = $(this).scrollTop();
+	    var showlinetop = $('.js-showhead').offset().top;
+	    if(isMobile){
+		    if(ws >= showlinetop){
+				$('.js-navbar').addClass('menu_bg')
+		    }else{
+		    	$('.js-navbar').removeClass('menu_bg')
+		    }
+		}else{
+			$('.js-navbar').removeClass('menu_bg')
+		}
+	});
 
 	var $hdmenu = $('.js-navbar');
 	var $menuclose = $('.js-close');

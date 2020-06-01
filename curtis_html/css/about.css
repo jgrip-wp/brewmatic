@@ -19,7 +19,7 @@
   font-size: 30px;
   margin-bottom: 30px;
   line-height: 1.5;
-  font-weight: bold;
+  font-weight: 800;
 }
 .about_pride .common_btn {
   margin-top: 30px;
@@ -52,23 +52,24 @@
   overflow: hidden;
 }
 .about_quality_box .frimg {
-  margin-left: 8%;
   max-width: 50%;
+}
+.about_quality_box .ftbox {
+  width: 42%;
+  float: left;
 }
 .about_quality_tit {
   margin-bottom: 20px;
-  font-weight: bold;
+  font-weight: 800;
   font-size: 30px;
   line-height: 1.5;
 }
 .about_quality_tit .about_quality_cap {
   font-size: 14px;
-  font-weight: normal;
   display: block;
 }
 .about_quality_tit .about_quality_fllow {
   font-size: 14px;
-  font-weight: normal;
   display: inline-block;
   vertical-align: middle;
 }
@@ -77,13 +78,19 @@
   margin-bottom: 30px;
 }
 .about_quality_box+.about_quality_box {
-  margin-top: 30px;
+  margin-top: 50px;
+  padding-top: 50px;
+  border-top: 1px #333 solid;
 }
 .about_quality_box .frimg {
   float: none;
   text-align: center;
   max-width: none;
-  margin: 0 0 30px;
+  margin: 30px 0 0;
+}
+.about_quality_box .ftbox {
+  width: auto;
+  float: none;
 }
 .about_quality_tit {
   margin-bottom: 20px;
@@ -109,7 +116,7 @@
   margin-bottom: 20px;
 }
 .about_container_tit {
-  font-weight: bold;
+  font-weight: 800;
 }
 .about_container .common_btn {
   margin-top: 20px;
