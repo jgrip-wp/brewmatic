@@ -438,7 +438,7 @@ html,  html body {
 /* !main-contents
 ---------------------------------------------------------- */
 #contents {
-  padding: 160px 0 150px;
+  padding: 120px 0 150px;
 }
 
 @media screen and (max-width: 768px) {

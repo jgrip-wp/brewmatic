@@ -42,7 +42,7 @@
                 <div class="products_block_in">
                   <p class="products_block_img"><img src="./images/products/img_products01.png" alt="La Rhea Grande2 Premium"></p>
                   <div class="products_block_cont">
-                    <p class="products_block_tit">La Rhea Grande2 Premium</p>
+                    <p class="products_block_tit">La Rhea GRANDE2 Premium</p>
                     <p class="lineheight_lar">多機能、高性能で多彩なメニューを提供するハイクラスモデル</p>
                     <p class="common_btn"><a href="./la-rhea-grande2-premium/">Detail</a></p>
                   </div>
