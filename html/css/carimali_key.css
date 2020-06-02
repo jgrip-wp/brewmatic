@@ -17,18 +17,21 @@
   margin-right: 40px;
   max-width: 560px;
 }
-.key_box .key_box_cap {
+.key_box_cap {
   font-size: 13px;
   color: #7b7b7b;
   margin-top: 10px;
 }
-.key_box .key_box_tit {
+.key_box_tit {
   font-size: 16px;
   font-weight: 500;
   margin-bottom: 30px;
 }
-.key_box .key_box_txt {
+.key_box_txt {
   line-height: 1.8;
+}
+.key_box_txt+.key_box_txt {
+  margin-top: 30px;
 }
 .key_box .common_btn {
   margin-top: 70px;
@@ -41,7 +44,7 @@
 }
 }
 @media screen and (max-width: 768px) {
-.key_box .key_box_tit {
+.key_box_tit {
   margin-bottom: 20px;
 }
 .key_box .common_btn {
@@ -102,6 +105,69 @@
   margin-top: 20px;
 }
 }
+
+
+
+/* !kfc
+---------------------------------------------------------- */
+.kfc_column_two {
+  overflow: hidden;
+  margin: 0 0 0 -10px;
+}
+.kfc_column_two li {
+  float: left;
+  width: 50%;
+  padding-left: 10px;
+  text-align: center;
+}
+.kfc_box {
+  margin: 50px 0 70px;
+}
+.kfc_btn.common_btn {
+  margin-top: 30px;
+}
+.kfc_column_three {
+  overflow: hidden;
+  margin: 60px 0 0 -10px;
+}
+.kfc_column_three li {
+  float: left;
+  width: 33.3333%;
+  padding-left: 10px;
+  text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+.kfc_column_two {
+  margin: 0;
+}
+.kfc_column_two li {
+  float: none;
+  width: auto;
+  padding-left: 0;
+}
+.kfc_column_two li+li {
+  margin-top: 30px;
+}
+.kfc_box {
+  margin: 30px 0;
+}
+.kfc_btn.common_btn {
+  margin-top: 30px;
+}
+.kfc_column_three {
+  margin: 30px 0 0;
+}
+.kfc_column_three li {
+  float: none;
+  width: auto;
+  padding-left: 0;
+}
+.kfc_column_three li+li {
+  margin-top: 30px;
+}
+}
+
 
 
 @media screen and (max-width: 1080px) {
