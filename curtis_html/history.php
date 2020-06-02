@@ -76,16 +76,8 @@
               </div>
             </div>
             <div class="history_box_in wow fadeIn">
-              <div class="clearfix">
-                <div class="ftbox">
-                  <h3 class="history_box_tit"><span class="history_box_date fontimpact">1990's</span><span class="history_box_cont">技術革新の第一世代<br>G１、ADSを開発</span></h3>
-                  <p>デジタルシステムを搭載したマシン開発にいち早く着手し、<br>1996年、Curtis ADS (Advanced Digital System) を開発。<br>ADSを搭載したALPHAシリーズは、デジタルでコントロールする世界初のドリップコーヒーマシンになった。<br>アメリカのコーヒーマシンの会社としては初めて、品質管理システムの国際規格、<br>ISO9001を取得。</p>
-                </div>
-                <div class="frimg">
-                  <p><img src="./images/history/img_history02.jpg" alt="技術革新の第一世代 G１、ADSを開発"></p>
-                  <p class="common_btn"><a href="#">最新のALPHAシリーズ</a></p>
-                </div>
-              </div>
+              <h3 class="history_box_tit"><span class="history_box_date fontimpact">1990's</span><span class="history_box_cont">技術革新の第一世代<br>G１、ADSを開発</span></h3>
+              <p>デジタルシステムを搭載したマシン開発にいち早く着手し、1996年、Curtis ADS (Advanced Digital System) を開発。<br>ADSを搭載したALPHAシリーズは、デジタルでコントロールする世界初のドリップコーヒーマシンになった。<br>アメリカのコーヒーマシンの会社としては初めて、品質管理システムの国際規格、ISO9001を取得。</p>
             </div>
           </div>
         </div>
@@ -94,29 +86,42 @@
         <div class="history_box">
           <div class="inner">
             <div class="history_box_in wow fadeIn">
-              <h3 class="history_box_tit"><span class="history_box_date fontimpact">2000's</span><span class="history_box_cont">G1を進化させたG2、G3を発表</span></h3>
-              <p>ユーザーインターフェースを改良したG2、プリセットされたブルーイング以外に13種のモデルに搭載可能なG3を開発。</p>
+              <div class="clearfix">
+                <div class="ftbox">
+                  <h3 class="history_box_tit"><span class="history_box_date fontimpact">2000's</span><span class="history_box_cont">G1を進化させたG2、G3を発表</span></h3>
+                  <p>ユーザーインターフェースを改良したG2、プリセットされたブルーイング以外に13種のモデルに搭載可能なG3を開発。</p>
+                </div>
+                <div class="frimg">
+                  <p><img src="./images/history/img_history02.jpg" alt="最新のALPHAシリーズ"></p>
+                  <p class="common_btn"><a href="#">最新のALPHAシリーズ</a></p>
+                </div>
+              </div>
             </div>
             <div class="history_box_in wow fadeIn">
-              <h3 class="history_box_tit"><span class="history_box_date fontimpact">2010</span><span class="history_box_cont">ブルーマチックジャパンと取引開始</span></h3>
-              <p>ブルーマチックジャパンと取引を開始し日本のレストラン、ホテルなどへ本格的に進出。ドリップコーヒー文化の拡がり、多様化に貢献していく。</p>
-              <p class="common_btn"><a href="#">ブルーマチックジャパンについて</a></p>
-            </div>
-            <div class="history_box_in wow fadeIn">
-              <h3 class="history_box_tit"><span class="history_box_date fontimpact">2011</span><span class="history_box_cont">温度・湯量を正確にコントロールする、G4誕生</span></h3>
+              <h3 class="history_box_tit"><span class="history_box_date fontimpact">2010's</span><span class="history_box_cont">温度・湯量を正確にコントロールする、G4誕生</span></h3>
               <p>操作しやすいタッチパネルディスプレイを搭載し、温度と湯量を正確にコントロール。USBインターフェースを使用しPCとつなぐことで、レシピやファームウェアが簡単にアップデートできるように。</p>
-              <p class="common_btn"><a href="#">G4 Gemini Twin 1.5G Brewer</a></p>
+              <p class="common_btn"><a href="#">最新のG4搭載モデル</a></p>
             </div>
           </div>
         </div>
         <!-- /history_box -->
-        <p class="history_img_large history_img_large03 wow fadeIn"><img src="./images/history/bg_history04.jpg" alt=""></p>
+        <div class="history_img_large history_img_large03 wow fadeIn">
+          <p><img src="./images/history/bg_history04.jpg" alt=""></p>
+          <div class="history_gfour">
+            <div class="inner">
+              <div class="history_gfour_inner">
+                <p class="history_gfour_logo"><img src="./images/history/logo_history_g4.png" alt="G4"></p>
+                <p class="common_btn"><a href="#">G4GEMT10A1000</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
         <div class="history_box">
           <div class="inner">
             <div class="history_box_in wow fadeIn">
               <div class="clearfix">
                 <div class="ftbox">
-                  <h3 class="history_box_tit"><span class="history_box_date fontimpact">2012</span><span class="history_box_cont">カップクオリティーにこだわったCGC発表</span></h3>
+                  <h3 class="history_box_tit"><span class="history_box_cont">カップクオリティーにこだわったCGC発表</span></h3>
                   <p>高品質なコーヒーへの需要を受けて、1杯抽出型のドリップコーヒーマシンCGCを発表。</p>
                   <p class="history_box_img"><img src="./images/history/img_history03.jpg" alt="カップクオリティーにこだわったCGC発表"></p>
                   <p class="common_btn"><a href="#">CGC</a></p>
@@ -129,7 +134,7 @@
             <div class="history_box_in wow fadeIn">
               <div class="clearfix">
                 <div class="ftbox">
-                  <h3 class="history_box_tit"><span class="history_box_date fontimpact">2014</span><span class="history_box_cont">劇場型マシン、Seraphim</span></h3>
+                  <h3 class="history_box_tit"><span class="history_box_cont">劇場型マシン、Seraphim</span></h3>
                   <p>バリスタのハンドドリップをお客様の目の前で再現。新しいコーヒースタイルを提案する革新的なマシンSeraphim誕生。</p>
                   <p class="history_box_img"><img src="./images/history/img_history04.jpg" alt="劇場型マシン、Seraphim"></p>
                   <p class="common_btn"><a href="#">Seraphim</a></p>
@@ -142,7 +147,7 @@
             <div class="history_box_in wow fadeIn">
               <div class="clearfix">
                 <div class="ftbox">
-                  <h3 class="history_box_tit"><span class="history_box_date fontimpact">2018</span><span class="history_box_cont">NEWインテリフレッシュテクノロジー</span></h3>
+                  <h3 class="history_box_tit"><span class="history_box_cont">NEWインテリフレッシュテクノロジー</span></h3>
                   <p>コーヒーの鮮度がひと目で分かるよう抽出工程・経過時間・残量をLEDライトで表示する技術を開発</p>
                   <p class="history_box_img"><img src="./images/history/img_history05.jpg" alt="NEWインテリフレッシュテクノロジー"></p>
                   <p class="common_btn"><a href="#">G4 GemX Twin Brewer</a></p>

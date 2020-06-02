@@ -35,6 +35,9 @@
 .history_box {
   padding: 60px 0;
 }
+.history_img_large {
+  position: relative;
+}
 .history_img_large img {
   width: 100%;
 }
@@ -71,14 +74,14 @@
   margin-top: 40px;
 }
 .history_box_in .common_btn a {
-  min-width: 200px;
+  min-width: 240px;
   font-size: 14px;
 }
 .history_box_in .frimg .common_btn {
   margin-top: 25px;
 }
 .history_box_in .frimg .common_btn a {
-  width: 200px;
+  width: 240px;
 }
 
 @media screen and (max-width: 768px) {
@@ -134,8 +137,9 @@
   background-size: cover;
 }
 .history_img_large03 {
-  background: url("../images/history/bg_history04.jpg") right center no-repeat;
+  background: url("../images/history/bg_history04.jpg") right -150px center no-repeat;
   background-size: cover;
+  height: auto;
 }
 .history_box_img {
   display: block;
@@ -144,6 +148,68 @@
 }
 .frimg_none {
   display: none;
+}
+}
+
+.history_gfour {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+  z-index: 2;
+}
+.history_gfour_inner {
+  max-width: 240px;
+}
+.history_gfour_logo {
+  text-align: center;
+}
+.history_gfour_logo img {
+  width: auto;
+}
+.history_gfour_inner .common_btn {
+  margin-top: 20%;
+}
+.history_gfour_inner .common_btn a {
+  width: 240px;
+}
+@media screen and (max-width: 1080px) {
+.history_gfour_inner .common_btn {
+  margin-top: 20px;
+}
+.history_gfour_logo img {
+  width: 50%;
+}
+}
+
+@media screen and (max-width: 768px) {
+.history_gfour {
+  position: relative;
+  left: inherit;
+  top: inherit;
+  transform: translateY(0);
+  width: auto;
+  padding: 20px 0;
+}
+.history_gfour_inner {
+  max-width: none;
+  background: rgba(255,255,255,0.5);
+  padding: 20px;
+  text-align: center;
+}
+.history_gfour_logo {
+  text-align: center;
+}
+.history_gfour_logo img {
+  display: inline-block;
+  width: auto;
+}
+.history_gfour_inner .common_btn {
+  margin-top: 20px;
+}
+.history_gfour_inner .common_btn a {
+  width: 240px;
 }
 }
 

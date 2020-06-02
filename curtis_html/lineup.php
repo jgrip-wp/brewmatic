@@ -104,6 +104,12 @@
                 <p class="hlg03">4.3インチタッチスクリーンを搭載したミドルクラスのドリップコーヒーマシン</p>
                 <p class="product_two_btn"><a href="#">詳しく見る<span>&gt;</span></a></p>
               </li>
+              <li class="wow fadeIn">
+                <p class="product_two_img hlg01"><img src="./images/lineup/img_lineup10.png" alt="サーマル フレッシュトラック"></p>
+                <p class="product_two_tit hlg02">サーマル フレッシュトラック</p>
+                <p class="hlg03">抽出後の経過時間と残量を瞬時に確認。<br>5.6リットルと3.8リットルのステンレスポット、1.9リットルのステンレスデキャンタの3種類。</p>
+                <p class="product_two_btn"><a href="#">詳しく見る<span>&gt;</span></a></p>
+              </li>
             </ul>
           </div>
         </div>
