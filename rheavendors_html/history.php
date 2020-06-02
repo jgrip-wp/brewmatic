@@ -44,11 +44,11 @@
          </div>
          <!-- /history_detail -->
          <div class="history_step wow fadeInUp">
-           <p class="history_step_img"><img src="images/history/img_history02.jpg" alt="イタリア・ミラノで自動車部品の鋳造業を営んでいた"></p>
+           <p class="history_step_img"><img src="images/history/img_history02.jpg" alt="イタリア・ミラノで自動車部品の鋳造業を運営"></p>
            <div class="history_step_cont">
              <div class="history_step_tit">
                <p class="history_step_date"><span class="fontlato">1955</span>年</p>
-               <p class="history_step_tit_txt">イタリア・ミラノで自動車部品の鋳造業を営んでいた</p>
+               <p class="history_step_tit_txt">イタリア・ミラノで自動車部品の鋳造業を運営</p>
              </div>
              <p class="history_step_txt">イタリア・ミラノで自動車部品の鋳造業を営んでいたAld（アルド）一家。当時はアルファロメオのシャーシや映画「ローマの休日」で有名なベスパのキックスターターなどを製造していた。<br>鋳造業からコーヒーマシンのビジネスへ転換したきっかけはアメリカ旅行。人々がベンディングマシンでコーヒーを楽しんでいる姿を見て、イタリアへ輸入するビジネスを開始した。当時、イタリアにはベンディングマシンを扱う企業はほとんどなく、業界の先駆的な存在になった。</p>
            </div>
@@ -61,7 +61,7 @@
                <p class="history_step_date"><span class="fontlato">1957</span>年</p>
                <p class="history_step_tit_txt">鋳造業からコーヒーマシンのビジネスへ</p>
              </div>
-             <p class="history_step_txt">ベンディングマシンの自社開発をスタート。最初に完成したのは、コーヒーマシンではなく、カラフルなゴムボールマシン。Aldoと友人がコーヒーマシンを開発する傍ら、スピンオフ企画としてつくったものだった。デザインを担当したAngelo Mangiarottiは後にイタリア建築家の巨匠となる人物。<br>当時、チューインガムといえば米国的でオープンなイメージの象徴だった。コインをセットしハンドルを回すと転がり出てくる一粒のアメリカンドリーム。多くの人が注目し、1960年代のイタリアを代表するアイコンとして知られている。</p>
+             <p class="history_step_txt">ベンディングマシンの自社開発をスタート。最初に完成したのは、コーヒーマシンではなく、カラフルなゴムボールマシン。Aldoと友人がコーヒーマシンを開発する傍ら、スピンオフ企画としてつくったものだった。デザインを担当したAngelo Mangiarottiは後にイタリア建築家の巨匠となる人物。<br>当時、チューインガムといえば米国的でオープンなイメージの象徴だった。コインをセットしハンドルを回すと転がり出てくる一粒のアメリカンドリーム。多くの人が注目し、1960年代のイタリアを代表するアイコンとして今も語り継がれている。</p>
            </div>
          </div>
          <!-- /history_step -->
@@ -70,7 +70,7 @@
            <div class="history_step_cont">
              <div class="history_step_tit">
                <p class="history_step_date"><span class="fontlato">1960</span>年代</p>
-               <p class="history_step_tit_txt">様々なペンディングマシンを展開</p>
+               <p class="history_step_tit_txt">様々なベンディングマシンを展開</p>
              </div>
              <p class="history_step_txt">1960年代初頭には、コーヒーをはじめドリンクやスナックなど幅広い商品の<br>ベンディングマシンを展開するイタリア初の企業になった。</p>
            </div>
@@ -81,7 +81,7 @@
            <div class="history_step_cont">
              <div class="history_step_tit">
                <p class="history_step_date"><span class="fontlato">1970</span>年代</p>
-               <p class="history_step_tit_txt">豆から淹れるペンディングマシンのトップランナーに</p>
+               <p class="history_step_tit_txt">豆から淹れるベンディングマシンのトップランナーに</p>
              </div>
              <p class="history_step_txt">粉を溶くタイプのコーヒーマシンが主流だったところ、豆から淹れるコーヒーマシン「E410」を開発。<br>粉ではなく豆をそのままセットできるベンディングマシンはrheavendorsがイタリアでは初めて開発した。<br>バールに行かなくても、バリスタがいなくても本格的なコーヒーが飲めるマシンは、特に工場での需要が高かった。<br>その後、オフィスなどにも置きやすいテーブルトップ型のマシンも開発された。</p>
            </div>
@@ -115,12 +115,23 @@
            <div class="history_step_cont">
              <div class="history_step_tit">
                <p class="history_step_date"><span class="fontlato">2014</span>年代</p>
-               <p class="history_step_tit_txt">ブルーマチックジャパンと取引を開始</p>
+               <p class="history_step_tit_txt">日本市場へ本格進出</p>
              </div>
-             <p class="history_step_txt">日本市場への進出を本格化。<br>ホテルの朝食会場、空港のラウンジ、ショッピングモールなど、幅広い業態で活用されている。</p>
+             <p class="history_step_txt">メニューの豊富さ、操作の手軽さから、ホテルの朝食会場、空港のラウンジ、ショッピングモールなど、日本各地、幅広い業界に導入される。</p>
            </div>
          </div>
          <!-- /history_step -->
+         <div class="history_step wow fadeInUp">
+           <p class="history_step_img"><img src="images/history/img_history07.jpg" alt="キャッシュレス対応でさらに広がるコーヒースタイルの可能性"></p>
+           <div class="history_step_cont">
+             <div class="history_step_tit">
+               <p class="history_step_date"><span class="fontlato">2020</span>年代</p>
+               <p class="history_step_tit_txt">キャッシュレス対応でさらに広がるコーヒースタイルの可能性</p>
+             </div>
+             <p class="history_step_txt">キャッシュレスペイメントに対応したテーブルトップマシンを日本市場でリリース。<br>決済方法は、カードの差し込み、スワイプ、タッチ、いずれも可能なマルチタイプ。どんな場所でも安全性を守るため、電気用品安全法に適合し第三者認証を受けたPSEマークを取得</p>
+             <p class="common_btn"><a href="./products/la-rhea-bl-ec-vpos/">rhea BL eC + VPOS TOUCH</a></p>
+           </div>
+         </div>
        </div>
       </div>
       <!-- /contents -->

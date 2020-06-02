@@ -35,7 +35,7 @@
     
     <article>
      <h2 id="teaser" class="teaser_products"><span class="teaser_tit fontlato">Products</span></h2>
-      <p id="breadcrumb" class="fontlato op"><a href="./" class="home">Home</a> > <a href="./products.php">Products</a> > la Rhea GRANDE2 Premium</p>
+      <p id="breadcrumb" class="fontlato op"><a href="./" class="home">Home</a> > <a href="./products.php">Products</a> > rhea BL eC</p>
       <div id="contents" class="js-showhead padd_bottom_zero">
          <div class="inner">
           <div class="detail_main wow fadeInUp">
@@ -77,8 +77,8 @@
                </li>
                <li class="wow fadeInUp">
                  <p class="detail_box_img"><img src="./images/products/img_features_detail03.jpg" alt="新型抽出ユニット"></p>
-                 <p class="detail_box_hds hlg01">新型抽出ユニット</p>
-                 <p class="lineheight_lar detail_box_txt">プロフェッショナルレベルのスペシャリティコーヒーを楽しむことができるなど、幅広い調整を可能にした抽出ユニット</p>
+                 <p class="detail_box_hds hlg01">型抽出ユニット</p>
+                 <p class="lineheight_lar detail_box_txt">プロフェッショナルレベルのスペシャルティコーヒーを楽しむことができるなど、幅広い調整を可能にした抽出ユニット</p>
                </li>
              </ul>
              <div class="detail_box_dot wow fadeInUp">
@@ -107,7 +107,7 @@
                  </tr>
                  <tr>
                    <th>重量（乾燥重量）</th>
-                   <td>40kg</td>
+                   <td>26kg</td>
                  </tr>
                  <tr>
                    <th>コーヒーグラインダー(容量）</th>

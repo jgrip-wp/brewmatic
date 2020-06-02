@@ -49,7 +49,7 @@
             <p class="frimg"><img src="./images/about/logo_about.png" alt="「rheavendors（リアベンドーズ）」の由来"></p>
             <div class="ftbox">
               <p class="about_detail_cont_tit">「rheavendors（リアベンドーズ）」の由来</p>
-              <p class="lineheight_lar">Rhea（レア）とは、南米に生息するダチョウに似た鳥のこと。大型ながらどこか愛らしい走鳥類。<br>狩りが趣味だった創業者が、いつか捕えたいと思っていたことが社名の由来になっています。</p>
+              <p class="lineheight_lar">Rhea（レア）とは、南米に生息するダチョウに似た鳥のこと大柄ながらどこか愛らしい走鳥類。<br>狩りが趣味だった創業者が、いつか捕えたいと思っていたことが社名の由来になっています。</p>
             </div>
           </div>
           <!-- /about_detail_cont -->
@@ -89,7 +89,7 @@
               <p class="about_box_eng">Best fit models & options</p>
             </div>
             <p class="about_box_det">空間にベストフィットするトータルコーディネイト</p>
-            <p class="lineheight_lar">ホテル、ラウンジ、ショールーム、ショッピングモールなど、ドリンクが飲まれる様々なシーンを想定しそれぞれのニーズに応えるモデルを展開しています。<br>コインメックユニットや専用キャビネットをはじめ、各種オプションを組み合わせることで、マシンを設置する環境やサービススタイルに合わせて、空間全体を最適化できます。</p>
+            <p class="lineheight_lar">ホテル、ラウンジ、ショールーム、ショッピングモールなど、ドリンクが飲まれる様々なシーンを想定しそれぞれのニーズに応えるモデルを展開しています。<br>キャッシュレス端末や専用キャビネットをはじめ、各種オプションを組み合わせることで、マシンを設置する環境やサービススタイルに合わせて、空間全体を最適化できます。</p>
             <ul class="about_box_list">
               <li><img src="./images/about/img_about_s01.jpg" alt="Best fit models & options"></li>
               <li><img src="./images/about/img_about_s02.jpg" alt="Best fit models & options"></li>

@@ -105,34 +105,34 @@
            </div>
            <div class="top_life_inner">
               <ul class="top_life_list op">
-               <li>
-                 <p class="top_life_img"><img src="./images/top/img_life_top.jpg" alt=""></p>
-                 <p class="top_life_hds">●●店名</p>
-                 <p class="top_life_txt">豊富なメニューが幅広い世代のお客様に喜ばれています</p>
-                 <p class="top_life_link"><a href="#">Shop Site</a></p>
-               </li>
-               <li>
-                 <p class="top_life_img"><img src="./images/top/img_life_top.jpg" alt=""></p>
-                 <p class="top_life_hds">●●店名</p>
-                 <p class="top_life_txt">豊富なメニューが幅広い世代のお客様に喜ばれています</p>
-                 <p class="top_life_link"><a href="#">Shop Site</a></p>
-               </li>
-               <li>
-                 <p class="top_life_img"><img src="./images/top/img_life_top.jpg" alt=""></p>
-                 <p class="top_life_hds">●●店名</p>
-                 <p class="top_life_txt">豊富なメニューが幅広い世代のお客様に喜ばれています</p>
-                 <p class="top_life_link"><a href="#">Shop Site</a></p>
-               </li>
-               <li>
-                 <p class="top_life_img"><img src="./images/top/img_life_top.jpg" alt=""></p>
-                 <p class="top_life_hds">●●店名</p>
-                 <p class="top_life_txt">豊富なメニューが幅広い世代のお客様に喜ばれています</p>
-                 <p class="top_life_link"><a href="#">Shop Site</a></p>
-               </li>
-             </ul>
-             <p class="common_btn"><a href="#">View More</a></p>
+                <!-- <li>
+                  <p class="top_life_img"><img src="./images/top/img_life_top.jpg" alt=""></p>
+                  <p class="top_life_hds">●●店名</p>
+                  <p class="top_life_txt">豊富なメニューが幅広い世代のお客様に喜ばれています</p>
+                  <p class="top_life_link"><a href="#">Shop Site</a></p>
+                </li>
+                <li>
+                  <p class="top_life_img"><img src="./images/top/img_life_top.jpg" alt=""></p>
+                  <p class="top_life_hds">●●店名</p>
+                  <p class="top_life_txt">豊富なメニューが幅広い世代のお客様に喜ばれています</p>
+                  <p class="top_life_link"><a href="#">Shop Site</a></p>
+                </li>
+                <li>
+                  <p class="top_life_img"><img src="./images/top/img_life_top.jpg" alt=""></p>
+                  <p class="top_life_hds">●●店名</p>
+                  <p class="top_life_txt">豊富なメニューが幅広い世代のお客様に喜ばれています</p>
+                  <p class="top_life_link"><a href="#">Shop Site</a></p>
+                </li>
+                <li>
+                  <p class="top_life_img"><img src="./images/top/img_life_top.jpg" alt=""></p>
+                  <p class="top_life_hds">●●店名</p>
+                  <p class="top_life_txt">豊富なメニューが幅広い世代のお客様に喜ばれています</p>
+                  <p class="top_life_link"><a href="#">Shop Site</a></p>
+                </li>
+              </ul>
+              <p class="common_btn"><a href="#">View More</a></p> -->
              
-             <!--<p class="comimgsoon wow fadeInUp"><img src="./images/top/comingsoon.jpg" alt="COMING SOON"></p>-->
+             <p class="comimgsoon wow fadeInUp"><img src="./images/top/comingsoon.jpg" alt="COMING SOON"></p>
            </div>
          </div>
          <!-- /top_life -->
