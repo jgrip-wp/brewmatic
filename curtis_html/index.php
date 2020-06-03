@@ -44,7 +44,7 @@
                 <div class="linewrap">
                   <h3 class="page_tit line"><span class="fontimpact">THE PRIDE
 OF THE FRONTIER</span>業務用コーヒーマシンのフロンティア</h3>
-                  <p>品質の安定したコーヒーを大量に抽出し、淹れたての美味しさを長時間キープ。ホテルやレストランなどでパワフルなパフォーマンスを発揮します。</p>
+                  <p>品質の安定したコーヒーを大量に抽出し、淹れたての美味しさを長時間キープ。ホテルやレストランなど供給量の多いシーンでパワフルなパフォーマンスを発揮します。</p>
                   <p class="common_btn fontimpact"><a href="./about.php">BRAND CONCEPT</a></p>
                 </div>
               </div>
