@@ -122,7 +122,7 @@
          </div>
          <!-- /history_step -->
          <div class="history_step wow fadeInUp">
-           <p class="history_step_img"><img src="images/history/img_history07.jpg" alt="キャッシュレス対応でさらに広がるコーヒースタイルの可能性"></p>
+           <p class="history_step_img"><img src="images/history/img_history08.jpg" alt="キャッシュレス対応でさらに広がるコーヒースタイルの可能性"></p>
            <div class="history_step_cont">
              <div class="history_step_tit">
                <p class="history_step_date"><span class="fontlato">2020</span>年代</p>

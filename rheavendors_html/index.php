@@ -36,9 +36,18 @@
     <article>
       <div class="top_main">
         <div class="top_main_in">
+          <!-- <div>
+            <div class="top_main_cont">
+              <p><img src="images/top/main_silder_01_pc.jpg"></p>
+              <div class="top_main_box">
+                <p class="top_main_tit fontlato">la Rhea<br>GRANDE2<br>Premium</p>
+                <p class="common_btn"><a href="#">View More</a></p>
+              </div>
+            </div>
+          </div> -->
           <div>
             <div class="top_main_cont">
-              <p><img src="images/top/main_silder_pc.jpg"</p>
+              <p><img src="images/top/main_silder_02_pc.jpg"></p>
               <div class="top_main_box">
                 <p class="top_main_tit fontlato">la Rhea<br>GRANDE2<br>Premium</p>
                 <p class="common_btn"><a href="#">View More</a></p>
@@ -47,7 +56,7 @@
           </div>
           <div>
             <div class="top_main_cont">
-              <p><img src="images/top/main_silder_pc.jpg"</p>
+              <p><img src="images/top/main_silder_03_pc.jpg"></p>
               <div class="top_main_box">
                 <p class="top_main_tit fontlato">la Rhea<br>GRANDE2<br>Premium</p>
                 <p class="common_btn"><a href="#">View More</a></p>
@@ -56,7 +65,7 @@
           </div>
           <div>
             <div class="top_main_cont">
-              <p><img src="images/top/main_silder_pc.jpg"</p>
+              <p><img src="images/top/main_silder_04_pc.jpg"></p>
               <div class="top_main_box">
                 <p class="top_main_tit fontlato">la Rhea<br>GRANDE2<br>Premium</p>
                 <p class="common_btn"><a href="#">View More</a></p>

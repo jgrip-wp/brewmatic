@@ -17,6 +17,7 @@
   z-index: 2;
 }
 .top_main_tit {
+  color: #fff;
   font-size: 60px;
   font-weight: 700;
   margin-bottom: 20px;
@@ -24,15 +25,15 @@
 }
 .top_main_box .common_btn a {
   width: 190px;
-  border: 1px #000 solid;
-  color: #000;
+  border: 1px #fff solid;
+  color: #fff;
   background: none;
 }
 .top_main_box .common_btn a:before {
-	background: #000;
+	background: #fff;
 }
 .top_main_box .common_btn a:hover, .top_main_box .common_btn a:focus, .top_main_box .common_btn a:active {
-	color: #fff;
+	color: #000;
 }
 .top_main_box .common_btn a:after {
   background: url(../images/top/arrow_top_no.png) 0 0 no-repeat;

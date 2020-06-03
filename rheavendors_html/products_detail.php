@@ -161,22 +161,22 @@
                  <p class="detail_box_txt">コーヒーマシンのサイズに合わせたスリムボディのキャビネットと、給水用ポリタンクとポンプを内蔵したウォータータンクキット</p>
                </li>
                <li class="wow fadeInUp">
-                 <p class="detail_box_img"><img src="./images/products/img_option_detail01.jpg" alt="大容量カス箱"></p>
+                 <p class="detail_box_img"><img src="./images/products/img_option_detail02.jpg" alt="大容量カス箱"></p>
                  <p class="detail_box_hds hlg01">大容量カス箱</p>
                  <p class="detail_box_txt">コーヒーマシンのサイズに合わせた、コーヒーカスが約40〜60個入る大容量カス箱</p>
                </li>
                <li class="wow fadeInUp">
-                 <p class="detail_box_img"><img src="./images/products/img_option_detail01.jpg" alt="カップステーション"></p>
+                 <p class="detail_box_img"><img src="./images/products/img_option_detail03.jpg" alt="カップステーション"></p>
                  <p class="detail_box_hds hlg01">カップステーション</p>
                  <p class="detail_box_txt">カップの取り出し口に扉をつけることが可能</p>
                </li>
                <li class="wow fadeInUp">
-                 <p class="detail_box_img"><img src="./images/products/img_option_detail01.jpg" alt="カップスタンド"></p>
+                 <p class="detail_box_img"><img src="./images/products/img_option_detail04.jpg" alt="カップスタンド"></p>
                  <p class="detail_box_hds hlg01">カップスタンド</p>
                  <p class="detail_box_txt">コーヒーの抽出口にカップを近づけるスタンドの取り付けが可能</p>
                </li>
                <li class="wow fadeInUp">
-                 <p class="detail_box_img"><img src="./images/products/img_option_detail01.jpg" alt="ユニベース"></p>
+                 <p class="detail_box_img"><img src="./images/products/img_option_detail05.jpg" alt="ユニベース"></p>
                  <p class="detail_box_hds hlg01">ユニベース</p>
                  <p class="detail_box_txt">幅 85㎝の天板を使用したキャビネット。eC コインメックユニット付やカップやシュガートレイを横置き可能<br>（サイズ 本体：幅570x奥行600x高さ920 mm ／ 幅850x奥行600 mm ）</p>
                </li>
