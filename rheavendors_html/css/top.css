@@ -16,6 +16,10 @@
   transform: translateY(-10%);
   z-index: 2;
 }
+.top_main_box.top_main_right {
+	right: 10%;
+	left: inherit;
+}
 .top_main_tit {
   color: #fff;
   font-size: 60px;
@@ -88,6 +92,10 @@
   display: flex;
   align-items: flex-end;
   justify-content: space-between;
+}
+.top_main_box.top_main_right {
+  right: inherit;
+  left: 0;
 }
 .top_main_tit {
   font-size: 40px;

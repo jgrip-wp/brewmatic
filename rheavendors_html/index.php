@@ -57,7 +57,7 @@
           <div>
             <div class="top_main_cont">
               <p><img src="images/top/main_silder_03_pc.jpg"></p>
-              <div class="top_main_box">
+              <div class="top_main_box top_main_right">
                 <p class="top_main_tit fontlato">la Rhea<br>GRANDE2<br>Premium</p>
                 <p class="common_btn"><a href="#">View More</a></p>
               </div>
