@@ -33,7 +33,7 @@
       <div class="teaser lineup_teaser">
         <h2 class="teaser_tit fontimpact">PRODUCT LINEUP</h2>
         <div id="breadcrumb" class="op">
-          <p class="breadcrumb_in"><a href="./">TOP</a> > PRODUCTS</p>
+          <p class="breadcrumb_in"><a href="./">TOP</a> > PRODUCT</p>
         </div>
       </div>
       <!-- /teaser -->
@@ -55,26 +55,26 @@
                 <p class="product_two_btn"><a href="#">詳しく見る<span>&gt;</span></a></p>
               </li>
               <li class="wow fadeIn">
-                <p class="product_two_img hlg01"><img src="./images/lineup/img_lineup03.png" alt="G4 Gemini Twin"></p>
-                <p class="product_two_tit hlg02">G4 Gemini Twin</p>
+                <p class="product_two_img hlg01"><img src="./images/lineup/img_lineup03.png" alt="G4 Gemini Twin1.5G Brewer"></p>
+                <p class="product_two_tit hlg02">G4 Gemini Twin1.5G Brewer</p>
                 <p class="hlg03">温度と湯量を調整しパーフェクトなタイミングで提供<br>（ツインタイプ)</p>
                 <p class="product_two_btn"><a href="#">詳しく見る<span>&gt;</span></a></p>
               </li>
               <li class="wow fadeIn">
-                <p class="product_two_img hlg01"><img src="./images/lineup/img_lineup04.png" alt="G4 Gemini Single"></p>
-                <p class="product_two_tit hlg02">G4 Gemini Single</p>
+                <p class="product_two_img hlg01"><img src="./images/lineup/img_lineup04.png" alt="G4 Gemini Single 1.5G Brewer"></p>
+                <p class="product_two_tit hlg02">G4 Gemini Single 1.5G Brewer</p>
                 <p class="hlg03">温度と湯量を調整しパーフェクトなタイミングで提供<br>（シングルタイプ）</p>
                 <p class="product_two_btn"><a href="#">詳しく見る<span>&gt;</span></a></p>
               </li>
               <li class="wow fadeIn">
-                <p class="product_two_img hlg01"><img src="./images/lineup/img_lineup05.png" alt="G4 Thermo Twin"></p>
-                <p class="product_two_tit hlg02">G4 Thermo Twin</p>
+                <p class="product_two_img hlg01"><img src="./images/lineup/img_lineup05.png" alt="G4 Thermo Pro Twin 1G Brewer"></p>
+                <p class="product_two_tit hlg02">G4 Thermo Pro Twin 1G Brewer</p>
                 <p class="hlg03">ワイドなタッチパネルから抽出を自在に設定（ツインタイプ）</p>
                 <p class="product_two_btn"><a href="#">詳しく見る<span>&gt;</span></a></p>
               </li>
               <li class="wow fadeIn">
-                <p class="product_two_img hlg01"><img src="./images/lineup/img_lineup06.png" alt="G4 Thermo Single"></p>
-                <p class="product_two_tit hlg02">G4 Thermo Single</p>
+                <p class="product_two_img hlg01"><img src="./images/lineup/img_lineup06.png" alt="G4 Thermo Pro Single 1G Brewer"></p>
+                <p class="product_two_tit hlg02">G4 Thermo Pro Single 1G Brewer</p>
                 <p class="hlg03">ワイドなタッチパネルから抽出を自在に設定（シングルタイプ）</p>
                 <p class="product_two_btn"><a href="#">詳しく見る<span>&gt;</span></a></p>
               </li>
@@ -107,7 +107,7 @@
               <li class="wow fadeIn">
                 <p class="product_two_img hlg01"><img src="./images/lineup/img_lineup10.png" alt="サーマル フレッシュトラック"></p>
                 <p class="product_two_tit hlg02">サーマル フレッシュトラック</p>
-                <p class="hlg03">抽出後の経過時間と残量を瞬時に確認。<br>5.6リットルと3.8リットルのステンレスポット、1.9リットルのステンレスデキャンタの3種類。</p>
+                <p class="hlg03">抽出後の経過時間と残量を瞬時に確認。5.6リットルと3.8リットルのステンレスポット、1.9リットルのステンレスデキャンタの3種類</p>
                 <p class="product_two_btn"><a href="#">詳しく見る<span>&gt;</span></a></p>
               </li>
             </ul>
