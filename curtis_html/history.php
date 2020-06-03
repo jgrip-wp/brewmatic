@@ -51,11 +51,11 @@
           <div class="inner">
             <div class="history_box_in wow fadeIn">
               <h3 class="history_box_tit"><span class="history_box_date fontimpact">1941</span><span class="history_box_cont">Curtis創業</span></h3>
-              <p>1940年頃、アメリカには世界最大のコーヒー豆市場があり世界の7割のシェアを占めていた。コーヒーが楽しめる場所、時間をもっと広げていきたいと、Wilbur Curtis（ウィルバー・カーチス）は、業務用コーヒーマシンの製造を始める。</p>
+              <p>1940年頃、アメリカには世界最大のコーヒー豆市場があり世界の7割のシェアを占めていた。コーヒーが楽しめる場所、時間をもっと広げていきたいと、Wilbur Curtis（ウィルバー・カーチス）は、業務用コーヒーマシンの製造をスタート。</p>
             </div>
             <div class="history_box_in wow fadeIn">
               <h3 class="history_box_tit"><span class="history_box_date fontimpact">1960's</span><span class="history_box_cont">淹れたての品質を長時間保つカーチス・アーンの誕生</span></h3>
-              <p>コーヒーの需要はさらに高まり、外食産業ではより美味しいコーヒーを大量に提供することが求められていた。Curtisはそのニーズに応えるため、最高峰の技術を結集してアーンシリーズを開発。淹れたての温かさを長く保つことができるカーチス・アーンは、全米はもちろん世界中にシェアを広げ、ドリップコーヒー文化の拡大、発展をリードした。</p>
+              <p>コーヒーの需要はさらに高まり、外食産業ではより美味しいコーヒーを大量に提供することが求められていた。Curtisはそのニーズに応えるため、最高峰の技術を結集してアーンシリーズを開発。淹れたての温かさを長く保つことができるカーチス・アーンは、全米はもちろん世界中にシェアを広げ、ドリップコーヒー文化の拡大、発展をリードする存在に。</p>
             </div>
           </div>
         </div>
@@ -111,7 +111,7 @@
             <div class="inner">
               <div class="history_gfour_inner">
                 <p class="history_gfour_logo"><img src="./images/history/logo_history_g4.png" alt="G4"></p>
-                <p class="common_btn"><a href="#">G4GEMT10A1000</a></p>
+                <p class="common_btn"><a href="#">最新のG4搭載モデル</a></p>
               </div>
             </div>
           </div>
