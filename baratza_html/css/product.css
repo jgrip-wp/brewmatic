@@ -287,6 +287,7 @@
 .parameter_features dt{
 	float: right;
 	margin: 0 0 0 30px;
+	width: 150px;
 }
 .parameter_features dd{
 	position: relative;
@@ -377,7 +378,7 @@
 	bottom: -15px;
 }
 .parameter_features dl{
-	margin: 30px 0 0;
+	margin: 60px 0 0;
 }
 .parameter_features dl:nth-of-type(1){
 	margin: 50px 0 0;
@@ -385,6 +386,7 @@
 .parameter_features dt{
 	float: none;
 	margin: 0;
+	width: 100%;
 }
 .parameter_features dt img{
 	width: 100%;

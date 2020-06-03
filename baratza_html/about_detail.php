@@ -76,7 +76,7 @@
                   <div class="about_inner_img"><img src="./images/about/img_about_detail04.png" alt="写真"></div>
                   <div class="about_inner_content">
                     <h4 class="about_inner_title fontDIN">Sette270</h4>
-                    <p class="about_inner_comment">極細引きを極めたエスプレッソ専用グラインダー。<br>細かい粒子でふわふわの仕上がり</p>
+                    <p class="about_inner_comment">極細挽きを極めたエスプレッソ専用グラインダー。<br>細かい粒子でふわふわの仕上がり</p>
                     <p class="about_inner_btn"><a href="#" class="common_btn">Sette 270</a></p>
                   </div>
                 </div>

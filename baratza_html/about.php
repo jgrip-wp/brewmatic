@@ -85,8 +85,7 @@
               <dl class="clearfix">
                 <dt>2013年</dt>
                 <dd>
-                  ブルーマチック ジャパンと取引を開始。日本市場への進出を本格化。<br>ホテルの朝食会場、空港のラウンジ、ショッピングモールなど、幅広い業態で活用されている。
-                  <p class="brand_story_link op"><a href="https://www.brewmatic.co.jp/about">ブルーマチック ジャパンについて</a></p>
+                  日本市場への進出を本格化。<br>ホテルの朝食会場、空港のラウンジ、ショッピングモールなど、幅広い業態で活用されている。
                   <br>
                   SCA（Specialty Coffee Association）でFortéがベストニュープロダクト賞を受賞。
                   <p class="brand_story_link op"><a href="./products/forte-bg/">最新のFortéシリーズ</a></p>
