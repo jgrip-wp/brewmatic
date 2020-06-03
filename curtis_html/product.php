@@ -33,7 +33,7 @@
       <div class="teaser product_teaser">
         <h2 class="teaser_tit fontimpact">PRODUCT</h2>
         <div id="breadcrumb" class="op">
-          <p class="breadcrumb_in"><a href="./">TOP</a> > <a href="./">Curtis</a> > seraphim</p>
+          <p class="breadcrumb_in"><a href="./">TOP</a> > <a href="./">PRODUCT</a> > seraphim</p>
         </div>
       </div>
       <!-- /teaser -->
@@ -54,7 +54,7 @@
         <div class="inner">
           <ul class="product_anchor clearfix">
             <li class="wow fadeIn"><a href="#anchor01" class="scroll"><span>製品の特徴</span></a></li>
-            <li class="wow fadeIn"><a href="#anchor02" class="scroll"><span>製品スペック</span></a></li>
+            <li class="wow fadeIn"><a href="#anchor02" class="scroll"><span>製品の仕様</span></a></li>
             <li class="wow fadeIn"><a href="#anchor03" class="scroll"><span>オプション</span></a></li>
             <li class="wow fadeIn"><a href="#anchor04" class="scroll"><span>関連製品</span></a></li>
           </ul>
@@ -87,7 +87,7 @@
             <div class="product_features product_reverse wow fadeIn">
               <div class="product_features_cont">
                 <h4 class="product_features_tit">感動の一杯</h4>
-                <p>カフェのカウンターで、丁寧にコーヒーをいれる凛々しい姿。それを見ながらコーヒーを待つ幸福感。お客さまと対話しながら、抽出したての最高の香りと味を引き出す一杯を提供できます</p>
+                <p>カフェのカウンターで、丁寧にコーヒーをいれる凛々しい姿。それを見ながらコーヒーを待つ幸福感。お客さまと対話しながら、抽出したての最高の香りと味を引き出す一杯を提供できます。</p>
               </div>
               <p class="product_features_img"><img src="./images/product/img_product05.jpg" alt="感動の一杯"></p>
             </div>
@@ -96,7 +96,7 @@
         <!-- /common_bg -->
         <div class="common_bg_white" id="anchor02">
           <div class="inner">
-            <h3 class="page_tit line wow fadeIn"><span class="mb05">製品スペック</span></h3>
+            <h3 class="page_tit line wow fadeIn"><span class="mb05">製品の仕様</span></h3>
             <div class="product_spec wow fadeIn">
               <h4 class="product_spec_tit">ウォーターヒーティングユニット</h4>
               <table class="product_spec_table">
@@ -127,15 +127,15 @@
               <table class="product_spec_table">
                 <tr>
                   <th>数量</th>
-                  <td>単相200V・3400W・17A</td>
+                  <td>2</td>
                 </tr>
                 <tr>
                   <th>サイズ（幅×奥行×高さ）</th>
-                  <td>279×514×626mm（固定用金具含む）</td>
+                  <td>178×483×406mm（ブルーイングヘッド含む）</td>
                 </tr>
                 <tr>
                   <th>備考</th>
-                  <td>約19L</td>
+                  <td>シャワーヘッド9穴、21穴同梱</td>
                 </tr>
               </table>
             </div>
