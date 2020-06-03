@@ -148,7 +148,7 @@
               <div class="clearfix">
                 <div class="ftbox">
                   <h3 class="history_box_tit"><span class="history_box_cont">NEWインテリフレッシュテクノロジー</span></h3>
-                  <p>コーヒーの鮮度がひと目で分かるよう抽出工程・経過時間・残量をLEDライトで表示する技術を開発</p>
+                  <p>コーヒーの鮮度がひと目で分かるよう抽出工程・経過時間・残量をLEDライトで表示する技術を開発。</p>
                   <p class="history_box_img"><img src="./images/history/img_history05.jpg" alt="NEWインテリフレッシュテクノロジー"></p>
                   <p class="common_btn"><a href="#">G4 GemX Twin Brewer</a></p>
                 </div>
