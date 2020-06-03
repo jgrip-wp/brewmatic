@@ -63,6 +63,13 @@
              </div>
              <div class="about_quality_box">
                <div class="ftbox wow fadeIn" data-wow-delay="0.2s">
+                 <p class="about_quality_tit"><span class="about_quality_cap">安全にお使いいただくため</span>ラッチ機能</p>
+                 <p>火傷防止として、抽出中はブルーイングコーンがロックされるラッチ機能を装備。誤ってブルーイングコーンが外されるのを防ぎ、安全にお使いいただけます</p>
+               </div>
+               <p class="frimg wow fadeIn" data-wow-delay="0.6s"><img src="./images/about/img_about09.jpg" alt="安全にお使いいただくため ラッチ機能"></p>
+             </div>
+             <div class="about_quality_box">
+               <div class="ftbox wow fadeIn" data-wow-delay="0.2s">
                  <p class="about_quality_tit"><span class="about_quality_cap">美味しさを膨らませる</span>シャワーヘッド<span class="about_quality_fllow">（アメリカ特許取得）</span></p>
                  <p>Curtisの特許技術であるシャワーヘッドは、21個の穴からシャワーのように全体にまんべんなく湯をかけることで、コーヒーの粉一粒一粒が回転。繊維を広げコーヒーの美味しさを引き出します。</p>
                </div>
