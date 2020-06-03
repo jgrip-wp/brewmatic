@@ -76,8 +76,8 @@
                  <p class="lineheight_lar detail_box_txt">設置場所をラグジュアリーな空間に整えるミラノデザイン。大きな液晶ディスプレイと、簡単に選択できるわかりやすいメニューボタンが特徴的です</p>
                </li>
                <li class="wow fadeInUp">
-                 <p class="detail_box_img"><img src="./images/products/img_features_detail03.jpg" alt="新型抽出ユニット"></p>
-                 <p class="detail_box_hds hlg01">型抽出ユニット</p>
+                 <p class="detail_box_img"><img src="./images/products/img_features_detail03.jpg" alt="抽出ユニット"></p>
+                 <p class="detail_box_hds hlg01">抽出ユニット</p>
                  <p class="lineheight_lar detail_box_txt">プロフェッショナルレベルのスペシャルティコーヒーを楽しむことができるなど、幅広い調整を可能にした抽出ユニット</p>
                </li>
              </ul>

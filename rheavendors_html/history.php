@@ -128,7 +128,7 @@
                <p class="history_step_date"><span class="fontlato">2020</span>年代</p>
                <p class="history_step_tit_txt">キャッシュレス対応でさらに広がるコーヒースタイルの可能性</p>
              </div>
-             <p class="history_step_txt">キャッシュレスペイメントに対応したテーブルトップマシンを日本市場でリリース。<br>決済方法は、カードの差し込み、スワイプ、タッチ、いずれも可能なマルチタイプ。どんな場所でも安全性を守るため、電気用品安全法に適合し第三者認証を受けたPSEマークを取得</p>
+             <p class="history_step_txt">キャッシュレスペイメントに対応したテーブルトップマシンを日本市場でリリース。<br>決済方法は、カードの差し込み、スワイプ、タッチ、いずれも可能なマルチタイプ。どんな場所でも安全性を守るため、電気用品安全法に適合し第三者認証を受けたPSEマークを取得。</p>
              <p class="common_btn"><a href="./products/la-rhea-bl-ec-vpos/">rhea BL eC + VPOS TOUCH</a></p>
            </div>
          </div>
