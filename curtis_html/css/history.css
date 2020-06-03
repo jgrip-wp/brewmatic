@@ -54,10 +54,18 @@
   display: flex;
   align-items: flex-end;
 }
+.history_box_tit.history_box_block {
+	display: block;
+}
 .history_box_tit .history_box_date {
   font-size: 56px;
   line-height: 1;
   padding-right: 25px;
+}
+.history_box_tit.history_box_block .history_box_date {
+	margin-bottom: 10px;
+	padding-right: 0;
+	display: inline-block;
 }
 .history_box_tit .history_box_cont {
   flex: 1;

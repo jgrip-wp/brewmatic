@@ -98,7 +98,7 @@
               </div>
             </div>
             <div class="history_box_in wow fadeIn">
-              <h3 class="history_box_tit"><span class="history_box_date fontimpact">2010's</span><span class="history_box_cont">温度・湯量を正確にコントロールする、G4誕生</span></h3>
+              <h3 class="history_box_tit history_box_block"><span class="history_box_date fontimpact">2010's</span><br><span class="history_box_cont">温度・湯量を正確にコントロールする、G4誕生</span></h3>
               <p>操作しやすいタッチパネルディスプレイを搭載し、温度と湯量を正確にコントロール。USBインターフェースを使用しPCとつなぐことで、レシピやファームウェアが簡単にアップデートできるように。</p>
               <p class="common_btn"><a href="#">最新のG4搭載モデル</a></p>
             </div>
