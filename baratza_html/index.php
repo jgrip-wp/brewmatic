@@ -44,10 +44,10 @@
             <div><img src="./images/top/main_top02_pc.jpg" alt="写真"></div>
           </div>
           <div class="top_mainimg_right">
-            <div><img src="./images/top/main_top02_pc.jpg" alt="写真"></div>
-            <div><img src="./images/top/main_top01_pc.jpg" alt="写真"></div>
-            <div><img src="./images/top/main_top02_pc.jpg" alt="写真"></div>
-            <div><img src="./images/top/main_top01_pc.jpg" alt="写真"></div>
+            <div><img src="./images/top/main_top03_pc.jpg" alt="写真"></div>
+            <div><img src="./images/top/main_top04_pc.jpg" alt="写真"></div>
+            <div><img src="./images/top/main_top03_pc.jpg" alt="写真"></div>
+            <div><img src="./images/top/main_top04_pc.jpg" alt="写真"></div>
           </div>
         </div>
         <!-- /top_mainimg -->
