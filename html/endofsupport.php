@@ -37,7 +37,7 @@
           <div class="inner">
             <h2 class="page_title"><span class="page_title_en fonten">End Support</span>サポート終了商品</h2>
              <ul class="common_bnr">
-               <li><a href="#">テクニカルソリューション</a></li>
+               <li><a href="./technicalsolution.php">テクニカルソリューション</a></li>
                <li><a href="./service.php">サポートのご案内</a></li>
                <li><a href="./endofsupport.php" class="active">サポート終了商品</a></li>
              </ul>

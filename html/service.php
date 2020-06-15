@@ -38,7 +38,7 @@
           <div class="inner">
             <h2 class="page_title"><span class="page_title_en fonten">Support</span>サポートのご案内</h2>
              <ul class="common_bnr">
-               <li><a href="#">テクニカルソリューション</a></li>
+               <li><a href="./technicalsolution.php">テクニカルソリューション</a></li>
                <li><a href="./service.php" class="active">サポートのご案内</a></li>
                <li><a href="./endofsupport.php">サポート終了商品</a></li>
              </ul>
