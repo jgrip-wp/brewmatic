@@ -38,8 +38,8 @@
             <h2 class="page_title"><span class="page_title_en fonten">End Support</span>サポート終了商品</h2>
              <ul class="common_bnr">
                <li><a href="#">テクニカルソリューション</a></li>
-               <li><a href="#">サポートのご案内</a></li>
-               <li><a href="./endsupport.php" class="active">サポート終了商品</a></li>
+               <li><a href="./service.php">サポートのご案内</a></li>
+               <li><a href="./endofsupport.php" class="active">サポート終了商品</a></li>
              </ul>
             <!-- /common_bnr -->
             <p class="endsupport_txt">ご購入いただいた製品の保守メンテナンスを承っておりますが、販売終了後、一定期間が経過した下記製品につきましては、サポートを終了させていただいております。当該製品をご使用のお客様におかれましては、何卒ご理解くださいますようよろしくお願い申し上げます。</p>
