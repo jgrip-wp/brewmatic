@@ -46,26 +46,18 @@
             <div class="service_list">
               <ul class="service_list_box op">
                 <li>
-                  <a href="./callcenter.php">
-                    <p class="service_list_img"><img src="./images/service/ico_service01.png" alt="コールセンター24時間・365日対応"></p>
+                  <a href="./manual.php">
+                    <p class="service_list_img"><img src="./images/service/ico_service05.png" alt="取扱説明書・承認図のダウンロード"></p>
                     <div class="service_list_cont hlg01">
-                      <p class="service_list_txt">コールセンター<br>24時間・365日対応</p>
+                      <p class="service_list_txt">取扱説明書・承認図の<br>ダウンロード</p>
                     </div>
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="./faq.php">
                     <p class="service_list_img"><img src="./images/service/ico_service02.png" alt="よくあるご質問"></p>
                     <div class="service_list_cont hlg01">
                       <p class="service_list_txt">よくあるご質問</p>
-                    </div>
-                  </a>
-                </li>
-                <li>
-                  <a href="#">
-                    <p class="service_list_img"><img src="./images/service/ico_service03.png" alt="メールでのお問い合わせ"></p>
-                    <div class="service_list_cont hlg01">
-                      <p class="service_list_txt">メールでのお問い合わせ</p>
                     </div>
                   </a>
                 </li>
@@ -78,10 +70,18 @@
                   </a>
                 </li>
                 <li>
-                  <a href="./manual.php">
-                    <p class="service_list_img"><img src="./images/service/ico_service05.png" alt="取扱説明書・承認図のダウンロード"></p>
+                  <a href="./callcenter.php">
+                    <p class="service_list_img"><img src="./images/service/ico_service01.png" alt="コールセンター24時間・365日対応"></p>
                     <div class="service_list_cont hlg01">
-                      <p class="service_list_txt">取扱説明書・承認図の<br>ダウンロード</p>
+                      <p class="service_list_txt">コールセンター<br>24時間・365日対応</p>
+                    </div>
+                  </a>
+                </li>
+                <li>
+                  <a href="./contact.php">
+                    <p class="service_list_img"><img src="./images/service/ico_service03.png" alt="メールでのお問い合わせ"></p>
+                    <div class="service_list_cont hlg01">
+                      <p class="service_list_txt">メールでのお問い合わせ</p>
                     </div>
                   </a>
                 </li>

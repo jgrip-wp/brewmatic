@@ -231,6 +231,11 @@
   background: #fff;
   text-align: center;
   padding: 25px 20px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+  border-radius: 8px;
 }
 .ts_contract_tit {
   border-bottom: 1px #d3d3d3 solid;

@@ -1,0 +1,66 @@
+@charset "utf-8";
+
+.call_txt a {
+  color: #005bac;
+}
+.call_box {
+  margin-top: 80px;
+  border: 1px #dcdcdc solid;
+  padding: 90px 100px;
+}
+.call_box_in {
+  margin-top: 60px;
+  overflow: hidden;
+}
+.call_box_tit {
+  float: left;
+  font-weight: 500;
+  width: 170px;
+  font-size: 16px;
+  margin-right: 35px;
+}
+.call_box_in .ftbox {
+  border-left: 1px #dcdcdc solid;
+  padding-left: 50px;
+  color: #7b7b7b;
+  font-size: 13px;
+  font-weight: 500;
+}
+.call_box_tel {
+  font-weight: 700;
+  color: #005bac;
+  font-size: 42px;
+  line-height: 1;
+  margin-bottom: 20px;
+}
+
+@media screen and (max-width: 768px) {
+.call_box {
+  margin-top: 40px;
+  padding: 30px 20px;
+}
+.call_box_in {
+  margin-top: 30px;
+}
+.call_box_tit {
+  float: none;
+  width: auto;
+  margin: 0 0 20px;
+}
+.call_box_in .ftbox {
+  border-left: none;
+  border-top: 1px #dcdcdc solid;
+  padding: 20px 0 0;
+}
+.call_box_tel {
+  font-size: 32px;
+}
+}
+
+@media screen and (max-width: 1080px) {
+  
+}
+@media screen and (max-width: 768px) {
+  
+}
+
