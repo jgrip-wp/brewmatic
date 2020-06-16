@@ -65,14 +65,14 @@
               <table class="manual_box_tab">
                 <tr>
                   <th><p class="manual_box_arrow">C-22</p></th>
-                  <td><a href="#" class="manual_box_pdf">取扱説明書</a>　/　<a href="#" class="manual_box_pdf">承認図</a></td>
+                  <td><a href="#" class="manual_box_pdf">承認図</a></td>
                 </tr>
                 <tr>
                   <th><p class="manual_box_arrow">C-22 100V</p></th>
                   <td><a href="#" class="manual_box_pdf">承認図</a></td>
                 </tr>
                 <tr>
-                  <th><p class="manual_box_arrow">C-22 Thermo Brewer</p></th>
+                  <th><p class="manual_box_arrow">C-22 Thermo Brewer（C-22 サーモブルーワー）</p></th>
                   <td><a href="#" class="manual_box_pdf">承認図</a></td>
                 </tr>
               </table>
@@ -82,19 +82,19 @@
               <h3 class="manual_box_tit"><img src="./images/common/curtis_hd.png" alt=""></h3>
               <table class="manual_box_tab">
                 <tr>
-                  <th><p class="manual_box_arrow">G4 GemX Twin Brewer </p></th>
+                  <th><p class="manual_box_arrow">G4 GemX Twin Brewer（G4 ジェムクス ツイン ブルーワー） </p></th>
                   <td><a href="#" class="manual_box_pdf">承認図</a></td>
                 </tr>
                 <tr>
-                  <th><p class="manual_box_arrow">G4 Gemini Twin 1.5G Brewerm</p></th>
+                  <th><p class="manual_box_arrow">G4 Gemini Twin 1.5G Brewerm（G4 ジェミナイ ツイン 1.5G ブルーワー）</p></th>
                   <td><a href="#" class="manual_box_pdf">承認図</a></td>
                 </tr>
                 <tr>
-                  <th><p class="manual_box_arrow">G4 Gemini Single 1.5G Brewer</p></th>
+                  <th><p class="manual_box_arrow">G4 Gemini Single 1.5G Brewer（G4 ジェミナイ シングル 1.5G ブルーワー）</p></th>
                   <td><a href="#" class="manual_box_pdf">承認図</a></td>
                 </tr>
                 <tr>
-                  <th><p class="manual_box_arrow">ALPHA</p></th>
+                  <th><p class="manual_box_arrow">ALPHA（アルファ）</p></th>
                   <td><a href="#" class="manual_box_pdf">承認図</a></td>
                 </tr>
               </table>
@@ -103,8 +103,12 @@
             <div class="manual_box">
               <h3 class="manual_box_tit"><img src="./images/common/carimali_hd.png" alt=""></h3>
               <table class="manual_box_tab">
+              <tr>
+                  <th><p class="manual_box_arrow">HARMONY ULTRA（ハーモニー ウルトラ）</p></th>
+                  <td><a href="#" class="manual_box_pdf">承認図</a></td>
+                </tr>
                 <tr>
-                  <th><p class="manual_box_arrow">HARMONY SOFT</p></th>
+                  <th><p class="manual_box_arrow">HARMONY SOFT（ハーモニーソフト）</p></th>
                   <td><a href="#" class="manual_box_pdf">承認図</a></td>
                 </tr>
               </table>
