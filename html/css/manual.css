@@ -11,6 +11,7 @@
   width: 85%;
   border: 1px #c2c2c2 solid;
   outline: none;
+  vertical-align: bottom;
 }
 .service_search_input::-webkit-input-placeholder {
   color: #b7b7b7;
