@@ -43,10 +43,10 @@
                <li><a href="./endofsupport.php">サポート終了商品</a></li>
              </ul>
             <!-- /common_bnr -->
-            <p class="page_title_detail">安心も品質もワンストップで提供<br>ブルーマチックジャパンのテクニカルソリューション</p>
-            <p class="ts_det_txt">ブルーマチックジャパンでは、世界のプレミアムマシンをメーカーから直接輸入し、部品一つひとつまで安全性を徹底検証しています。<br>日本で最高のパフォーマンスが発揮できるよう日本仕様に調整したマシンをお届けします。</p>
-            <p class="ts_det_txt">アフターサポートも専門スタッフが責任をもって対応します。<br>業界No.1の応答率を誇るコールセンターと全国を網羅するメンテナンスネットワーク、充実の保守契約で、365日、マシンの品質と安全性を守ります。</p>
-            <div class="ts_det_link op">
+            <p class="page_title_detail">世界のプレミアムマシンを国内最高水準の技術と<br>業界トップクラスの安心で支えます</p>
+            <p class="ts_det_txt">世界中から輸入したプレミアムブランドのコーヒーマシンを徹底的に検証することで、高い品質と安全性をお届けしています。日本国内仕様に調整されたコーヒーマシンは、世界最高のパフォーマンスを発揮します。</p>
+            <p class="ts_det_txt">アフターサポートも専門スタッフが責任をもって対応します。<br>業界トップクラスの応答率を自負するコールセンターは高い専門知識を持ちあわせることで、安心をお届けします。また、全国を網羅するメンテナンスネットワークと充実した保守プランは、３６５日、コーヒーマシンの品質と安全性を担保します。</p>
+            <!-- <div class="ts_det_link op">
               <a href="#">
                 <p class="ts_det_img"><img src="./images/technicalsolution/img_technicalsolution01.jpg" alt=""></p>
                 <div class="ftbox">
@@ -55,70 +55,70 @@
                   <p class="ts_det_blue">選ばれる理由がわかるスペシャルムービはこちら</p>
                 </div>
               </a>
-            </div>
+            </div> -->
             <div class="ts_box">
-              <h3 class="ts_box_tit"><span class="fontamiri">1</span>正規輸入代理店だから、絶対の安全と最高品質をお届けします</h3>
+              <h3 class="ts_box_tit"><span class="fontamiri">1</span>品質に妥協をしないチャレンジを続ける力</h3>
               <div class="ts_box_cont">
                 <div class="ftbox">
-                  <p class="tit">スタンダードを超える品質基準</p>
-                  <p>経済産業省の基準を満たす厳格な自社基準を設定。<br>電気用品安全法（PSE）をはじめ、各種法令への適応はもちろん、<br class="visiblepc">有害な物質が含まれていないか部品一つひとつまで丁寧にチェック。<br>徹底した安全検証を行っています。</p>
+                  <p class="tit">日本国内で安心してお使いいただくために</p>
+                  <p>当社で扱うコーヒーマシンは電気用品安全法に定められた技術基準に対応するため第三社機関で検査を行い適合確認を実施しています。コーヒーマシンに使用されている部品の一つひとつにおいても有害物質が含まれていないか検査し食品衛生法に適合していることを確認しております。各種法令への適応はもちろん徹底した安全検証を行っています。</p>
                 </div>
                 <p class="frimg"><img src="./images/technicalsolution/img_technicalsolution02.jpg" alt="スタンダードを超える品質基準"></p>
               </div>
               <div class="ts_box_cont">
                 <div class="ftbox">
-                  <p class="tit">海外メーカーと連携し日本仕様にカスタマイズ</p>
-                  <p>海外メーカーの本社を訪問するなど、定期的にメーカーのテクニカルスタッフと情報共有を行っています。<br>密に連携することで、海外仕様のマシンを日本仕様にカスタマイズし、<br class="visiblepc">日本で最高のパフォーマンスを発揮できるよう調整したマシンをお届けします。</p>
+                  <p class="tit">メーカーと連携した活動で品質アップ</p>
+                  <p>海外メーカーの本社を訪問するなどテクニカルスタッフと情報交換、共有を図ることで更なる品質アップと次世代マシンの開発に役立てています。<br>日本で最高のパフォーマンスを発揮させるためのチャレンジが世界のスタンダードモデルとして発売されることにも貢献しています。</p>
                 </div>
                 <p class="frimg"><img src="./images/technicalsolution/img_technicalsolution03.jpg" alt="海外メーカーと連携し日本仕様にカスタマイズ"></p>
               </div>
               <div class="ts_box_cont">
                 <div class="ftbox">
-                  <p class="tit">全台通電検査の実施</p>
-                  <p>出荷前には全てのマシンを通電させ、水、コーヒー、牛乳を使用した動作確認を実施。細かいチェック項目をすべてパスしたマシンのみをお届けしています。</p>
+                  <p class="tit">全台自主検査を実施して安心をお届け</p>
+                  <p>コーヒーマシンは外観、通電、絶縁耐力試験、水漏れ検査に加え詳細に分けられた項目で点検を実施しています。さらにコーヒーや牛乳を使用して抽出調整したマシンをお届けしています。</p>
                 </div>
                 <p class="frimg"><img src="./images/technicalsolution/img_technicalsolution04.jpg" alt="全台通電検査の実施"></p>
               </div>
               <div class="ts_explain">
                 <div class="ftbox">
-                  <h4 class="ts_explain_tit"><span>だから選ばれる BRJメンテナンス品質</span>すべてのマシンで電気用品安全法（PSE）を取得</h4>
-                  <p>コーヒーマシンは水回りで使用する精密機器であり、安全性には万全を期す必要があります。<br>ブルーマチックジャパンでは、万一の火事や感電、火傷等の事故を防ぐため、<br class="visiblepc">全てのマシンで電気用品安全法（PSE）を取得。使う方の安心安全を守ります。</p>
+                  <h4 class="ts_explain_tit"><span>だから選ばれる ブルーマチック品質</span>安心には手間は惜しまない</h4>
+                  <p>当社独自の品質基準を定め検査ジグを作成して動作テストを行い最高の状態に調整した製品をお届けしています。<br>グラインダーでは納入後の安定稼働のためにコーヒー豆を使用した刃の慣らし挽きも行っています。</p>
                 </div>
                 <p class="flimg"><img src="images/technicalsolution/img_technicalsolution05.jpg" alt="だから選ばれる BRJメンテナンス品質すべてのマシンで電気用品安全法（PSE）を取得"></p>
               </div>
             </div>
             <!-- /ts_box -->
             <div class="ts_box">
-              <h3 class="ts_box_tit"><span class="fontamiri">2</span>業界最高水準のアフターサポートで365日の安心を約束</h3>
+              <h3 class="ts_box_tit"><span class="fontamiri">2</span>業界最高水準のアフターサポートで安心をお約束</h3>
               <div class="ts_box_cont">
                 <div class="ftbox">
-                  <p class="tit">業界NO.1の応答率を誇るコールセンター</p>
-                  <p>ご相談やお困りの時には、365日対応のコールセンターまでご連絡ください。お問い合わせ内容や修理履歴をシステムで管理し、いつでも的確なご案内ができる体制を整えています。</p>
-                  <p class="ts_box_link">コールセンターのご案内は<a href="#">こちら</a></p>
+                  <p class="tit">業界トップクラスの応答率を誇るコールセンター</p>
+                  <p>ご相談やお困りの時には、365日24時間対応のコールセンターまでご連絡ください。高い専門知識を持ち合わせたオペレーターが対応します。顧客管理システムによりお問い合わせ内容や設置環境、修理の履歴管理を行い、いつでも的確なご案内ができる体制を整えています。</p>
+                  <p class="ts_box_link">コールセンターのご案内は<a href="./service_callcenter/">こちら</a></p>
                 </div>
-                <p class="frimg"><img src="./images/technicalsolution/img_technicalsolution06.jpg" alt="業界NO.1の応答率を誇るコールセンター"></p>
+                <p class="frimg"><img src="./images/technicalsolution/img_technicalsolution06.jpg" alt="業界トップクラスの応答率を誇るコールセンター"></p>
               </div>
               <div class="ts_box_cont">
                 <div class="ftbox">
-                  <p class="tit">究極のメンテナンスサービスを全国で提供</p>
-                  <p>協力会社との連携により、日本全国、365日対応できる体制を構築。<br>信頼のメンテナンスネットワークで迅速に対応し、いつでもどこへでも、安心をお届けします。</p>
+                  <p class="tit">信頼のメンテナンスサービスを全国で提供</p>
+                  <p>協力会社との連携により、日本全国365日対応できる体制を構築。サービスマンは過去の訪問内容を確認し準備を整え訪問いたします。信頼のメンテナンスネットワークで迅速に対応し、いつでもどこへでも、安心をお届けします。</p>
                 </div>
-                <p class="frimg"><img src="./images/technicalsolution/img_technicalsolution07.jpg" alt="究極のメンテナンスサービスを全国で提供"></p>
+                <p class="frimg"><img src="./images/technicalsolution/img_technicalsolution07.jpg" alt="信頼のメンテナンスサービスを全国で提供"></p>
               </div>
               <div class="ts_explain">
                 <div class="ftbox">
-                  <h4 class="ts_explain_tit"><span>だから選ばれる BRJメンテナンス品質</span>自社倉庫に各種部品を常時ストック</h4>
-                  <p>ブルーマチックジャパンでは、自社倉庫に世界のメーカーから取り寄せた各種部品を常時ストックしています。一つひとつの部品をすぐに取り出せるようにブランドごとに細かく整理。<br>自社倉庫に用意してあるからこそ、週末でもスピーディーに対応でき、不具合を迅速に復旧、お客様ビジネスへの影響を最小限に抑えます。</p>
+                  <h4 class="ts_explain_tit"><span>だから選ばれる ブルーマチック品質</span>メンテナンスサービスを支える自社倉庫</h4>
+                  <p>3,300アイテムもの各種部品を常時ストックすることで、メンテナンスサービスをバックアップ。<br>一つひとつの部品をすぐに取り出せるようブランドごとに細かく整理。点検を終えたマシンも常時ストックしており短納期を実現しています。</p>
                 </div>
-                <p class="flimg"><img src="images/technicalsolution/img_technicalsolution08.jpg" alt="だから選ばれる BRJメンテナンス品質自社倉庫に各種部品を常時ストック"></p>
+                <p class="flimg"><img src="images/technicalsolution/img_technicalsolution08.jpg" alt="だから選ばれる ブルーマチック品質メンテナンスサービスを支える自社倉庫"></p>
               </div>
             </div>
             <!-- /ts_box -->
             <div class="ts_box">
-              <h3 class="ts_box_tit"><span class="fontamiri">3</span>BRJメンテナンス品質を支えるプロフェッショナルトレーニング</h3>
+              <h3 class="ts_box_tit"><span class="fontamiri">3</span>メンテナンスサービスを支えるプロフェッショナルトレーニング</h3>
               <div class="ts_box_cont">
                 <div class="ftbox">
-                  <p>全国どこでも安定したBRJメンテナンス品質を提供し、さらにスキルアップも図っていけるよう、専門のトレーナーによる技術指導を行っています。<br>自社のメンテナンススタッフやコールセンターのスタッフ、<br class="visiblepc">さらに全国の協力会社に対しても定期的なトレーニングを実施しています。</p>
+                  <p>技術指導トレーナーはクオリティの高い技術力を維持・向上させるために海外メーカーのトレーニングを受講しています。身に付けた最新の技術を全国のサービスマンへ定期的にトレーニングを行っています。</p>
                 </div>
                 <p class="frimg"><img src="./images/technicalsolution/img_technicalsolution09.jpg" alt="BRJメンテナンス品質を支えるプロフェッショナルトレーニング"></p>
               </div>
@@ -128,7 +128,7 @@
           <div class="ts_contract">
             <div class="inner">
               <h3 class="page_title_mid">メンテナンス保守契約のご案内</h3>
-              <p class="ts_contract_txt">いつでも安心してコーヒーマシンをお使いいただくため、業務用コーヒーマシン保守契約をお勧めしています。<br>ご契約期間中は、定期点検から修理対応まで、業界トップクラスのメンテナンスサービスを定額料金でお届けします。</p>
+              <p class="ts_contract_txt">いつでも安心してコーヒーマシンをお使いいただくために、業務用コーヒーマシンのリーディングカンパニーが提供する最高水準のメンテナンス品質と日本全国、365日対応可能なネットワークによる業界トップクラスの安心をご提供します。<br>ご契約期間中は、定期点検から修理対応までを定額料金でお届けします。</p>
               <ul class="ts_contract_list">
                 <li>
                   <div class="ts_contract_box">
