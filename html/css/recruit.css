@@ -1,0 +1,115 @@
+@charset "utf-8";
+
+.recruit_entry {
+  text-align: center;
+}
+.recruit_entry_down {
+  display: inline-block;
+  background: url("../images/recruit/down_recruit.png") right center no-repeat;
+  padding-right: 20px;
+  font-size: 16px;
+  font-weight: 500;
+}
+.recruit_entry a {
+  display: inline-block;
+  border: 1px #dcdcdc solid;
+  padding: 15px 30px;
+  margin-top: 20px;
+}
+
+.recruit_section {
+  margin-top: 100px;
+}
+.recruit_section+.recruit_section {
+  margin-top: 130px;
+}
+.recruit_section .page_title_mid {
+  margin-bottom: 70px;
+}
+.recruit_column {
+  margin-top: -50px;
+}
+.recruit_column li {
+  margin-top: 50px;
+}
+.recruit_column .column_box_det {
+  font-size: 20px;
+}
+@media screen and (max-width: 768px) {
+.recruit_section {
+  margin-top: 50px;
+}
+.recruit_section+.recruit_section {
+  margin-top: 50px;
+}
+.recruit_section .page_title_mid {
+  margin-bottom: 30px;
+}
+.recruit_column .column_box_det {
+  font-size: 18px;
+}
+}
+
+.recruit_benefits {
+  overflow: hidden;
+  margin: 60px 0 0 -40px;
+}
+.recruit_benefits li {
+  float: left;
+  width: 33.333%;
+  padding-left: 40px;
+  margin-top: 40px;
+}
+.recruit_benefits_box {
+  background: #f6f6f6;
+  padding: 30px 40px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  border-radius: 10px;
+}
+.recruit_benefits_ico {
+  text-align: center;
+}
+.recruit_benefits_tit {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 700;
+  margin: 15px 0;
+  padding-bottom: 10px;
+  border-bottom: 1px #d3d3d3 solid;
+}
+.recruit_benefits_txt {
+  line-height: 1.8;
+}
+.recruit_benefits_note {
+  text-indent: -1em;
+  padding-left: 1em;
+}
+
+
+@media screen and (max-width: 1080px) {
+.recruit_benefits {
+  margin: 40px 0 0 -20px;
+}
+.recruit_benefits li {
+  width: 50%;
+  padding-left: 20px;
+}
+}
+@media screen and (max-width: 768px) {
+.recruit_benefits {
+  margin: 30px 0 0 0;
+}
+.recruit_benefits li {
+  float: none;
+  width: auto;
+  padding-left: 0;
+  margin-top: 30px;
+}
+.recruit_benefits_box {
+  padding: 20px;
+}
+}
+

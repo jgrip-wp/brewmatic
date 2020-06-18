@@ -1159,6 +1159,9 @@ html,  html body {
   width: 33.3333%;
   padding-left: 12px;
 }
+.common_bnr.common_bnr_two li {
+  width: 50%;
+}
 .common_bnr li a {
   display: block;
   text-align: center;
@@ -1191,6 +1194,9 @@ html,  html body {
   float: none;
   width: auto;
   padding-left: 0;
+}
+.common_bnr.common_bnr_two li {
+  width: auto;
 }
 .common_bnr li a {
   font-size: 14px;
