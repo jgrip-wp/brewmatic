@@ -38,6 +38,8 @@
   color: #fff;
   border: 1px #1c1c1c solid;
   cursor: pointer;
+  -webkit-appearance: none;
+  -webkit-border-radius: 0;
 }
 .service_search_btn:hover {
   opacity: .7;
