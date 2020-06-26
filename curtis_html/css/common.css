@@ -7,6 +7,13 @@
   font-style: normal;
   src: url("./font/Impact 2.ttf") format("truetype");
 }
+@font-face {
+    font-family: 'impactregular';
+    src: url('./font/impact_2.woff2') format('woff2'),
+         url('./font/impact_2.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 
 
 /* !HTML5 elements
@@ -79,7 +86,7 @@ abbr, acronym {
 ---------------------------------------------------------- */
 
 .fontimpact {
-  font-family: 'Impact', sans-serif;
+  font-family: 'impactregular';
   letter-spacing: .03em;
 }
 
