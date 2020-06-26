@@ -660,7 +660,7 @@ html,  html body {
   display: block;
 }
 .page_fixed .page_fixed_red {
-  background: #d11300;
+  background: #005bac;
 }
 .page_fixed .page_fixed_brown {
   background: #005bac;
@@ -984,6 +984,7 @@ html,  html body {
 	border: 1px solid #1c1c1c;
 	cursor: pointer;
 	transition: all .5s ease;
+  -webkit-border-radius: 0;
 }
 .common_form .form_btn button:hover{
 	background: #fff;
